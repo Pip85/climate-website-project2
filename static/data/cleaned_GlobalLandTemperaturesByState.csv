@@ -1,0 +1,5764 @@
+"state","year","annual_avg_temp_c","annual_avg_temp_f"
+"Alabama",1900,17.06,62.71
+"Alabama",1901,15.92,60.66
+"Alabama",1902,17.08,62.75
+"Alabama",1903,16.25,61.26
+"Alabama",1904,16.70,62.05
+"Alabama",1905,16.63,61.93
+"Alabama",1906,16.99,62.59
+"Alabama",1907,17.34,63.21
+"Alabama",1908,17.50,63.50
+"Alabama",1909,17.30,63.14
+"Alabama",1910,16.72,62.09
+"Alabama",1911,18.22,64.79
+"Alabama",1912,16.45,61.61
+"Alabama",1913,17.24,63.03
+"Alabama",1914,16.80,62.25
+"Alabama",1915,17.07,62.73
+"Alabama",1916,17.17,62.90
+"Alabama",1917,16.20,61.16
+"Alabama",1918,17.28,63.11
+"Alabama",1919,17.49,63.48
+"Alabama",1920,16.52,61.73
+"Alabama",1921,18.40,65.12
+"Alabama",1922,18.07,64.53
+"Alabama",1923,17.15,62.88
+"Alabama",1924,16.42,61.56
+"Alabama",1925,17.95,64.32
+"Alabama",1926,16.86,62.34
+"Alabama",1927,18.28,64.91
+"Alabama",1928,16.64,61.96
+"Alabama",1929,17.12,62.81
+"Alabama",1930,17.10,62.78
+"Alabama",1931,17.61,63.70
+"Alabama",1932,17.64,63.75
+"Alabama",1933,18.20,64.75
+"Alabama",1934,17.34,63.21
+"Alabama",1935,17.38,63.29
+"Alabama",1936,17.48,63.46
+"Alabama",1937,17.24,63.04
+"Alabama",1938,17.96,64.33
+"Alabama",1939,17.68,63.82
+"Alabama",1940,16.17,61.11
+"Alabama",1941,17.53,63.56
+"Alabama",1942,16.93,62.48
+"Alabama",1943,17.30,63.14
+"Alabama",1944,17.50,63.50
+"Alabama",1945,17.62,63.72
+"Alabama",1946,17.82,64.07
+"Alabama",1947,16.98,62.57
+"Alabama",1948,17.52,63.53
+"Alabama",1949,18.01,64.43
+"Alabama",1950,17.39,63.31
+"Alabama",1951,17.70,63.85
+"Alabama",1952,17.56,63.61
+"Alabama",1953,17.77,63.99
+"Alabama",1954,17.99,64.39
+"Alabama",1955,17.61,63.70
+"Alabama",1956,17.72,63.89
+"Alabama",1957,17.90,64.23
+"Alabama",1958,16.44,61.59
+"Alabama",1959,17.38,63.29
+"Alabama",1960,16.61,61.90
+"Alabama",1961,16.85,62.33
+"Alabama",1962,17.43,63.37
+"Alabama",1963,16.73,62.11
+"Alabama",1964,17.13,62.83
+"Alabama",1965,17.46,63.43
+"Alabama",1966,16.76,62.16
+"Alabama",1967,16.94,62.49
+"Alabama",1968,16.46,61.62
+"Alabama",1969,16.66,61.99
+"Alabama",1970,17.08,62.75
+"Alabama",1971,17.43,63.37
+"Alabama",1972,17.54,63.58
+"Alabama",1973,17.57,63.63
+"Alabama",1974,17.58,63.65
+"Alabama",1975,17.46,63.43
+"Alabama",1976,16.30,61.34
+"Alabama",1977,17.31,63.15
+"Alabama",1978,16.93,62.48
+"Alabama",1979,16.66,61.98
+"Alabama",1980,17.29,63.12
+"Alabama",1981,17.03,62.65
+"Alabama",1982,17.73,63.91
+"Alabama",1983,16.52,61.73
+"Alabama",1984,17.40,63.32
+"Alabama",1985,17.44,63.39
+"Alabama",1986,18.13,64.64
+"Alabama",1987,17.49,63.48
+"Alabama",1988,16.97,62.54
+"Alabama",1989,17.04,62.68
+"Alabama",1990,18.54,65.37
+"Alabama",1991,18.04,64.47
+"Alabama",1992,17.04,62.67
+"Alabama",1993,17.13,62.83
+"Alabama",1994,17.52,63.53
+"Alabama",1995,17.54,63.57
+"Alabama",1996,17.07,62.72
+"Alabama",1997,17.25,63.06
+"Alabama",1998,18.79,65.82
+"Alabama",1999,18.27,64.89
+"Alabama",2000,17.91,64.24
+"Alabama",2001,17.68,63.82
+"Alabama",2002,18.02,64.44
+"Alabama",2003,17.51,63.52
+"Alabama",2004,17.84,64.11
+"Alabama",2005,17.86,64.14
+"Alabama",2006,18.30,64.93
+"Alabama",2007,18.42,65.16
+"Alabama",2008,17.57,63.63
+"Alabama",2009,17.61,63.69
+"Alabama",2010,17.46,63.43
+"Alabama",2011,18.12,64.62
+"Alabama",2012,18.73,65.72
+"Alaska",1900,-5.15,22.74
+"Alaska",1901,-5.89,21.41
+"Alaska",1902,-5.39,22.30
+"Alaska",1903,-5.65,21.83
+"Alaska",1904,-5.72,21.71
+"Alaska",1905,-4.03,24.75
+"Alaska",1906,-5.29,22.49
+"Alaska",1907,-5.58,21.95
+"Alaska",1908,-4.90,23.18
+"Alaska",1909,-6.47,20.35
+"Alaska",1910,-6.13,20.96
+"Alaska",1911,-5.06,22.89
+"Alaska",1912,-3.55,25.61
+"Alaska",1913,-4.85,23.27
+"Alaska",1914,-3.75,25.26
+"Alaska",1915,-4.02,24.76
+"Alaska",1916,-5.20,22.65
+"Alaska",1917,-6.07,21.08
+"Alaska",1918,-6.05,21.10
+"Alaska",1919,-4.96,23.08
+"Alaska",1920,-5.63,21.87
+"Alaska",1921,-4.74,23.47
+"Alaska",1922,-4.87,23.23
+"Alaska",1923,-3.84,25.09
+"Alaska",1924,-5.19,22.65
+"Alaska",1925,-4.73,23.49
+"Alaska",1926,-2.35,27.77
+"Alaska",1927,-5.56,21.99
+"Alaska",1928,-3.94,24.91
+"Alaska",1929,-3.62,25.49
+"Alaska",1930,-5.07,22.87
+"Alaska",1931,-4.40,24.08
+"Alaska",1932,-5.62,21.89
+"Alaska",1933,-6.20,20.84
+"Alaska",1934,-4.36,24.15
+"Alaska",1935,-4.80,23.35
+"Alaska",1936,-4.44,24.01
+"Alaska",1937,-4.03,24.74
+"Alaska",1938,-4.03,24.74
+"Alaska",1939,-5.31,22.45
+"Alaska",1940,-2.70,27.14
+"Alaska",1941,-3.96,24.87
+"Alaska",1942,-3.79,25.17
+"Alaska",1943,-3.91,24.96
+"Alaska",1944,-3.92,24.94
+"Alaska",1945,-5.00,23.00
+"Alaska",1946,-5.39,22.30
+"Alaska",1947,-4.56,23.80
+"Alaska",1948,-5.99,21.22
+"Alaska",1949,-4.78,23.39
+"Alaska",1950,-4.42,24.04
+"Alaska",1951,-5.08,22.85
+"Alaska",1952,-4.92,23.15
+"Alaska",1953,-4.59,23.75
+"Alaska",1954,-5.29,22.48
+"Alaska",1955,-6.15,20.92
+"Alaska",1956,-6.90,19.59
+"Alaska",1957,-3.42,25.84
+"Alaska",1958,-4.07,24.67
+"Alaska",1959,-5.47,22.15
+"Alaska",1960,-4.36,24.15
+"Alaska",1961,-5.91,21.37
+"Alaska",1962,-4.06,24.70
+"Alaska",1963,-4.28,24.30
+"Alaska",1964,-6.27,20.72
+"Alaska",1965,-5.35,22.37
+"Alaska",1966,-5.82,21.52
+"Alaska",1967,-4.00,24.79
+"Alaska",1968,-4.92,23.15
+"Alaska",1969,-4.09,24.64
+"Alaska",1970,-5.01,22.98
+"Alaska",1971,-6.62,20.09
+"Alaska",1972,-5.84,21.49
+"Alaska",1973,-5.30,22.47
+"Alaska",1974,-5.97,21.26
+"Alaska",1975,-6.16,20.92
+"Alaska",1976,-4.69,23.56
+"Alaska",1977,-3.97,24.85
+"Alaska",1978,-2.82,26.93
+"Alaska",1979,-3.50,25.69
+"Alaska",1980,-4.29,24.27
+"Alaska",1981,-2.72,27.10
+"Alaska",1982,-4.92,23.14
+"Alaska",1983,-4.12,24.58
+"Alaska",1984,-5.04,22.93
+"Alaska",1985,-4.46,23.98
+"Alaska",1986,-4.14,24.55
+"Alaska",1987,-3.67,25.39
+"Alaska",1988,-3.86,25.06
+"Alaska",1989,-4.04,24.73
+"Alaska",1990,-4.85,23.27
+"Alaska",1991,-4.00,24.80
+"Alaska",1992,-5.10,22.81
+"Alaska",1993,-2.46,27.56
+"Alaska",1994,-4.56,23.79
+"Alaska",1995,-3.56,25.59
+"Alaska",1996,-4.91,23.16
+"Alaska",1997,-3.30,26.06
+"Alaska",1998,-3.06,26.49
+"Alaska",1999,-5.63,21.87
+"Alaska",2000,-3.30,26.06
+"Alaska",2001,-3.73,25.29
+"Alaska",2002,-2.24,27.97
+"Alaska",2003,-2.80,26.95
+"Alaska",2004,-2.74,27.07
+"Alaska",2005,-2.81,26.95
+"Alaska",2006,-4.12,24.59
+"Alaska",2007,-3.25,26.15
+"Alaska",2008,-4.86,23.24
+"Alaska",2009,-3.98,24.84
+"Alaska",2010,-3.45,25.78
+"Alaska",2011,-3.79,25.17
+"Alaska",2012,-5.28,22.49
+"Arizona",1900,15.74,60.34
+"Arizona",1901,15.58,60.05
+"Arizona",1902,15.29,59.52
+"Arizona",1903,15.07,59.13
+"Arizona",1904,15.54,59.96
+"Arizona",1905,15.02,59.03
+"Arizona",1906,15.22,59.40
+"Arizona",1907,15.42,59.76
+"Arizona",1908,14.91,58.84
+"Arizona",1909,14.93,58.88
+"Arizona",1910,16.29,61.33
+"Arizona",1911,15.03,59.05
+"Arizona",1912,14.16,57.49
+"Arizona",1913,14.37,57.87
+"Arizona",1914,15.61,60.09
+"Arizona",1915,14.68,58.42
+"Arizona",1916,15.06,59.11
+"Arizona",1917,14.96,58.94
+"Arizona",1918,15.14,59.24
+"Arizona",1919,14.83,58.69
+"Arizona",1920,14.73,58.51
+"Arizona",1921,15.73,60.31
+"Arizona",1922,15.13,59.23
+"Arizona",1923,14.77,58.59
+"Arizona",1924,15.16,59.29
+"Arizona",1925,15.39,59.70
+"Arizona",1926,15.62,60.11
+"Arizona",1927,15.70,60.26
+"Arizona",1928,15.63,60.14
+"Arizona",1929,14.99,58.99
+"Arizona",1930,14.96,58.93
+"Arizona",1931,15.36,59.64
+"Arizona",1932,14.89,58.81
+"Arizona",1933,15.18,59.32
+"Arizona",1934,16.74,62.12
+"Arizona",1935,15.22,59.40
+"Arizona",1936,15.92,60.66
+"Arizona",1937,15.41,59.74
+"Arizona",1938,15.38,59.69
+"Arizona",1939,15.64,60.14
+"Arizona",1940,16.22,61.20
+"Arizona",1941,14.84,58.71
+"Arizona",1942,15.37,59.66
+"Arizona",1943,16.11,61.00
+"Arizona",1944,14.74,58.53
+"Arizona",1945,14.99,58.97
+"Arizona",1946,15.44,59.79
+"Arizona",1947,15.50,59.91
+"Arizona",1948,15.10,59.17
+"Arizona",1949,14.86,58.74
+"Arizona",1950,16.16,61.09
+"Arizona",1951,15.22,59.40
+"Arizona",1952,15.17,59.31
+"Arizona",1953,15.42,59.75
+"Arizona",1954,16.28,61.30
+"Arizona",1955,14.91,58.85
+"Arizona",1956,15.51,59.92
+"Arizona",1957,15.53,59.95
+"Arizona",1958,16.01,60.82
+"Arizona",1959,15.91,60.63
+"Arizona",1960,15.54,59.97
+"Arizona",1961,15.38,59.69
+"Arizona",1962,15.67,60.20
+"Arizona",1963,15.66,60.19
+"Arizona",1964,14.57,58.23
+"Arizona",1965,14.94,58.89
+"Arizona",1966,15.52,59.94
+"Arizona",1967,15.25,59.45
+"Arizona",1968,14.99,58.98
+"Arizona",1969,15.57,60.03
+"Arizona",1970,15.19,59.34
+"Arizona",1971,14.77,58.59
+"Arizona",1972,15.55,59.98
+"Arizona",1973,14.87,58.77
+"Arizona",1974,15.45,59.81
+"Arizona",1975,14.52,58.14
+"Arizona",1976,15.11,59.20
+"Arizona",1977,15.80,60.45
+"Arizona",1978,15.61,60.10
+"Arizona",1979,15.03,59.05
+"Arizona",1980,15.82,60.48
+"Arizona",1981,16.45,61.61
+"Arizona",1982,15.03,59.06
+"Arizona",1983,15.31,59.56
+"Arizona",1984,15.40,59.72
+"Arizona",1985,15.44,59.79
+"Arizona",1986,15.98,60.76
+"Arizona",1987,15.30,59.55
+"Arizona",1988,15.77,60.39
+"Arizona",1989,16.33,61.40
+"Arizona",1990,15.53,59.96
+"Arizona",1991,15.25,59.45
+"Arizona",1992,15.43,59.77
+"Arizona",1993,15.55,60.00
+"Arizona",1994,15.99,60.78
+"Arizona",1995,16.20,61.17
+"Arizona",1996,16.67,62.00
+"Arizona",1997,15.95,60.72
+"Arizona",1998,15.26,59.46
+"Arizona",1999,16.00,60.80
+"Arizona",2000,16.51,61.72
+"Arizona",2001,16.26,61.26
+"Arizona",2002,16.26,61.26
+"Arizona",2003,16.68,62.02
+"Arizona",2004,15.84,60.51
+"Arizona",2005,16.27,61.28
+"Arizona",2006,16.22,61.20
+"Arizona",2007,16.44,61.60
+"Arizona",2008,15.92,60.65
+"Arizona",2009,16.19,61.14
+"Arizona",2010,15.80,60.44
+"Arizona",2011,15.77,60.39
+"Arizona",2012,16.75,62.15
+"Arkansas",1900,15.89,60.61
+"Arkansas",1901,15.37,59.66
+"Arkansas",1902,15.26,59.46
+"Arkansas",1903,14.60,58.28
+"Arkansas",1904,15.13,59.24
+"Arkansas",1905,14.71,58.47
+"Arkansas",1906,15.09,59.16
+"Arkansas",1907,15.92,60.65
+"Arkansas",1908,16.05,60.89
+"Arkansas",1909,16.03,60.85
+"Arkansas",1910,15.44,59.79
+"Arkansas",1911,16.51,61.72
+"Arkansas",1912,14.55,58.20
+"Arkansas",1913,15.72,60.30
+"Arkansas",1914,15.61,60.09
+"Arkansas",1915,15.27,59.48
+"Arkansas",1916,15.83,60.49
+"Arkansas",1917,14.46,58.02
+"Arkansas",1918,15.73,60.32
+"Arkansas",1919,15.78,60.41
+"Arkansas",1920,15.23,59.41
+"Arkansas",1921,17.22,62.99
+"Arkansas",1922,16.30,61.34
+"Arkansas",1923,15.76,60.37
+"Arkansas",1924,14.80,58.64
+"Arkansas",1925,16.36,61.45
+"Arkansas",1926,15.51,59.92
+"Arkansas",1927,16.50,61.71
+"Arkansas",1928,15.49,59.88
+"Arkansas",1929,15.23,59.41
+"Arkansas",1930,15.85,60.53
+"Arkansas",1931,16.38,61.48
+"Arkansas",1932,16.11,61.00
+"Arkansas",1933,16.77,62.18
+"Arkansas",1934,16.55,61.79
+"Arkansas",1935,15.84,60.52
+"Arkansas",1936,16.06,60.90
+"Arkansas",1937,15.50,59.90
+"Arkansas",1938,16.96,62.52
+"Arkansas",1939,16.57,61.83
+"Arkansas",1940,14.70,58.46
+"Arkansas",1941,16.20,61.16
+"Arkansas",1942,15.64,60.16
+"Arkansas",1943,16.02,60.83
+"Arkansas",1944,16.08,60.95
+"Arkansas",1945,15.64,60.15
+"Arkansas",1946,16.63,61.93
+"Arkansas",1947,15.65,60.17
+"Arkansas",1948,15.56,60.01
+"Arkansas",1949,16.17,61.11
+"Arkansas",1950,15.52,59.93
+"Arkansas",1951,15.71,60.27
+"Arkansas",1952,16.27,61.29
+"Arkansas",1953,16.70,62.06
+"Arkansas",1954,17.22,62.99
+"Arkansas",1955,16.17,61.10
+"Arkansas",1956,16.50,61.69
+"Arkansas",1957,16.04,60.88
+"Arkansas",1958,15.04,59.08
+"Arkansas",1959,15.74,60.32
+"Arkansas",1960,15.13,59.24
+"Arkansas",1961,15.24,59.44
+"Arkansas",1962,15.90,60.62
+"Arkansas",1963,15.89,60.61
+"Arkansas",1964,16.09,60.96
+"Arkansas",1965,16.29,61.32
+"Arkansas",1966,15.28,59.50
+"Arkansas",1967,15.66,60.19
+"Arkansas",1968,15.01,59.03
+"Arkansas",1969,15.50,59.90
+"Arkansas",1970,15.61,60.11
+"Arkansas",1971,16.09,60.97
+"Arkansas",1972,15.83,60.49
+"Arkansas",1973,16.13,61.03
+"Arkansas",1974,15.94,60.69
+"Arkansas",1975,15.77,60.38
+"Arkansas",1976,15.11,59.19
+"Arkansas",1977,16.22,61.19
+"Arkansas",1978,15.18,59.33
+"Arkansas",1979,14.70,58.47
+"Arkansas",1980,16.11,60.99
+"Arkansas",1981,15.93,60.67
+"Arkansas",1982,15.80,60.44
+"Arkansas",1983,15.17,59.30
+"Arkansas",1984,15.86,60.55
+"Arkansas",1985,15.70,60.27
+"Arkansas",1986,16.66,61.99
+"Arkansas",1987,16.40,61.52
+"Arkansas",1988,15.73,60.31
+"Arkansas",1989,15.28,59.50
+"Arkansas",1990,16.87,62.37
+"Arkansas",1991,16.56,61.80
+"Arkansas",1992,15.80,60.44
+"Arkansas",1993,15.39,59.71
+"Arkansas",1994,16.01,60.83
+"Arkansas",1995,16.07,60.92
+"Arkansas",1996,15.57,60.02
+"Arkansas",1997,15.62,60.12
+"Arkansas",1998,17.49,63.48
+"Arkansas",1999,17.02,62.64
+"Arkansas",2000,16.36,61.45
+"Arkansas",2001,16.51,61.71
+"Arkansas",2002,16.20,61.16
+"Arkansas",2003,16.05,60.88
+"Arkansas",2004,16.40,61.52
+"Arkansas",2005,16.87,62.37
+"Arkansas",2006,16.95,62.51
+"Arkansas",2007,16.83,62.30
+"Arkansas",2008,15.76,60.37
+"Arkansas",2009,15.81,60.46
+"Arkansas",2010,16.47,61.65
+"Arkansas",2011,16.87,62.36
+"Arkansas",2012,17.83,64.09
+"California",1900,14.52,58.13
+"California",1901,14.31,57.75
+"California",1902,13.77,56.79
+"California",1903,13.91,57.05
+"California",1904,14.52,58.14
+"California",1905,14.13,57.44
+"California",1906,14.38,57.88
+"California",1907,14.04,57.27
+"California",1908,13.86,56.95
+"California",1909,13.76,56.77
+"California",1910,14.60,58.29
+"California",1911,13.35,56.03
+"California",1912,13.35,56.03
+"California",1913,13.74,56.73
+"California",1914,14.29,57.72
+"California",1915,14.01,57.22
+"California",1916,13.36,56.05
+"California",1917,13.94,57.10
+"California",1918,14.04,57.27
+"California",1919,13.72,56.69
+"California",1920,13.56,56.40
+"California",1921,14.28,57.70
+"California",1922,13.58,56.44
+"California",1923,13.76,56.77
+"California",1924,14.13,57.43
+"California",1925,14.19,57.54
+"California",1926,15.06,59.10
+"California",1927,14.05,57.30
+"California",1928,14.42,57.95
+"California",1929,14.20,57.57
+"California",1930,14.04,57.27
+"California",1931,14.79,58.63
+"California",1932,14.00,57.20
+"California",1933,13.93,57.07
+"California",1934,15.61,60.09
+"California",1935,14.02,57.23
+"California",1936,14.96,58.93
+"California",1937,14.20,57.55
+"California",1938,14.25,57.65
+"California",1939,14.81,58.65
+"California",1940,15.14,59.25
+"California",1941,14.23,57.62
+"California",1942,14.21,57.58
+"California",1943,14.67,58.41
+"California",1944,13.76,56.76
+"California",1945,14.17,57.51
+"California",1946,13.99,57.19
+"California",1947,14.47,58.04
+"California",1948,13.39,56.11
+"California",1949,13.77,56.78
+"California",1950,14.72,58.50
+"California",1951,14.22,57.60
+"California",1952,14.00,57.20
+"California",1953,14.24,57.62
+"California",1954,14.46,58.02
+"California",1955,13.69,56.64
+"California",1956,14.10,57.37
+"California",1957,14.20,57.57
+"California",1958,15.19,59.33
+"California",1959,15.16,59.28
+"California",1960,14.67,58.41
+"California",1961,14.55,58.19
+"California",1962,14.28,57.71
+"California",1963,14.17,57.51
+"California",1964,13.81,56.86
+"California",1965,13.92,57.06
+"California",1966,14.61,58.29
+"California",1967,14.38,57.89
+"California",1968,14.42,57.95
+"California",1969,14.34,57.82
+"California",1970,14.49,58.09
+"California",1971,13.64,56.55
+"California",1972,14.21,57.58
+"California",1973,14.25,57.64
+"California",1974,14.43,57.97
+"California",1975,13.68,56.63
+"California",1976,14.37,57.86
+"California",1977,14.65,58.37
+"California",1978,14.46,58.02
+"California",1979,14.47,58.04
+"California",1980,14.66,58.39
+"California",1981,15.32,59.57
+"California",1982,13.70,56.66
+"California",1983,14.42,57.96
+"California",1984,14.70,58.46
+"California",1985,14.18,57.53
+"California",1986,15.05,59.08
+"California",1987,14.74,58.53
+"California",1988,14.97,58.94
+"California",1989,14.60,58.29
+"California",1990,14.53,58.15
+"California",1991,14.56,58.20
+"California",1992,15.28,59.50
+"California",1993,14.41,57.93
+"California",1994,14.57,58.22
+"California",1995,15.09,59.17
+"California",1996,15.45,59.80
+"California",1997,15.20,59.36
+"California",1998,13.91,57.03
+"California",1999,14.54,58.16
+"California",2000,15.02,59.03
+"California",2001,15.17,59.31
+"California",2002,15.04,59.07
+"California",2003,15.39,59.70
+"California",2004,15.07,59.12
+"California",2005,14.92,58.86
+"California",2006,14.95,58.90
+"California",2007,15.06,59.11
+"California",2008,15.07,59.13
+"California",2009,15.00,59.01
+"California",2010,14.41,57.93
+"California",2011,14.27,57.68
+"California",2012,15.36,59.65
+"Colorado",1900,7.47,45.45
+"Colorado",1901,7.26,45.06
+"Colorado",1902,6.97,44.54
+"Colorado",1903,6.06,42.91
+"Colorado",1904,6.98,44.57
+"Colorado",1905,6.30,43.35
+"Colorado",1906,6.74,44.14
+"Colorado",1907,7.26,45.08
+"Colorado",1908,6.54,43.77
+"Colorado",1909,6.37,43.46
+"Colorado",1910,7.88,46.18
+"Colorado",1911,6.87,44.37
+"Colorado",1912,5.48,41.87
+"Colorado",1913,6.08,42.94
+"Colorado",1914,7.02,44.64
+"Colorado",1915,6.33,43.39
+"Colorado",1916,6.46,43.62
+"Colorado",1917,6.14,43.06
+"Colorado",1918,6.63,43.93
+"Colorado",1919,6.38,43.48
+"Colorado",1920,6.29,43.33
+"Colorado",1921,7.86,46.14
+"Colorado",1922,6.83,44.30
+"Colorado",1923,6.33,43.40
+"Colorado",1924,6.05,42.89
+"Colorado",1925,7.17,44.91
+"Colorado",1926,7.16,44.88
+"Colorado",1927,7.00,44.61
+"Colorado",1928,6.73,44.12
+"Colorado",1929,5.99,42.78
+"Colorado",1930,6.55,43.78
+"Colorado",1931,7.31,45.15
+"Colorado",1932,6.53,43.76
+"Colorado",1933,7.58,45.64
+"Colorado",1934,8.96,48.13
+"Colorado",1935,7.44,45.39
+"Colorado",1936,7.54,45.57
+"Colorado",1937,6.92,44.45
+"Colorado",1938,7.43,45.37
+"Colorado",1939,7.56,45.61
+"Colorado",1940,7.49,45.49
+"Colorado",1941,7.12,44.82
+"Colorado",1942,6.76,44.17
+"Colorado",1943,7.70,45.87
+"Colorado",1944,6.70,44.06
+"Colorado",1945,6.84,44.31
+"Colorado",1946,7.68,45.82
+"Colorado",1947,6.95,44.51
+"Colorado",1948,6.62,43.92
+"Colorado",1949,6.80,44.24
+"Colorado",1950,7.38,45.28
+"Colorado",1951,6.44,43.59
+"Colorado",1952,6.92,44.45
+"Colorado",1953,7.67,45.81
+"Colorado",1954,8.60,47.49
+"Colorado",1955,6.87,44.37
+"Colorado",1956,7.43,45.37
+"Colorado",1957,6.85,44.33
+"Colorado",1958,7.57,45.63
+"Colorado",1959,7.17,44.90
+"Colorado",1960,6.90,44.42
+"Colorado",1961,6.70,44.07
+"Colorado",1962,7.38,45.28
+"Colorado",1963,8.00,46.39
+"Colorado",1964,6.57,43.83
+"Colorado",1965,6.88,44.38
+"Colorado",1966,7.13,44.83
+"Colorado",1967,7.15,44.87
+"Colorado",1968,6.59,43.87
+"Colorado",1969,7.13,44.83
+"Colorado",1970,6.95,44.50
+"Colorado",1971,6.79,44.22
+"Colorado",1972,7.06,44.71
+"Colorado",1973,6.42,43.56
+"Colorado",1974,6.98,44.57
+"Colorado",1975,6.44,43.59
+"Colorado",1976,7.09,44.76
+"Colorado",1977,7.93,46.27
+"Colorado",1978,6.95,44.52
+"Colorado",1979,6.47,43.65
+"Colorado",1980,7.66,45.79
+"Colorado",1981,8.41,47.14
+"Colorado",1982,6.74,44.13
+"Colorado",1983,6.91,44.44
+"Colorado",1984,6.58,43.84
+"Colorado",1985,6.70,44.05
+"Colorado",1986,7.92,46.26
+"Colorado",1987,7.33,45.19
+"Colorado",1988,7.23,45.02
+"Colorado",1989,7.34,45.20
+"Colorado",1990,7.47,45.45
+"Colorado",1991,7.19,44.95
+"Colorado",1992,7.29,45.12
+"Colorado",1993,6.49,43.68
+"Colorado",1994,7.99,46.38
+"Colorado",1995,7.52,45.53
+"Colorado",1996,7.52,45.54
+"Colorado",1997,7.05,44.69
+"Colorado",1998,7.81,46.06
+"Colorado",1999,8.02,46.43
+"Colorado",2000,8.20,46.77
+"Colorado",2001,8.14,46.66
+"Colorado",2002,7.72,45.90
+"Colorado",2003,8.25,46.86
+"Colorado",2004,7.62,45.71
+"Colorado",2005,8.10,46.58
+"Colorado",2006,7.97,46.35
+"Colorado",2007,7.83,46.09
+"Colorado",2008,7.09,44.76
+"Colorado",2009,7.22,44.99
+"Colorado",2010,7.76,45.97
+"Colorado",2011,7.39,45.31
+"Colorado",2012,8.99,48.19
+"Connecticut",1900,9.76,49.57
+"Connecticut",1901,8.77,47.79
+"Connecticut",1902,9.03,48.26
+"Connecticut",1903,8.93,48.07
+"Connecticut",1904,7.48,45.47
+"Connecticut",1905,8.52,47.33
+"Connecticut",1906,9.32,48.77
+"Connecticut",1907,8.16,46.68
+"Connecticut",1908,9.49,49.08
+"Connecticut",1909,9.06,48.30
+"Connecticut",1910,9.20,48.56
+"Connecticut",1911,9.35,48.82
+"Connecticut",1912,8.85,47.93
+"Connecticut",1913,10.24,50.44
+"Connecticut",1914,8.65,47.56
+"Connecticut",1915,9.51,49.11
+"Connecticut",1916,8.64,47.54
+"Connecticut",1917,7.74,45.93
+"Connecticut",1918,8.87,47.97
+"Connecticut",1919,9.53,49.15
+"Connecticut",1920,8.77,47.78
+"Connecticut",1921,10.19,50.34
+"Connecticut",1922,9.43,48.97
+"Connecticut",1923,8.85,47.94
+"Connecticut",1924,8.56,47.41
+"Connecticut",1925,9.38,48.88
+"Connecticut",1926,8.14,46.65
+"Connecticut",1927,9.48,49.07
+"Connecticut",1928,9.43,48.97
+"Connecticut",1929,9.38,48.89
+"Connecticut",1930,9.85,49.72
+"Connecticut",1931,10.37,50.67
+"Connecticut",1932,9.90,49.82
+"Connecticut",1933,9.58,49.24
+"Connecticut",1934,8.93,48.07
+"Connecticut",1935,9.01,48.21
+"Connecticut",1936,9.25,48.65
+"Connecticut",1937,9.89,49.80
+"Connecticut",1938,10.01,50.02
+"Connecticut",1939,9.38,48.89
+"Connecticut",1940,8.24,46.83
+"Connecticut",1941,9.76,49.58
+"Connecticut",1942,9.58,49.24
+"Connecticut",1943,9.02,48.23
+"Connecticut",1944,9.52,49.13
+"Connecticut",1945,9.58,49.24
+"Connecticut",1946,9.96,49.92
+"Connecticut",1947,9.48,49.06
+"Connecticut",1948,9.30,48.74
+"Connecticut",1949,10.91,51.64
+"Connecticut",1950,9.40,48.92
+"Connecticut",1951,10.01,50.03
+"Connecticut",1952,10.22,50.40
+"Connecticut",1953,10.84,51.51
+"Connecticut",1954,9.81,49.65
+"Connecticut",1955,9.78,49.60
+"Connecticut",1956,9.19,48.54
+"Connecticut",1957,10.13,50.24
+"Connecticut",1958,8.79,47.82
+"Connecticut",1959,10.07,50.13
+"Connecticut",1960,9.45,49.01
+"Connecticut",1961,9.53,49.15
+"Connecticut",1962,8.74,47.73
+"Connecticut",1963,9.06,48.31
+"Connecticut",1964,9.44,48.99
+"Connecticut",1965,9.10,48.37
+"Connecticut",1966,9.34,48.81
+"Connecticut",1967,8.91,48.04
+"Connecticut",1968,9.25,48.65
+"Connecticut",1969,9.47,49.04
+"Connecticut",1970,9.32,48.78
+"Connecticut",1971,9.54,49.18
+"Connecticut",1972,8.99,48.19
+"Connecticut",1973,10.47,50.85
+"Connecticut",1974,9.58,49.25
+"Connecticut",1975,10.08,50.14
+"Connecticut",1976,9.23,48.61
+"Connecticut",1977,9.57,49.22
+"Connecticut",1978,8.73,47.72
+"Connecticut",1979,9.77,49.58
+"Connecticut",1980,9.27,48.68
+"Connecticut",1981,9.46,49.03
+"Connecticut",1982,9.31,48.75
+"Connecticut",1983,10.13,50.23
+"Connecticut",1984,9.91,49.84
+"Connecticut",1985,9.71,49.48
+"Connecticut",1986,9.61,49.31
+"Connecticut",1987,9.68,49.42
+"Connecticut",1988,9.48,49.07
+"Connecticut",1989,9.23,48.62
+"Connecticut",1990,10.83,51.50
+"Connecticut",1991,10.80,51.43
+"Connecticut",1992,9.05,48.29
+"Connecticut",1993,9.55,49.19
+"Connecticut",1994,9.62,49.32
+"Connecticut",1995,9.80,49.65
+"Connecticut",1996,9.37,48.86
+"Connecticut",1997,9.59,49.26
+"Connecticut",1998,11.12,52.01
+"Connecticut",1999,10.84,51.52
+"Connecticut",2000,9.58,49.25
+"Connecticut",2001,10.55,50.99
+"Connecticut",2002,10.72,51.30
+"Connecticut",2003,9.43,48.97
+"Connecticut",2004,9.71,49.47
+"Connecticut",2005,10.12,50.22
+"Connecticut",2006,11.03,51.85
+"Connecticut",2007,10.10,50.18
+"Connecticut",2008,10.33,50.59
+"Connecticut",2009,9.74,49.54
+"Connecticut",2010,11.06,51.90
+"Connecticut",2011,10.83,51.50
+"Connecticut",2012,11.63,52.94
+"Delaware",1900,12.69,54.84
+"Delaware",1901,11.42,52.55
+"Delaware",1902,11.78,53.20
+"Delaware",1903,11.65,52.97
+"Delaware",1904,10.37,50.66
+"Delaware",1905,11.36,52.44
+"Delaware",1906,12.29,54.13
+"Delaware",1907,10.88,51.59
+"Delaware",1908,12.15,53.86
+"Delaware",1909,11.89,53.41
+"Delaware",1910,11.81,53.26
+"Delaware",1911,12.35,54.23
+"Delaware",1912,11.60,52.88
+"Delaware",1913,13.03,55.45
+"Delaware",1914,11.57,52.82
+"Delaware",1915,12.08,53.74
+"Delaware",1916,11.54,52.77
+"Delaware",1917,10.65,51.18
+"Delaware",1918,11.75,53.15
+"Delaware",1919,12.38,54.28
+"Delaware",1920,11.52,52.73
+"Delaware",1921,13.20,55.76
+"Delaware",1922,12.40,54.32
+"Delaware",1923,12.06,53.70
+"Delaware",1924,11.17,52.11
+"Delaware",1925,12.22,54.00
+"Delaware",1926,11.12,52.01
+"Delaware",1927,12.01,53.62
+"Delaware",1928,11.88,53.38
+"Delaware",1929,12.26,54.06
+"Delaware",1930,12.48,54.46
+"Delaware",1931,13.21,55.78
+"Delaware",1932,12.75,54.95
+"Delaware",1933,12.67,54.81
+"Delaware",1934,11.82,53.28
+"Delaware",1935,11.76,53.17
+"Delaware",1936,12.10,53.78
+"Delaware",1937,12.46,54.42
+"Delaware",1938,12.76,54.97
+"Delaware",1939,12.65,54.77
+"Delaware",1940,10.92,51.66
+"Delaware",1941,12.50,54.50
+"Delaware",1942,12.44,54.39
+"Delaware",1943,12.03,53.65
+"Delaware",1944,12.21,53.98
+"Delaware",1945,12.39,54.31
+"Delaware",1946,12.93,55.28
+"Delaware",1947,12.14,53.86
+"Delaware",1948,12.13,53.83
+"Delaware",1949,13.56,56.41
+"Delaware",1950,12.13,53.83
+"Delaware",1951,12.63,54.74
+"Delaware",1952,12.79,55.02
+"Delaware",1953,13.30,55.93
+"Delaware",1954,12.69,54.85
+"Delaware",1955,12.46,54.42
+"Delaware",1956,12.24,54.04
+"Delaware",1957,12.82,55.07
+"Delaware",1958,11.38,52.48
+"Delaware",1959,13.03,55.45
+"Delaware",1960,11.99,53.59
+"Delaware",1961,12.21,53.97
+"Delaware",1962,11.55,52.79
+"Delaware",1963,11.64,52.95
+"Delaware",1964,12.27,54.09
+"Delaware",1965,11.99,53.58
+"Delaware",1966,11.89,53.40
+"Delaware",1967,11.50,52.70
+"Delaware",1968,12.18,53.93
+"Delaware",1969,11.97,53.55
+"Delaware",1970,12.17,53.90
+"Delaware",1971,12.45,54.40
+"Delaware",1972,11.88,53.38
+"Delaware",1973,13.11,55.60
+"Delaware",1974,12.52,54.54
+"Delaware",1975,12.78,55.01
+"Delaware",1976,11.97,53.54
+"Delaware",1977,12.47,54.44
+"Delaware",1978,11.55,52.79
+"Delaware",1979,12.11,53.80
+"Delaware",1980,12.21,53.97
+"Delaware",1981,12.03,53.66
+"Delaware",1982,12.14,53.85
+"Delaware",1983,12.69,54.85
+"Delaware",1984,12.51,54.52
+"Delaware",1985,12.85,55.13
+"Delaware",1986,12.66,54.79
+"Delaware",1987,12.56,54.60
+"Delaware",1988,11.98,53.57
+"Delaware",1989,12.11,53.81
+"Delaware",1990,13.72,56.70
+"Delaware",1991,13.64,56.55
+"Delaware",1992,11.98,53.57
+"Delaware",1993,12.48,54.47
+"Delaware",1994,12.49,54.48
+"Delaware",1995,12.58,54.64
+"Delaware",1996,11.96,53.52
+"Delaware",1997,12.44,54.39
+"Delaware",1998,13.89,57.00
+"Delaware",1999,13.33,55.99
+"Delaware",2000,12.35,54.23
+"Delaware",2001,13.10,55.58
+"Delaware",2002,13.63,56.53
+"Delaware",2003,12.11,53.81
+"Delaware",2004,12.72,54.90
+"Delaware",2005,12.75,54.95
+"Delaware",2006,13.67,56.60
+"Delaware",2007,13.01,55.42
+"Delaware",2008,13.05,55.49
+"Delaware",2009,12.54,54.57
+"Delaware",2010,13.31,55.96
+"Delaware",2011,13.69,56.64
+"Delaware",2012,14.09,57.36
+"District Of Columbia",1900,12.71,54.88
+"District Of Columbia",1901,11.32,52.38
+"District Of Columbia",1902,11.76,53.17
+"District Of Columbia",1903,11.57,52.83
+"District Of Columbia",1904,10.37,50.66
+"District Of Columbia",1905,11.49,52.68
+"District Of Columbia",1906,12.34,54.22
+"District Of Columbia",1907,10.87,51.57
+"District Of Columbia",1908,12.06,53.71
+"District Of Columbia",1909,11.93,53.48
+"District Of Columbia",1910,11.89,53.40
+"District Of Columbia",1911,12.53,54.55
+"District Of Columbia",1912,11.49,52.68
+"District Of Columbia",1913,12.98,55.37
+"District Of Columbia",1914,11.61,52.90
+"District Of Columbia",1915,11.92,53.45
+"District Of Columbia",1916,11.60,52.89
+"District Of Columbia",1917,10.55,50.99
+"District Of Columbia",1918,11.86,53.34
+"District Of Columbia",1919,12.37,54.26
+"District Of Columbia",1920,11.40,52.52
+"District Of Columbia",1921,13.37,56.06
+"District Of Columbia",1922,12.46,54.43
+"District Of Columbia",1923,12.17,53.91
+"District Of Columbia",1924,11.13,52.04
+"District Of Columbia",1925,12.13,53.83
+"District Of Columbia",1926,11.25,52.25
+"District Of Columbia",1927,12.15,53.86
+"District Of Columbia",1928,11.94,53.50
+"District Of Columbia",1929,12.13,53.84
+"District Of Columbia",1930,12.64,54.76
+"District Of Columbia",1931,13.26,55.87
+"District Of Columbia",1932,12.75,54.95
+"District Of Columbia",1933,12.60,54.67
+"District Of Columbia",1934,11.98,53.57
+"District Of Columbia",1935,11.81,53.25
+"District Of Columbia",1936,12.00,53.61
+"District Of Columbia",1937,12.23,54.01
+"District Of Columbia",1938,12.79,55.01
+"District Of Columbia",1939,12.75,54.96
+"District Of Columbia",1940,11.02,51.84
+"District Of Columbia",1941,12.58,54.65
+"District Of Columbia",1942,12.40,54.33
+"District Of Columbia",1943,12.24,54.04
+"District Of Columbia",1944,12.27,54.08
+"District Of Columbia",1945,12.31,54.16
+"District Of Columbia",1946,12.88,55.18
+"District Of Columbia",1947,12.06,53.70
+"District Of Columbia",1948,12.20,53.96
+"District Of Columbia",1949,13.37,56.06
+"District Of Columbia",1950,12.04,53.67
+"District Of Columbia",1951,12.37,54.27
+"District Of Columbia",1952,12.63,54.74
+"District Of Columbia",1953,13.29,55.93
+"District Of Columbia",1954,12.69,54.83
+"District Of Columbia",1955,12.48,54.47
+"District Of Columbia",1956,12.30,54.14
+"District Of Columbia",1957,12.74,54.93
+"District Of Columbia",1958,11.34,52.42
+"District Of Columbia",1959,13.06,55.51
+"District Of Columbia",1960,11.78,53.21
+"District Of Columbia",1961,12.11,53.79
+"District Of Columbia",1962,11.61,52.90
+"District Of Columbia",1963,11.57,52.83
+"District Of Columbia",1964,12.33,54.19
+"District Of Columbia",1965,12.18,53.92
+"District Of Columbia",1966,11.89,53.41
+"District Of Columbia",1967,11.60,52.88
+"District Of Columbia",1968,12.15,53.87
+"District Of Columbia",1969,11.98,53.57
+"District Of Columbia",1970,12.29,54.11
+"District Of Columbia",1971,12.43,54.38
+"District Of Columbia",1972,11.89,53.41
+"District Of Columbia",1973,13.04,55.47
+"District Of Columbia",1974,12.51,54.52
+"District Of Columbia",1975,12.67,54.80
+"District Of Columbia",1976,11.85,53.33
+"District Of Columbia",1977,12.34,54.22
+"District Of Columbia",1978,11.56,52.81
+"District Of Columbia",1979,11.88,53.38
+"District Of Columbia",1980,12.22,54.00
+"District Of Columbia",1981,12.00,53.60
+"District Of Columbia",1982,12.16,53.88
+"District Of Columbia",1983,12.48,54.46
+"District Of Columbia",1984,12.42,54.36
+"District Of Columbia",1985,12.79,55.02
+"District Of Columbia",1986,12.65,54.78
+"District Of Columbia",1987,12.78,55.00
+"District Of Columbia",1988,12.14,53.85
+"District Of Columbia",1989,11.92,53.46
+"District Of Columbia",1990,13.75,56.74
+"District Of Columbia",1991,13.76,56.77
+"District Of Columbia",1992,11.96,53.52
+"District Of Columbia",1993,12.39,54.30
+"District Of Columbia",1994,12.46,54.42
+"District Of Columbia",1995,12.55,54.60
+"District Of Columbia",1996,11.85,53.32
+"District Of Columbia",1997,12.36,54.24
+"District Of Columbia",1998,14.07,57.33
+"District Of Columbia",1999,13.19,55.74
+"District Of Columbia",2000,12.28,54.10
+"District Of Columbia",2001,12.99,55.39
+"District Of Columbia",2002,13.46,56.23
+"District Of Columbia",2003,12.07,53.73
+"District Of Columbia",2004,12.79,55.02
+"District Of Columbia",2005,12.82,55.07
+"District Of Columbia",2006,13.59,56.46
+"District Of Columbia",2007,13.13,55.64
+"District Of Columbia",2008,12.76,54.98
+"District Of Columbia",2009,12.44,54.39
+"District Of Columbia",2010,13.28,55.91
+"District Of Columbia",2011,13.56,56.40
+"District Of Columbia",2012,14.00,57.19
+"Florida",1900,21.34,70.42
+"Florida",1901,20.29,68.51
+"Florida",1902,21.39,70.50
+"Florida",1903,20.91,69.64
+"Florida",1904,21.06,69.90
+"Florida",1905,21.41,70.55
+"Florida",1906,21.27,70.28
+"Florida",1907,21.76,71.16
+"Florida",1908,21.69,71.05
+"Florida",1909,21.60,70.88
+"Florida",1910,20.62,69.12
+"Florida",1911,22.35,72.23
+"Florida",1912,21.63,70.93
+"Florida",1913,21.64,70.94
+"Florida",1914,21.17,70.11
+"Florida",1915,21.26,70.28
+"Florida",1916,21.56,70.81
+"Florida",1917,21.02,69.84
+"Florida",1918,21.61,70.89
+"Florida",1919,21.79,71.22
+"Florida",1920,20.95,69.70
+"Florida",1921,22.13,71.84
+"Florida",1922,22.15,71.87
+"Florida",1923,21.61,70.90
+"Florida",1924,21.25,70.25
+"Florida",1925,21.87,71.37
+"Florida",1926,21.26,70.26
+"Florida",1927,22.15,71.87
+"Florida",1928,21.19,70.14
+"Florida",1929,22.00,71.59
+"Florida",1930,21.22,70.19
+"Florida",1931,21.57,70.82
+"Florida",1932,22.21,71.98
+"Florida",1933,22.21,71.97
+"Florida",1934,21.62,70.92
+"Florida",1935,21.57,70.82
+"Florida",1936,21.72,71.09
+"Florida",1937,21.60,70.88
+"Florida",1938,21.80,71.24
+"Florida",1939,21.97,71.55
+"Florida",1940,20.68,69.22
+"Florida",1941,21.62,70.92
+"Florida",1942,21.36,70.45
+"Florida",1943,21.39,70.50
+"Florida",1944,21.74,71.13
+"Florida",1945,22.03,71.65
+"Florida",1946,22.35,72.23
+"Florida",1947,21.80,71.24
+"Florida",1948,22.51,72.53
+"Florida",1949,22.46,72.43
+"Florida",1950,21.75,71.15
+"Florida",1951,21.78,71.21
+"Florida",1952,21.74,71.13
+"Florida",1953,22.03,71.66
+"Florida",1954,21.66,70.98
+"Florida",1955,21.70,71.07
+"Florida",1956,21.59,70.87
+"Florida",1957,22.19,71.94
+"Florida",1958,21.10,69.98
+"Florida",1959,21.96,71.52
+"Florida",1960,21.25,70.25
+"Florida",1961,21.64,70.95
+"Florida",1962,21.54,70.77
+"Florida",1963,21.21,70.18
+"Florida",1964,21.68,71.03
+"Florida",1965,21.80,71.24
+"Florida",1966,21.16,70.08
+"Florida",1967,21.75,71.14
+"Florida",1968,20.90,69.63
+"Florida",1969,21.10,69.99
+"Florida",1970,21.33,70.39
+"Florida",1971,21.89,71.41
+"Florida",1972,22.20,71.97
+"Florida",1973,21.83,71.29
+"Florida",1974,22.14,71.86
+"Florida",1975,22.36,72.25
+"Florida",1976,21.15,70.07
+"Florida",1977,21.37,70.47
+"Florida",1978,21.55,70.79
+"Florida",1979,21.63,70.93
+"Florida",1980,21.67,71.01
+"Florida",1981,21.31,70.36
+"Florida",1982,22.50,72.51
+"Florida",1983,21.29,70.31
+"Florida",1984,21.65,70.97
+"Florida",1985,22.07,71.72
+"Florida",1986,22.44,72.38
+"Florida",1987,21.68,71.02
+"Florida",1988,21.44,70.59
+"Florida",1989,22.08,71.75
+"Florida",1990,22.90,73.22
+"Florida",1991,22.51,72.51
+"Florida",1992,21.69,71.04
+"Florida",1993,21.75,71.14
+"Florida",1994,22.41,72.35
+"Florida",1995,22.01,71.61
+"Florida",1996,21.55,70.79
+"Florida",1997,22.26,72.07
+"Florida",1998,22.96,73.32
+"Florida",1999,22.27,72.09
+"Florida",2000,21.95,71.51
+"Florida",2001,22.16,71.88
+"Florida",2002,22.43,72.38
+"Florida",2003,22.18,71.92
+"Florida",2004,22.14,71.85
+"Florida",2005,22.11,71.79
+"Florida",2006,22.39,72.31
+"Florida",2007,22.59,72.66
+"Florida",2008,22.11,71.79
+"Florida",2009,22.29,72.12
+"Florida",2010,21.28,70.31
+"Florida",2011,22.60,72.67
+"Florida",2012,22.68,72.83
+"Georgia (State)",1900,17.49,63.49
+"Georgia (State)",1901,16.27,61.29
+"Georgia (State)",1902,17.41,63.33
+"Georgia (State)",1903,16.81,62.26
+"Georgia (State)",1904,16.88,62.39
+"Georgia (State)",1905,17.22,63.00
+"Georgia (State)",1906,17.38,63.29
+"Georgia (State)",1907,17.71,63.88
+"Georgia (State)",1908,17.83,64.10
+"Georgia (State)",1909,17.64,63.76
+"Georgia (State)",1910,17.05,62.69
+"Georgia (State)",1911,18.52,65.34
+"Georgia (State)",1912,17.07,62.73
+"Georgia (State)",1913,17.66,63.79
+"Georgia (State)",1914,17.18,62.92
+"Georgia (State)",1915,17.48,63.46
+"Georgia (State)",1916,17.68,63.82
+"Georgia (State)",1917,16.78,62.20
+"Georgia (State)",1918,17.65,63.77
+"Georgia (State)",1919,18.00,64.40
+"Georgia (State)",1920,16.90,62.42
+"Georgia (State)",1921,18.60,65.48
+"Georgia (State)",1922,18.36,65.05
+"Georgia (State)",1923,17.66,63.79
+"Georgia (State)",1924,16.89,62.39
+"Georgia (State)",1925,18.32,64.98
+"Georgia (State)",1926,17.36,63.24
+"Georgia (State)",1927,18.57,65.43
+"Georgia (State)",1928,17.16,62.88
+"Georgia (State)",1929,17.70,63.86
+"Georgia (State)",1930,17.35,63.23
+"Georgia (State)",1931,18.11,64.60
+"Georgia (State)",1932,18.32,64.98
+"Georgia (State)",1933,18.58,65.44
+"Georgia (State)",1934,17.71,63.88
+"Georgia (State)",1935,17.85,64.13
+"Georgia (State)",1936,17.91,64.24
+"Georgia (State)",1937,17.64,63.75
+"Georgia (State)",1938,18.23,64.81
+"Georgia (State)",1939,18.22,64.80
+"Georgia (State)",1940,16.73,62.11
+"Georgia (State)",1941,17.93,64.27
+"Georgia (State)",1942,17.49,63.48
+"Georgia (State)",1943,17.63,63.74
+"Georgia (State)",1944,17.77,63.99
+"Georgia (State)",1945,18.09,64.56
+"Georgia (State)",1946,18.31,64.95
+"Georgia (State)",1947,17.45,63.41
+"Georgia (State)",1948,18.08,64.55
+"Georgia (State)",1949,18.46,65.22
+"Georgia (State)",1950,17.82,64.07
+"Georgia (State)",1951,18.00,64.40
+"Georgia (State)",1952,18.07,64.53
+"Georgia (State)",1953,18.14,64.64
+"Georgia (State)",1954,18.28,64.91
+"Georgia (State)",1955,17.91,64.24
+"Georgia (State)",1956,18.07,64.52
+"Georgia (State)",1957,18.27,64.88
+"Georgia (State)",1958,16.98,62.57
+"Georgia (State)",1959,17.95,64.30
+"Georgia (State)",1960,17.12,62.81
+"Georgia (State)",1961,17.45,63.41
+"Georgia (State)",1962,17.71,63.89
+"Georgia (State)",1963,17.05,62.69
+"Georgia (State)",1964,17.45,63.42
+"Georgia (State)",1965,17.78,64.00
+"Georgia (State)",1966,17.01,62.62
+"Georgia (State)",1967,17.40,63.32
+"Georgia (State)",1968,16.94,62.49
+"Georgia (State)",1969,16.98,62.56
+"Georgia (State)",1970,17.60,63.68
+"Georgia (State)",1971,17.88,64.18
+"Georgia (State)",1972,17.98,64.36
+"Georgia (State)",1973,17.94,64.29
+"Georgia (State)",1974,18.15,64.68
+"Georgia (State)",1975,18.08,64.55
+"Georgia (State)",1976,16.87,62.36
+"Georgia (State)",1977,17.63,63.73
+"Georgia (State)",1978,17.42,63.36
+"Georgia (State)",1979,17.26,63.07
+"Georgia (State)",1980,17.66,63.79
+"Georgia (State)",1981,17.29,63.12
+"Georgia (State)",1982,18.17,64.71
+"Georgia (State)",1983,17.06,62.72
+"Georgia (State)",1984,17.84,64.12
+"Georgia (State)",1985,18.11,64.59
+"Georgia (State)",1986,18.75,65.74
+"Georgia (State)",1987,17.79,64.02
+"Georgia (State)",1988,17.32,63.17
+"Georgia (State)",1989,17.77,63.98
+"Georgia (State)",1990,19.14,66.46
+"Georgia (State)",1991,18.51,65.32
+"Georgia (State)",1992,17.52,63.53
+"Georgia (State)",1993,17.77,63.99
+"Georgia (State)",1994,18.02,64.43
+"Georgia (State)",1995,17.98,64.36
+"Georgia (State)",1996,17.49,63.47
+"Georgia (State)",1997,17.81,64.05
+"Georgia (State)",1998,19.16,66.49
+"Georgia (State)",1999,18.50,65.31
+"Georgia (State)",2000,17.92,64.26
+"Georgia (State)",2001,18.23,64.81
+"Georgia (State)",2002,18.52,65.34
+"Georgia (State)",2003,17.97,64.34
+"Georgia (State)",2004,18.27,64.89
+"Georgia (State)",2005,18.17,64.71
+"Georgia (State)",2006,18.60,65.48
+"Georgia (State)",2007,18.75,65.75
+"Georgia (State)",2008,18.05,64.49
+"Georgia (State)",2009,18.04,64.46
+"Georgia (State)",2010,17.76,63.97
+"Georgia (State)",2011,18.72,65.70
+"Georgia (State)",2012,19.09,66.36
+"Hawaii",1900,22.43,72.37
+"Hawaii",1901,22.21,71.99
+"Hawaii",1902,21.84,71.31
+"Hawaii",1903,21.61,70.89
+"Hawaii",1904,22.02,71.64
+"Hawaii",1905,22.04,71.68
+"Hawaii",1906,22.35,72.22
+"Hawaii",1907,22.27,72.08
+"Hawaii",1908,21.78,71.21
+"Hawaii",1909,21.68,71.02
+"Hawaii",1910,21.61,70.91
+"Hawaii",1911,21.86,71.36
+"Hawaii",1912,22.02,71.64
+"Hawaii",1913,22.25,72.06
+"Hawaii",1914,21.98,71.57
+"Hawaii",1915,22.22,72.00
+"Hawaii",1916,22.05,71.69
+"Hawaii",1917,22.19,71.94
+"Hawaii",1918,22.07,71.73
+"Hawaii",1919,22.15,71.86
+"Hawaii",1920,22.22,72.00
+"Hawaii",1921,22.20,71.95
+"Hawaii",1922,22.10,71.78
+"Hawaii",1923,22.10,71.78
+"Hawaii",1924,22.03,71.66
+"Hawaii",1925,22.13,71.84
+"Hawaii",1926,22.44,72.40
+"Hawaii",1927,22.47,72.44
+"Hawaii",1928,22.31,72.16
+"Hawaii",1929,22.61,72.70
+"Hawaii",1930,22.47,72.45
+"Hawaii",1931,22.35,72.23
+"Hawaii",1932,22.16,71.88
+"Hawaii",1933,21.70,71.06
+"Hawaii",1934,22.62,72.71
+"Hawaii",1935,22.39,72.30
+"Hawaii",1936,22.28,72.10
+"Hawaii",1937,22.23,72.02
+"Hawaii",1938,22.67,72.80
+"Hawaii",1939,22.10,71.77
+"Hawaii",1940,22.99,73.39
+"Hawaii",1941,22.56,72.61
+"Hawaii",1942,22.60,72.68
+"Hawaii",1943,22.67,72.80
+"Hawaii",1944,22.29,72.13
+"Hawaii",1945,22.71,72.88
+"Hawaii",1946,22.48,72.47
+"Hawaii",1947,22.41,72.34
+"Hawaii",1948,22.29,72.12
+"Hawaii",1949,21.93,71.47
+"Hawaii",1950,22.37,72.27
+"Hawaii",1951,22.60,72.68
+"Hawaii",1952,22.03,71.66
+"Hawaii",1953,22.32,72.18
+"Hawaii",1954,22.50,72.50
+"Hawaii",1955,21.64,70.95
+"Hawaii",1956,22.25,72.05
+"Hawaii",1957,22.25,72.05
+"Hawaii",1958,22.14,71.85
+"Hawaii",1959,22.61,72.70
+"Hawaii",1960,22.49,72.48
+"Hawaii",1961,22.58,72.64
+"Hawaii",1962,22.36,72.25
+"Hawaii",1963,22.65,72.76
+"Hawaii",1964,22.43,72.37
+"Hawaii",1965,22.27,72.08
+"Hawaii",1966,22.52,72.53
+"Hawaii",1967,22.84,73.10
+"Hawaii",1968,23.20,73.76
+"Hawaii",1969,22.44,72.39
+"Hawaii",1970,22.46,72.43
+"Hawaii",1971,22.20,71.96
+"Hawaii",1972,22.23,72.01
+"Hawaii",1973,22.22,71.99
+"Hawaii",1974,22.77,72.98
+"Hawaii",1975,21.99,71.59
+"Hawaii",1976,22.14,71.85
+"Hawaii",1977,22.85,73.13
+"Hawaii",1978,22.85,73.13
+"Hawaii",1979,22.69,72.84
+"Hawaii",1980,23.03,73.45
+"Hawaii",1981,23.05,73.48
+"Hawaii",1982,22.74,72.93
+"Hawaii",1983,22.50,72.51
+"Hawaii",1984,23.14,73.65
+"Hawaii",1985,22.59,72.67
+"Hawaii",1986,23.47,74.24
+"Hawaii",1987,22.99,73.39
+"Hawaii",1988,23.31,73.97
+"Hawaii",1989,22.87,73.16
+"Hawaii",1990,22.99,73.39
+"Hawaii",1991,23.03,73.45
+"Hawaii",1992,23.18,73.72
+"Hawaii",1993,22.76,72.97
+"Hawaii",1994,23.04,73.48
+"Hawaii",1995,23.19,73.74
+"Hawaii",1996,23.38,74.09
+"Hawaii",1997,23.17,73.71
+"Hawaii",1998,22.57,72.63
+"Hawaii",1999,22.56,72.60
+"Hawaii",2000,22.94,73.29
+"Hawaii",2001,23.06,73.52
+"Hawaii",2002,23.11,73.59
+"Hawaii",2003,23.26,73.87
+"Hawaii",2004,23.43,74.18
+"Hawaii",2005,23.26,73.86
+"Hawaii",2006,23.03,73.46
+"Hawaii",2007,23.00,73.40
+"Hawaii",2008,22.75,72.96
+"Hawaii",2009,22.82,73.08
+"Hawaii",2010,22.76,72.97
+"Hawaii",2011,22.85,73.13
+"Hawaii",2012,22.65,72.77
+"Idaho",1900,6.28,43.30
+"Idaho",1901,5.92,42.65
+"Idaho",1902,5.18,41.32
+"Idaho",1903,4.68,40.42
+"Idaho",1904,5.84,42.51
+"Idaho",1905,5.26,41.47
+"Idaho",1906,5.53,41.96
+"Idaho",1907,5.41,41.74
+"Idaho",1908,5.12,41.22
+"Idaho",1909,5.12,41.21
+"Idaho",1910,5.93,42.68
+"Idaho",1911,4.36,39.85
+"Idaho",1912,4.53,40.16
+"Idaho",1913,4.58,40.25
+"Idaho",1914,5.65,42.17
+"Idaho",1915,5.73,42.32
+"Idaho",1916,4.10,39.38
+"Idaho",1917,4.94,40.89
+"Idaho",1918,5.68,42.23
+"Idaho",1919,5.13,41.24
+"Idaho",1920,4.94,40.90
+"Idaho",1921,5.82,42.47
+"Idaho",1922,4.50,40.10
+"Idaho",1923,5.02,41.03
+"Idaho",1924,5.01,41.02
+"Idaho",1925,6.25,43.24
+"Idaho",1926,6.35,43.43
+"Idaho",1927,5.18,41.32
+"Idaho",1928,5.40,41.72
+"Idaho",1929,4.61,40.29
+"Idaho",1930,5.06,41.10
+"Idaho",1931,5.66,42.19
+"Idaho",1932,4.66,40.39
+"Idaho",1933,5.51,41.91
+"Idaho",1934,7.88,46.18
+"Idaho",1935,5.16,41.28
+"Idaho",1936,5.73,42.31
+"Idaho",1937,5.19,41.35
+"Idaho",1938,5.96,42.72
+"Idaho",1939,6.37,43.47
+"Idaho",1940,6.85,44.32
+"Idaho",1941,6.14,43.04
+"Idaho",1942,5.02,41.04
+"Idaho",1943,5.54,41.97
+"Idaho",1944,5.03,41.06
+"Idaho",1945,5.40,41.72
+"Idaho",1946,5.60,42.09
+"Idaho",1947,5.86,42.55
+"Idaho",1948,4.85,40.72
+"Idaho",1949,5.11,41.19
+"Idaho",1950,5.33,41.60
+"Idaho",1951,4.85,40.74
+"Idaho",1952,5.20,41.36
+"Idaho",1953,6.48,43.66
+"Idaho",1954,5.92,42.65
+"Idaho",1955,4.35,39.82
+"Idaho",1956,5.30,41.54
+"Idaho",1957,5.28,41.50
+"Idaho",1958,6.63,43.94
+"Idaho",1959,5.61,42.09
+"Idaho",1960,5.45,41.81
+"Idaho",1961,6.13,43.03
+"Idaho",1962,5.52,41.94
+"Idaho",1963,6.08,42.95
+"Idaho",1964,4.55,40.19
+"Idaho",1965,5.49,41.88
+"Idaho",1966,6.02,42.83
+"Idaho",1967,6.13,43.04
+"Idaho",1968,5.44,41.79
+"Idaho",1969,5.61,42.10
+"Idaho",1970,5.52,41.94
+"Idaho",1971,5.14,41.25
+"Idaho",1972,5.34,41.61
+"Idaho",1973,5.73,42.31
+"Idaho",1974,5.91,42.64
+"Idaho",1975,4.83,40.69
+"Idaho",1976,5.45,41.82
+"Idaho",1977,5.86,42.54
+"Idaho",1978,5.43,41.78
+"Idaho",1979,5.47,41.85
+"Idaho",1980,5.92,42.65
+"Idaho",1981,6.59,43.86
+"Idaho",1982,4.70,40.45
+"Idaho",1983,5.69,42.24
+"Idaho",1984,4.56,40.21
+"Idaho",1985,3.95,39.11
+"Idaho",1986,6.29,43.32
+"Idaho",1987,6.47,43.64
+"Idaho",1988,6.34,43.41
+"Idaho",1989,5.56,42.00
+"Idaho",1990,5.93,42.68
+"Idaho",1991,5.81,42.47
+"Idaho",1992,6.75,44.15
+"Idaho",1993,4.49,40.08
+"Idaho",1994,6.42,43.56
+"Idaho",1995,6.03,42.85
+"Idaho",1996,5.74,42.33
+"Idaho",1997,5.82,42.47
+"Idaho",1998,6.43,43.58
+"Idaho",1999,6.09,42.96
+"Idaho",2000,6.24,43.23
+"Idaho",2001,6.43,43.57
+"Idaho",2002,5.78,42.40
+"Idaho",2003,7.07,44.72
+"Idaho",2004,6.39,43.50
+"Idaho",2005,6.06,42.91
+"Idaho",2006,6.43,43.58
+"Idaho",2007,6.74,44.13
+"Idaho",2008,5.51,41.92
+"Idaho",2009,5.66,42.20
+"Idaho",2010,5.92,42.66
+"Idaho",2011,5.43,41.77
+"Idaho",2012,6.96,44.52
+"Illinois",1900,11.42,52.56
+"Illinois",1901,10.73,51.32
+"Illinois",1902,10.62,51.11
+"Illinois",1903,10.31,50.55
+"Illinois",1904,9.59,49.26
+"Illinois",1905,10.35,50.63
+"Illinois",1906,10.99,51.78
+"Illinois",1907,10.47,50.84
+"Illinois",1908,11.51,52.72
+"Illinois",1909,10.74,51.34
+"Illinois",1910,10.72,51.30
+"Illinois",1911,11.71,53.08
+"Illinois",1912,9.87,49.76
+"Illinois",1913,11.74,53.13
+"Illinois",1914,11.27,52.29
+"Illinois",1915,10.70,51.27
+"Illinois",1916,10.79,51.43
+"Illinois",1917,9.21,48.58
+"Illinois",1918,10.93,51.67
+"Illinois",1919,11.33,52.40
+"Illinois",1920,10.60,51.09
+"Illinois",1921,12.96,55.33
+"Illinois",1922,11.83,53.30
+"Illinois",1923,11.12,52.01
+"Illinois",1924,9.74,49.53
+"Illinois",1925,11.14,52.04
+"Illinois",1926,10.38,50.68
+"Illinois",1927,11.28,52.30
+"Illinois",1928,10.96,51.72
+"Illinois",1929,10.08,50.15
+"Illinois",1930,11.57,52.83
+"Illinois",1931,12.89,55.19
+"Illinois",1932,11.29,52.32
+"Illinois",1933,12.13,53.84
+"Illinois",1934,11.92,53.45
+"Illinois",1935,10.83,51.49
+"Illinois",1936,11.17,52.10
+"Illinois",1937,10.51,50.93
+"Illinois",1938,12.41,54.35
+"Illinois",1939,12.01,53.62
+"Illinois",1940,10.46,50.83
+"Illinois",1941,12.11,53.80
+"Illinois",1942,11.17,52.11
+"Illinois",1943,10.75,51.34
+"Illinois",1944,11.51,52.73
+"Illinois",1945,10.64,51.15
+"Illinois",1946,12.30,54.13
+"Illinois",1947,10.93,51.68
+"Illinois",1948,11.16,52.09
+"Illinois",1949,11.75,53.15
+"Illinois",1950,10.21,50.38
+"Illinois",1951,10.24,50.43
+"Illinois",1952,11.76,53.17
+"Illinois",1953,12.35,54.23
+"Illinois",1954,12.35,54.23
+"Illinois",1955,11.66,52.99
+"Illinois",1956,11.76,53.17
+"Illinois",1957,11.35,52.42
+"Illinois",1958,10.40,50.73
+"Illinois",1959,11.34,52.40
+"Illinois",1960,10.52,50.94
+"Illinois",1961,10.95,51.71
+"Illinois",1962,10.83,51.49
+"Illinois",1963,10.74,51.34
+"Illinois",1964,11.73,53.11
+"Illinois",1965,11.40,52.52
+"Illinois",1966,10.68,51.22
+"Illinois",1967,10.69,51.24
+"Illinois",1968,11.02,51.83
+"Illinois",1969,10.62,51.11
+"Illinois",1970,11.05,51.90
+"Illinois",1971,11.56,52.82
+"Illinois",1972,10.55,50.98
+"Illinois",1973,12.07,53.73
+"Illinois",1974,11.25,52.25
+"Illinois",1975,11.50,52.70
+"Illinois",1976,10.63,51.13
+"Illinois",1977,11.24,52.23
+"Illinois",1978,10.15,50.27
+"Illinois",1979,10.06,50.10
+"Illinois",1980,11.11,52.00
+"Illinois",1981,11.38,52.48
+"Illinois",1982,10.75,51.35
+"Illinois",1983,11.44,52.59
+"Illinois",1984,11.35,52.42
+"Illinois",1985,10.68,51.23
+"Illinois",1986,11.85,53.32
+"Illinois",1987,12.56,54.60
+"Illinois",1988,11.47,52.65
+"Illinois",1989,10.51,50.91
+"Illinois",1990,12.30,54.13
+"Illinois",1991,12.36,54.25
+"Illinois",1992,11.37,52.47
+"Illinois",1993,10.79,51.42
+"Illinois",1994,11.41,52.54
+"Illinois",1995,11.20,52.17
+"Illinois",1996,10.39,50.70
+"Illinois",1997,10.90,51.62
+"Illinois",1998,13.23,55.81
+"Illinois",1999,12.33,54.20
+"Illinois",2000,11.58,52.85
+"Illinois",2001,12.22,54.00
+"Illinois",2002,12.11,53.80
+"Illinois",2003,11.29,52.33
+"Illinois",2004,11.76,53.17
+"Illinois",2005,12.35,54.24
+"Illinois",2006,12.58,54.64
+"Illinois",2007,12.37,54.27
+"Illinois",2008,10.84,51.52
+"Illinois",2009,11.13,52.03
+"Illinois",2010,12.00,53.60
+"Illinois",2011,12.11,53.80
+"Illinois",2012,13.52,56.34
+"Indiana",1900,11.45,52.60
+"Indiana",1901,10.40,50.71
+"Indiana",1902,10.68,51.22
+"Indiana",1903,10.30,50.54
+"Indiana",1904,9.51,49.12
+"Indiana",1905,10.38,50.69
+"Indiana",1906,11.07,51.92
+"Indiana",1907,10.27,50.48
+"Indiana",1908,11.56,52.81
+"Indiana",1909,10.76,51.38
+"Indiana",1910,10.59,51.05
+"Indiana",1911,11.69,53.05
+"Indiana",1912,9.88,49.79
+"Indiana",1913,11.78,53.20
+"Indiana",1914,11.09,51.97
+"Indiana",1915,10.70,51.26
+"Indiana",1916,10.83,51.50
+"Indiana",1917,9.15,48.46
+"Indiana",1918,10.90,51.62
+"Indiana",1919,11.46,52.63
+"Indiana",1920,10.45,50.82
+"Indiana",1921,12.95,55.31
+"Indiana",1922,11.88,53.39
+"Indiana",1923,11.09,51.97
+"Indiana",1924,9.78,49.60
+"Indiana",1925,11.17,52.11
+"Indiana",1926,10.33,50.59
+"Indiana",1927,11.40,52.52
+"Indiana",1928,10.71,51.27
+"Indiana",1929,10.26,50.46
+"Indiana",1930,11.47,52.65
+"Indiana",1931,12.68,54.82
+"Indiana",1932,11.38,52.49
+"Indiana",1933,12.09,53.76
+"Indiana",1934,11.61,52.89
+"Indiana",1935,10.87,51.56
+"Indiana",1936,11.12,52.01
+"Indiana",1937,10.58,51.04
+"Indiana",1938,12.23,54.02
+"Indiana",1939,11.87,53.37
+"Indiana",1940,10.36,50.64
+"Indiana",1941,11.95,53.52
+"Indiana",1942,11.17,52.10
+"Indiana",1943,10.76,51.37
+"Indiana",1944,11.58,52.84
+"Indiana",1945,10.75,51.36
+"Indiana",1946,12.24,54.04
+"Indiana",1947,10.75,51.36
+"Indiana",1948,11.21,52.17
+"Indiana",1949,12.06,53.70
+"Indiana",1950,10.39,50.71
+"Indiana",1951,10.59,51.07
+"Indiana",1952,11.80,53.24
+"Indiana",1953,12.30,54.14
+"Indiana",1954,12.18,53.92
+"Indiana",1955,11.65,52.98
+"Indiana",1956,11.65,52.97
+"Indiana",1957,11.37,52.46
+"Indiana",1958,10.22,50.39
+"Indiana",1959,11.60,52.88
+"Indiana",1960,10.56,51.01
+"Indiana",1961,10.98,51.77
+"Indiana",1962,10.80,51.44
+"Indiana",1963,10.37,50.67
+"Indiana",1964,11.61,52.90
+"Indiana",1965,11.39,52.50
+"Indiana",1966,10.62,51.12
+"Indiana",1967,10.68,51.22
+"Indiana",1968,10.93,51.68
+"Indiana",1969,10.63,51.14
+"Indiana",1970,11.11,52.00
+"Indiana",1971,11.44,52.60
+"Indiana",1972,10.63,51.14
+"Indiana",1973,12.13,53.84
+"Indiana",1974,11.23,52.22
+"Indiana",1975,11.60,52.89
+"Indiana",1976,10.51,50.91
+"Indiana",1977,11.13,52.04
+"Indiana",1978,10.05,50.09
+"Indiana",1979,10.12,50.22
+"Indiana",1980,10.84,51.51
+"Indiana",1981,11.00,51.79
+"Indiana",1982,10.92,51.65
+"Indiana",1983,11.52,52.74
+"Indiana",1984,11.27,52.28
+"Indiana",1985,11.08,51.94
+"Indiana",1986,11.84,53.31
+"Indiana",1987,12.32,54.18
+"Indiana",1988,11.29,52.32
+"Indiana",1989,10.58,51.04
+"Indiana",1990,12.32,54.17
+"Indiana",1991,12.52,54.53
+"Indiana",1992,11.21,52.17
+"Indiana",1993,10.94,51.69
+"Indiana",1994,11.35,52.43
+"Indiana",1995,11.28,52.30
+"Indiana",1996,10.53,50.96
+"Indiana",1997,10.81,51.46
+"Indiana",1998,13.24,55.84
+"Indiana",1999,12.31,54.15
+"Indiana",2000,11.42,52.55
+"Indiana",2001,12.27,54.08
+"Indiana",2002,12.25,54.05
+"Indiana",2003,11.15,52.07
+"Indiana",2004,11.77,53.19
+"Indiana",2005,12.11,53.80
+"Indiana",2006,12.42,54.35
+"Indiana",2007,12.36,54.25
+"Indiana",2008,11.10,51.98
+"Indiana",2009,11.21,52.17
+"Indiana",2010,11.99,53.58
+"Indiana",2011,12.18,53.92
+"Indiana",2012,13.32,55.97
+"Iowa",1900,9.32,48.78
+"Iowa",1901,9.07,48.32
+"Iowa",1902,8.36,47.05
+"Iowa",1903,8.09,46.57
+"Iowa",1904,7.62,45.72
+"Iowa",1905,8.16,46.68
+"Iowa",1906,8.83,47.90
+"Iowa",1907,8.24,46.83
+"Iowa",1908,9.34,48.81
+"Iowa",1909,8.24,46.83
+"Iowa",1910,8.96,48.13
+"Iowa",1911,9.39,48.91
+"Iowa",1912,7.65,45.77
+"Iowa",1913,9.52,49.14
+"Iowa",1914,9.24,48.63
+"Iowa",1915,8.47,47.25
+"Iowa",1916,8.18,46.73
+"Iowa",1917,6.86,44.35
+"Iowa",1918,9.22,48.60
+"Iowa",1919,8.87,47.97
+"Iowa",1920,8.64,47.55
+"Iowa",1921,10.79,51.43
+"Iowa",1922,9.66,49.38
+"Iowa",1923,9.06,48.31
+"Iowa",1924,7.49,45.49
+"Iowa",1925,8.84,47.92
+"Iowa",1926,8.59,47.46
+"Iowa",1927,8.85,47.94
+"Iowa",1928,9.22,48.59
+"Iowa",1929,7.56,45.60
+"Iowa",1930,9.62,49.32
+"Iowa",1931,11.31,52.35
+"Iowa",1932,8.56,47.40
+"Iowa",1933,9.93,49.87
+"Iowa",1934,10.33,50.59
+"Iowa",1935,8.76,47.77
+"Iowa",1936,8.71,47.68
+"Iowa",1937,8.22,46.79
+"Iowa",1938,10.26,50.48
+"Iowa",1939,10.24,50.43
+"Iowa",1940,8.46,47.23
+"Iowa",1941,10.22,50.40
+"Iowa",1942,9.05,48.29
+"Iowa",1943,8.48,47.26
+"Iowa",1944,9.32,48.77
+"Iowa",1945,8.44,47.20
+"Iowa",1946,10.08,50.15
+"Iowa",1947,9.08,48.35
+"Iowa",1948,9.21,48.57
+"Iowa",1949,9.38,48.89
+"Iowa",1950,7.66,45.79
+"Iowa",1951,7.42,45.35
+"Iowa",1952,9.34,48.81
+"Iowa",1953,10.07,50.12
+"Iowa",1954,10.14,50.25
+"Iowa",1955,9.40,48.91
+"Iowa",1956,9.50,49.10
+"Iowa",1957,9.18,48.52
+"Iowa",1958,8.82,47.88
+"Iowa",1959,8.83,47.90
+"Iowa",1960,8.38,47.08
+"Iowa",1961,8.73,47.72
+"Iowa",1962,8.60,47.47
+"Iowa",1963,9.27,48.68
+"Iowa",1964,9.68,49.43
+"Iowa",1965,8.71,47.68
+"Iowa",1966,8.55,47.38
+"Iowa",1967,8.69,47.64
+"Iowa",1968,9.22,48.60
+"Iowa",1969,8.37,47.06
+"Iowa",1970,8.86,47.95
+"Iowa",1971,9.14,48.45
+"Iowa",1972,8.09,46.56
+"Iowa",1973,9.86,49.75
+"Iowa",1974,9.23,48.61
+"Iowa",1975,9.09,48.36
+"Iowa",1976,9.09,48.36
+"Iowa",1977,9.63,49.33
+"Iowa",1978,7.93,46.28
+"Iowa",1979,7.80,46.04
+"Iowa",1980,9.42,48.96
+"Iowa",1981,9.96,49.92
+"Iowa",1982,8.35,47.03
+"Iowa",1983,9.19,48.53
+"Iowa",1984,9.26,48.67
+"Iowa",1985,8.24,46.83
+"Iowa",1986,9.72,49.49
+"Iowa",1987,11.13,52.03
+"Iowa",1988,9.80,49.64
+"Iowa",1989,8.60,47.48
+"Iowa",1990,10.23,50.41
+"Iowa",1991,9.80,49.65
+"Iowa",1992,9.37,48.87
+"Iowa",1993,8.16,46.69
+"Iowa",1994,9.17,48.50
+"Iowa",1995,9.05,48.29
+"Iowa",1996,7.88,46.18
+"Iowa",1997,9.00,48.20
+"Iowa",1998,11.05,51.90
+"Iowa",1999,10.42,50.75
+"Iowa",2000,9.81,49.66
+"Iowa",2001,10.06,50.11
+"Iowa",2002,10.08,50.15
+"Iowa",2003,9.45,49.02
+"Iowa",2004,9.75,49.55
+"Iowa",2005,10.37,50.67
+"Iowa",2006,10.80,51.44
+"Iowa",2007,10.01,50.02
+"Iowa",2008,8.36,47.04
+"Iowa",2009,8.80,47.83
+"Iowa",2010,9.65,49.36
+"Iowa",2011,9.72,49.50
+"Iowa",2012,11.74,53.14
+"Kansas",1900,12.76,54.98
+"Kansas",1901,12.49,54.47
+"Kansas",1902,11.85,53.32
+"Kansas",1903,11.33,52.39
+"Kansas",1904,11.85,53.32
+"Kansas",1905,11.45,52.62
+"Kansas",1906,11.89,53.41
+"Kansas",1907,12.20,53.97
+"Kansas",1908,12.65,54.77
+"Kansas",1909,11.92,53.45
+"Kansas",1910,12.78,55.00
+"Kansas",1911,12.84,55.11
+"Kansas",1912,11.05,51.89
+"Kansas",1913,12.44,54.39
+"Kansas",1914,12.71,54.88
+"Kansas",1915,11.48,52.67
+"Kansas",1916,11.79,53.22
+"Kansas",1917,11.26,52.27
+"Kansas",1918,12.39,54.31
+"Kansas",1919,11.68,53.02
+"Kansas",1920,11.93,53.47
+"Kansas",1921,13.73,56.72
+"Kansas",1922,12.71,54.88
+"Kansas",1923,12.23,54.02
+"Kansas",1924,11.18,52.13
+"Kansas",1925,12.69,54.84
+"Kansas",1926,12.40,54.32
+"Kansas",1927,12.26,54.07
+"Kansas",1928,12.36,54.24
+"Kansas",1929,11.33,52.40
+"Kansas",1930,12.57,54.63
+"Kansas",1931,13.59,56.47
+"Kansas",1932,12.07,53.72
+"Kansas",1933,13.78,56.80
+"Kansas",1934,14.22,57.60
+"Kansas",1935,12.72,54.89
+"Kansas",1936,12.92,55.26
+"Kansas",1937,12.03,53.66
+"Kansas",1938,13.77,56.78
+"Kansas",1939,13.73,56.71
+"Kansas",1940,12.03,53.66
+"Kansas",1941,12.90,55.22
+"Kansas",1942,12.26,54.06
+"Kansas",1943,12.55,54.59
+"Kansas",1944,12.32,54.18
+"Kansas",1945,12.07,53.73
+"Kansas",1946,13.78,56.80
+"Kansas",1947,12.43,54.38
+"Kansas",1948,12.13,53.83
+"Kansas",1949,12.11,53.79
+"Kansas",1950,11.88,53.38
+"Kansas",1951,11.27,52.29
+"Kansas",1952,12.79,55.03
+"Kansas",1953,13.64,56.55
+"Kansas",1954,14.18,57.52
+"Kansas",1955,12.71,54.88
+"Kansas",1956,13.45,56.21
+"Kansas",1957,12.24,54.03
+"Kansas",1958,12.00,53.61
+"Kansas",1959,12.23,54.01
+"Kansas",1960,11.71,53.07
+"Kansas",1961,11.71,53.07
+"Kansas",1962,12.62,54.72
+"Kansas",1963,13.46,56.23
+"Kansas",1964,12.89,55.20
+"Kansas",1965,12.66,54.79
+"Kansas",1966,12.16,53.88
+"Kansas",1967,12.37,54.27
+"Kansas",1968,12.18,53.93
+"Kansas",1969,12.02,53.64
+"Kansas",1970,12.49,54.47
+"Kansas",1971,12.40,54.32
+"Kansas",1972,12.03,53.65
+"Kansas",1973,12.46,54.42
+"Kansas",1974,12.69,54.85
+"Kansas",1975,12.32,54.17
+"Kansas",1976,12.60,54.68
+"Kansas",1977,13.31,55.97
+"Kansas",1978,11.75,53.15
+"Kansas",1979,11.52,52.74
+"Kansas",1980,13.06,55.51
+"Kansas",1981,13.38,56.09
+"Kansas",1982,11.91,53.44
+"Kansas",1983,12.03,53.65
+"Kansas",1984,12.44,54.39
+"Kansas",1985,11.65,52.96
+"Kansas",1986,13.67,56.61
+"Kansas",1987,13.29,55.93
+"Kansas",1988,12.87,55.17
+"Kansas",1989,12.02,53.63
+"Kansas",1990,13.32,55.97
+"Kansas",1991,13.42,56.16
+"Kansas",1992,12.57,54.63
+"Kansas",1993,11.37,52.47
+"Kansas",1994,13.01,55.42
+"Kansas",1995,12.47,54.45
+"Kansas",1996,11.98,53.56
+"Kansas",1997,12.33,54.19
+"Kansas",1998,13.79,56.81
+"Kansas",1999,13.61,56.51
+"Kansas",2000,13.34,56.02
+"Kansas",2001,13.54,56.36
+"Kansas",2002,13.17,55.70
+"Kansas",2003,13.07,55.53
+"Kansas",2004,13.07,55.52
+"Kansas",2005,13.52,56.33
+"Kansas",2006,14.07,57.33
+"Kansas",2007,13.08,55.55
+"Kansas",2008,12.26,54.07
+"Kansas",2009,12.29,54.13
+"Kansas",2010,13.23,55.82
+"Kansas",2011,13.20,55.75
+"Kansas",2012,14.84,58.71
+"Kentucky",1900,13.41,56.15
+"Kentucky",1901,12.08,53.75
+"Kentucky",1902,12.69,54.84
+"Kentucky",1903,12.39,54.31
+"Kentucky",1904,12.03,53.65
+"Kentucky",1905,12.47,54.45
+"Kentucky",1906,13.01,55.41
+"Kentucky",1907,12.65,54.78
+"Kentucky",1908,13.49,56.28
+"Kentucky",1909,12.98,55.36
+"Kentucky",1910,12.35,54.24
+"Kentucky",1911,13.86,56.95
+"Kentucky",1912,11.99,53.58
+"Kentucky",1913,13.76,56.77
+"Kentucky",1914,13.00,55.40
+"Kentucky",1915,12.87,55.17
+"Kentucky",1916,12.91,55.23
+"Kentucky",1917,11.38,52.49
+"Kentucky",1918,12.96,55.34
+"Kentucky",1919,13.59,56.46
+"Kentucky",1920,12.42,54.35
+"Kentucky",1921,14.71,58.49
+"Kentucky",1922,13.92,57.05
+"Kentucky",1923,13.22,55.79
+"Kentucky",1924,12.03,53.65
+"Kentucky",1925,13.51,56.31
+"Kentucky",1926,12.65,54.76
+"Kentucky",1927,13.60,56.49
+"Kentucky",1928,12.62,54.72
+"Kentucky",1929,12.70,54.85
+"Kentucky",1930,13.46,56.23
+"Kentucky",1931,14.25,57.64
+"Kentucky",1932,13.55,56.39
+"Kentucky",1933,14.03,57.26
+"Kentucky",1934,13.54,56.37
+"Kentucky",1935,13.09,55.57
+"Kentucky",1936,13.38,56.09
+"Kentucky",1937,12.79,55.02
+"Kentucky",1938,14.12,57.41
+"Kentucky",1939,13.82,56.88
+"Kentucky",1940,12.18,53.92
+"Kentucky",1941,13.75,56.76
+"Kentucky",1942,13.12,55.62
+"Kentucky",1943,13.06,55.50
+"Kentucky",1944,13.50,56.30
+"Kentucky",1945,13.09,55.56
+"Kentucky",1946,14.10,57.37
+"Kentucky",1947,12.73,54.92
+"Kentucky",1948,13.29,55.91
+"Kentucky",1949,14.03,57.26
+"Kentucky",1950,12.77,54.98
+"Kentucky",1951,12.99,55.38
+"Kentucky",1952,13.86,56.94
+"Kentucky",1953,14.19,57.54
+"Kentucky",1954,14.11,57.40
+"Kentucky",1955,13.61,56.50
+"Kentucky",1956,13.71,56.67
+"Kentucky",1957,13.72,56.70
+"Kentucky",1958,12.09,53.76
+"Kentucky",1959,13.62,56.52
+"Kentucky",1960,12.43,54.38
+"Kentucky",1961,12.87,55.16
+"Kentucky",1962,12.98,55.36
+"Kentucky",1963,12.41,54.34
+"Kentucky",1964,13.47,56.24
+"Kentucky",1965,13.47,56.25
+"Kentucky",1966,12.47,54.45
+"Kentucky",1967,12.79,55.03
+"Kentucky",1968,12.63,54.73
+"Kentucky",1969,12.58,54.65
+"Kentucky",1970,13.20,55.76
+"Kentucky",1971,13.42,56.16
+"Kentucky",1972,13.02,55.43
+"Kentucky",1973,13.90,57.01
+"Kentucky",1974,13.40,56.13
+"Kentucky",1975,13.60,56.48
+"Kentucky",1976,12.29,54.12
+"Kentucky",1977,13.07,55.52
+"Kentucky",1978,12.26,54.07
+"Kentucky",1979,12.28,54.11
+"Kentucky",1980,12.94,55.30
+"Kentucky",1981,12.84,55.11
+"Kentucky",1982,13.29,55.92
+"Kentucky",1983,13.18,55.72
+"Kentucky",1984,13.30,55.95
+"Kentucky",1985,13.13,55.64
+"Kentucky",1986,14.01,57.22
+"Kentucky",1987,14.01,57.21
+"Kentucky",1988,13.03,55.46
+"Kentucky",1989,12.74,54.94
+"Kentucky",1990,14.35,57.83
+"Kentucky",1991,14.42,57.95
+"Kentucky",1992,13.15,55.68
+"Kentucky",1993,13.09,55.55
+"Kentucky",1994,13.34,56.01
+"Kentucky",1995,13.30,55.94
+"Kentucky",1996,12.74,54.94
+"Kentucky",1997,12.88,55.18
+"Kentucky",1998,14.90,58.82
+"Kentucky",1999,14.33,57.79
+"Kentucky",2000,13.48,56.26
+"Kentucky",2001,14.02,57.23
+"Kentucky",2002,14.20,57.57
+"Kentucky",2003,13.30,55.94
+"Kentucky",2004,13.88,56.99
+"Kentucky",2005,14.10,57.37
+"Kentucky",2006,14.11,57.40
+"Kentucky",2007,14.57,58.22
+"Kentucky",2008,13.28,55.91
+"Kentucky",2009,13.33,55.99
+"Kentucky",2010,13.70,56.67
+"Kentucky",2011,14.21,57.59
+"Kentucky",2012,15.03,59.05
+"Louisiana",1900,19.02,66.24
+"Louisiana",1901,18.29,64.93
+"Louisiana",1902,19.00,66.19
+"Louisiana",1903,17.95,64.31
+"Louisiana",1904,18.83,65.89
+"Louisiana",1905,18.51,65.31
+"Louisiana",1906,18.86,65.95
+"Louisiana",1907,19.54,67.17
+"Louisiana",1908,19.40,66.92
+"Louisiana",1909,19.33,66.79
+"Louisiana",1910,18.98,66.17
+"Louisiana",1911,20.15,68.28
+"Louisiana",1912,18.26,64.87
+"Louisiana",1913,18.74,65.73
+"Louisiana",1914,18.62,65.52
+"Louisiana",1915,18.79,65.83
+"Louisiana",1916,19.14,66.45
+"Louisiana",1917,18.15,64.68
+"Louisiana",1918,19.15,66.48
+"Louisiana",1919,19.18,66.53
+"Louisiana",1920,18.64,65.56
+"Louisiana",1921,20.34,68.61
+"Louisiana",1922,19.78,67.61
+"Louisiana",1923,19.08,66.34
+"Louisiana",1924,18.66,65.58
+"Louisiana",1925,19.57,67.23
+"Louisiana",1926,18.95,66.10
+"Louisiana",1927,20.27,68.48
+"Louisiana",1928,18.80,65.84
+"Louisiana",1929,18.95,66.11
+"Louisiana",1930,19.02,66.24
+"Louisiana",1931,19.32,66.77
+"Louisiana",1932,19.41,66.93
+"Louisiana",1933,20.37,68.67
+"Louisiana",1934,19.63,67.33
+"Louisiana",1935,19.54,67.17
+"Louisiana",1936,19.10,66.39
+"Louisiana",1937,19.06,66.31
+"Louisiana",1938,19.80,67.64
+"Louisiana",1939,19.75,67.55
+"Louisiana",1940,18.20,64.77
+"Louisiana",1941,19.38,66.88
+"Louisiana",1942,18.90,66.01
+"Louisiana",1943,19.24,66.63
+"Louisiana",1944,19.60,67.27
+"Louisiana",1945,19.53,67.16
+"Louisiana",1946,19.78,67.60
+"Louisiana",1947,19.03,66.25
+"Louisiana",1948,19.39,66.91
+"Louisiana",1949,19.86,67.74
+"Louisiana",1950,19.56,67.21
+"Louisiana",1951,19.64,67.35
+"Louisiana",1952,19.30,66.74
+"Louisiana",1953,19.74,67.54
+"Louisiana",1954,19.99,67.98
+"Louisiana",1955,19.64,67.34
+"Louisiana",1956,19.78,67.61
+"Louisiana",1957,19.77,67.58
+"Louisiana",1958,18.60,65.48
+"Louisiana",1959,19.06,66.30
+"Louisiana",1960,18.69,65.64
+"Louisiana",1961,18.70,65.67
+"Louisiana",1962,19.47,67.05
+"Louisiana",1963,19.12,66.42
+"Louisiana",1964,19.23,66.61
+"Louisiana",1965,19.66,67.39
+"Louisiana",1966,18.71,65.68
+"Louisiana",1967,19.09,66.36
+"Louisiana",1968,18.33,65.00
+"Louisiana",1969,19.02,66.23
+"Louisiana",1970,18.90,66.02
+"Louisiana",1971,19.54,67.16
+"Louisiana",1972,19.51,67.12
+"Louisiana",1973,19.38,66.88
+"Louisiana",1974,19.55,67.19
+"Louisiana",1975,19.29,66.72
+"Louisiana",1976,18.33,65.00
+"Louisiana",1977,19.31,66.76
+"Louisiana",1978,18.79,65.82
+"Louisiana",1979,18.45,65.22
+"Louisiana",1980,19.31,66.76
+"Louisiana",1981,19.33,66.79
+"Louisiana",1982,19.59,67.27
+"Louisiana",1983,18.35,65.03
+"Louisiana",1984,19.37,66.87
+"Louisiana",1985,19.39,66.91
+"Louisiana",1986,19.93,67.87
+"Louisiana",1987,19.22,66.59
+"Louisiana",1988,19.01,66.21
+"Louisiana",1989,18.87,65.97
+"Louisiana",1990,20.17,68.30
+"Louisiana",1991,19.67,67.40
+"Louisiana",1992,19.11,66.40
+"Louisiana",1993,18.96,66.13
+"Louisiana",1994,19.47,67.04
+"Louisiana",1995,19.66,67.39
+"Louisiana",1996,19.30,66.74
+"Louisiana",1997,19.22,66.60
+"Louisiana",1998,20.64,69.16
+"Louisiana",1999,20.25,68.45
+"Louisiana",2000,19.91,67.84
+"Louisiana",2001,19.63,67.33
+"Louisiana",2002,19.67,67.40
+"Louisiana",2003,19.51,67.13
+"Louisiana",2004,19.89,67.79
+"Louisiana",2005,20.08,68.14
+"Louisiana",2006,20.23,68.41
+"Louisiana",2007,20.02,68.04
+"Louisiana",2008,19.62,67.32
+"Louisiana",2009,19.73,67.52
+"Louisiana",2010,19.48,67.06
+"Louisiana",2011,20.21,68.38
+"Louisiana",2012,20.77,69.38
+"Maine",1900,4.68,40.42
+"Maine",1901,4.71,40.47
+"Maine",1902,4.72,40.50
+"Maine",1903,4.59,40.26
+"Maine",1904,3.02,37.43
+"Maine",1905,3.79,38.81
+"Maine",1906,4.47,40.04
+"Maine",1907,3.54,38.37
+"Maine",1908,4.69,40.44
+"Maine",1909,4.54,40.18
+"Maine",1910,4.87,40.77
+"Maine",1911,4.55,40.20
+"Maine",1912,3.92,39.05
+"Maine",1913,5.32,41.57
+"Maine",1914,3.59,38.47
+"Maine",1915,5.30,41.54
+"Maine",1916,4.45,40.01
+"Maine",1917,3.13,37.64
+"Maine",1918,3.95,39.11
+"Maine",1919,4.70,40.47
+"Maine",1920,4.44,39.99
+"Maine",1921,5.37,41.67
+"Maine",1922,4.55,40.19
+"Maine",1923,3.75,38.76
+"Maine",1924,4.10,39.39
+"Maine",1925,4.26,39.67
+"Maine",1926,3.32,37.97
+"Maine",1927,5.04,41.07
+"Maine",1928,4.52,40.14
+"Maine",1929,4.40,39.93
+"Maine",1930,5.20,41.36
+"Maine",1931,5.91,42.64
+"Maine",1932,5.25,41.45
+"Maine",1933,4.59,40.27
+"Maine",1934,4.02,39.23
+"Maine",1935,4.21,39.58
+"Maine",1936,4.36,39.85
+"Maine",1937,5.75,42.34
+"Maine",1938,5.29,41.52
+"Maine",1939,4.28,39.70
+"Maine",1940,4.11,39.40
+"Maine",1941,4.99,40.99
+"Maine",1942,5.12,41.21
+"Maine",1943,4.02,39.24
+"Maine",1944,5.01,41.02
+"Maine",1945,5.03,41.06
+"Maine",1946,5.16,41.29
+"Maine",1947,5.16,41.29
+"Maine",1948,4.71,40.48
+"Maine",1949,5.95,42.71
+"Maine",1950,4.98,40.96
+"Maine",1951,5.46,41.82
+"Maine",1952,5.79,42.42
+"Maine",1953,6.46,43.62
+"Maine",1954,5.00,41.00
+"Maine",1955,4.95,40.91
+"Maine",1956,4.34,39.81
+"Maine",1957,5.27,41.48
+"Maine",1958,4.50,40.11
+"Maine",1959,5.05,41.08
+"Maine",1960,5.36,41.65
+"Maine",1961,5.07,41.13
+"Maine",1962,4.18,39.52
+"Maine",1963,4.45,40.02
+"Maine",1964,4.78,40.60
+"Maine",1965,4.29,39.72
+"Maine",1966,5.30,41.54
+"Maine",1967,4.38,39.88
+"Maine",1968,4.60,40.28
+"Maine",1969,5.25,41.44
+"Maine",1970,4.71,40.48
+"Maine",1971,4.71,40.48
+"Maine",1972,3.90,39.01
+"Maine",1973,5.87,42.57
+"Maine",1974,4.49,40.07
+"Maine",1975,5.15,41.27
+"Maine",1976,4.42,39.95
+"Maine",1977,4.93,40.88
+"Maine",1978,4.25,39.65
+"Maine",1979,5.61,42.10
+"Maine",1980,4.34,39.82
+"Maine",1981,5.57,42.03
+"Maine",1982,4.57,40.22
+"Maine",1983,5.75,42.34
+"Maine",1984,5.37,41.67
+"Maine",1985,4.56,40.21
+"Maine",1986,4.63,40.33
+"Maine",1987,5.17,41.30
+"Maine",1988,5.08,41.15
+"Maine",1989,4.23,39.61
+"Maine",1990,5.94,42.69
+"Maine",1991,5.57,42.02
+"Maine",1992,4.46,40.03
+"Maine",1993,4.60,40.28
+"Maine",1994,4.88,40.78
+"Maine",1995,5.19,41.34
+"Maine",1996,5.16,41.28
+"Maine",1997,4.57,40.22
+"Maine",1998,6.56,43.81
+"Maine",1999,6.75,44.15
+"Maine",2000,5.21,41.38
+"Maine",2001,6.13,43.04
+"Maine",2002,5.63,42.13
+"Maine",2003,4.91,40.84
+"Maine",2004,4.84,40.71
+"Maine",2005,5.66,42.18
+"Maine",2006,6.80,44.25
+"Maine",2007,5.08,41.15
+"Maine",2008,5.56,42.01
+"Maine",2009,5.17,41.30
+"Maine",2010,7.18,44.93
+"Maine",2011,6.23,43.21
+"Maine",2012,6.81,44.26
+"Maryland",1900,12.90,55.21
+"Maryland",1901,11.55,52.79
+"Maryland",1902,11.96,53.54
+"Maryland",1903,11.80,53.25
+"Maryland",1904,10.66,51.19
+"Maryland",1905,11.68,53.03
+"Maryland",1906,12.54,54.56
+"Maryland",1907,11.19,52.13
+"Maryland",1908,12.30,54.14
+"Maryland",1909,12.14,53.85
+"Maryland",1910,12.05,53.69
+"Maryland",1911,12.73,54.92
+"Maryland",1912,11.77,53.19
+"Maryland",1913,13.17,55.70
+"Maryland",1914,11.81,53.26
+"Maryland",1915,12.14,53.85
+"Maryland",1916,11.87,53.37
+"Maryland",1917,10.80,51.45
+"Maryland",1918,12.05,53.69
+"Maryland",1919,12.58,54.64
+"Maryland",1920,11.63,52.94
+"Maryland",1921,13.57,56.42
+"Maryland",1922,12.67,54.81
+"Maryland",1923,12.33,54.20
+"Maryland",1924,11.35,52.42
+"Maryland",1925,12.40,54.32
+"Maryland",1926,11.52,52.74
+"Maryland",1927,12.36,54.24
+"Maryland",1928,12.14,53.84
+"Maryland",1929,12.40,54.31
+"Maryland",1930,12.78,55.00
+"Maryland",1931,13.39,56.11
+"Maryland",1932,12.99,55.38
+"Maryland",1933,12.90,55.22
+"Maryland",1934,12.22,53.99
+"Maryland",1935,12.03,53.65
+"Maryland",1936,12.26,54.07
+"Maryland",1937,12.45,54.40
+"Maryland",1938,13.00,55.41
+"Maryland",1939,13.00,55.40
+"Maryland",1940,11.26,52.27
+"Maryland",1941,12.75,54.95
+"Maryland",1942,12.63,54.73
+"Maryland",1943,12.42,54.35
+"Maryland",1944,12.47,54.45
+"Maryland",1945,12.59,54.66
+"Maryland",1946,13.09,55.56
+"Maryland",1947,12.27,54.08
+"Maryland",1948,12.44,54.39
+"Maryland",1949,13.61,56.50
+"Maryland",1950,12.30,54.14
+"Maryland",1951,12.64,54.75
+"Maryland",1952,12.89,55.20
+"Maryland",1953,13.50,56.31
+"Maryland",1954,12.90,55.22
+"Maryland",1955,12.65,54.78
+"Maryland",1956,12.55,54.59
+"Maryland",1957,12.97,55.35
+"Maryland",1958,11.53,52.76
+"Maryland",1959,13.24,55.84
+"Maryland",1960,12.00,53.61
+"Maryland",1961,12.34,54.21
+"Maryland",1962,11.81,53.26
+"Maryland",1963,11.76,53.17
+"Maryland",1964,12.52,54.54
+"Maryland",1965,12.35,54.23
+"Maryland",1966,12.01,53.61
+"Maryland",1967,11.79,53.23
+"Maryland",1968,12.30,54.14
+"Maryland",1969,12.12,53.82
+"Maryland",1970,12.48,54.46
+"Maryland",1971,12.67,54.81
+"Maryland",1972,12.16,53.90
+"Maryland",1973,13.21,55.79
+"Maryland",1974,12.77,54.98
+"Maryland",1975,12.94,55.30
+"Maryland",1976,12.08,53.75
+"Maryland",1977,12.58,54.64
+"Maryland",1978,11.77,53.18
+"Maryland",1979,12.13,53.84
+"Maryland",1980,12.38,54.29
+"Maryland",1981,12.14,53.86
+"Maryland",1982,12.39,54.31
+"Maryland",1983,12.68,54.82
+"Maryland",1984,12.66,54.79
+"Maryland",1985,13.01,55.41
+"Maryland",1986,12.89,55.20
+"Maryland",1987,12.88,55.18
+"Maryland",1988,12.27,54.08
+"Maryland",1989,12.23,54.02
+"Maryland",1990,13.94,57.09
+"Maryland",1991,13.91,57.04
+"Maryland",1992,12.23,54.01
+"Maryland",1993,12.63,54.74
+"Maryland",1994,12.71,54.87
+"Maryland",1995,12.74,54.94
+"Maryland",1996,12.09,53.77
+"Maryland",1997,12.56,54.62
+"Maryland",1998,14.18,57.52
+"Maryland",1999,13.41,56.13
+"Maryland",2000,12.51,54.52
+"Maryland",2001,13.18,55.73
+"Maryland",2002,13.73,56.71
+"Maryland",2003,12.36,54.24
+"Maryland",2004,12.99,55.38
+"Maryland",2005,13.00,55.39
+"Maryland",2006,13.74,56.73
+"Maryland",2007,13.33,56.00
+"Maryland",2008,13.06,55.52
+"Maryland",2009,12.71,54.88
+"Maryland",2010,13.38,56.09
+"Maryland",2011,13.79,56.83
+"Maryland",2012,14.19,57.54
+"Massachusetts",1900,8.25,46.84
+"Massachusetts",1901,7.56,45.62
+"Massachusetts",1902,7.74,45.93
+"Massachusetts",1903,7.62,45.72
+"Massachusetts",1904,6.15,43.07
+"Massachusetts",1905,7.11,44.80
+"Massachusetts",1906,7.89,46.20
+"Massachusetts",1907,6.78,44.21
+"Massachusetts",1908,8.13,46.63
+"Massachusetts",1909,7.71,45.88
+"Massachusetts",1910,7.89,46.20
+"Massachusetts",1911,7.99,46.38
+"Massachusetts",1912,7.43,45.37
+"Massachusetts",1913,8.83,47.90
+"Massachusetts",1914,7.17,44.91
+"Massachusetts",1915,8.21,46.78
+"Massachusetts",1916,7.31,45.16
+"Massachusetts",1917,6.33,43.39
+"Massachusetts",1918,7.45,45.42
+"Massachusetts",1919,8.16,46.69
+"Massachusetts",1920,7.44,45.39
+"Massachusetts",1921,8.79,47.82
+"Massachusetts",1922,7.97,46.35
+"Massachusetts",1923,7.35,45.23
+"Massachusetts",1924,7.17,44.91
+"Massachusetts",1925,7.96,46.33
+"Massachusetts",1926,6.67,44.01
+"Massachusetts",1927,8.25,46.85
+"Massachusetts",1928,8.08,46.54
+"Massachusetts",1929,7.97,46.35
+"Massachusetts",1930,8.50,47.30
+"Massachusetts",1931,9.01,48.22
+"Massachusetts",1932,8.47,47.25
+"Massachusetts",1933,8.18,46.73
+"Massachusetts",1934,7.56,45.61
+"Massachusetts",1935,7.59,45.67
+"Massachusetts",1936,7.86,46.15
+"Massachusetts",1937,8.55,47.40
+"Massachusetts",1938,8.65,47.57
+"Massachusetts",1939,7.85,46.13
+"Massachusetts",1940,6.96,44.52
+"Massachusetts",1941,8.42,47.16
+"Massachusetts",1942,8.28,46.90
+"Massachusetts",1943,7.51,45.53
+"Massachusetts",1944,8.15,46.67
+"Massachusetts",1945,8.23,46.81
+"Massachusetts",1946,8.55,47.39
+"Massachusetts",1947,8.22,46.80
+"Massachusetts",1948,7.96,46.32
+"Massachusetts",1949,9.56,49.21
+"Massachusetts",1950,8.12,46.62
+"Massachusetts",1951,8.58,47.45
+"Massachusetts",1952,8.87,47.96
+"Massachusetts",1953,9.59,49.26
+"Massachusetts",1954,8.41,47.13
+"Massachusetts",1955,8.45,47.21
+"Massachusetts",1956,7.75,45.95
+"Massachusetts",1957,8.77,47.79
+"Massachusetts",1958,7.49,45.48
+"Massachusetts",1959,8.66,47.59
+"Massachusetts",1960,8.09,46.57
+"Massachusetts",1961,8.20,46.76
+"Massachusetts",1962,7.39,45.31
+"Massachusetts",1963,7.74,45.93
+"Massachusetts",1964,8.03,46.45
+"Massachusetts",1965,7.75,45.94
+"Massachusetts",1966,8.03,46.45
+"Massachusetts",1967,7.59,45.66
+"Massachusetts",1968,7.83,46.10
+"Massachusetts",1969,8.23,46.82
+"Massachusetts",1970,7.96,46.33
+"Massachusetts",1971,8.09,46.57
+"Massachusetts",1972,7.49,45.47
+"Massachusetts",1973,9.20,48.56
+"Massachusetts",1974,8.13,46.64
+"Massachusetts",1975,8.63,47.53
+"Massachusetts",1976,7.83,46.09
+"Massachusetts",1977,8.17,46.70
+"Massachusetts",1978,7.38,45.28
+"Massachusetts",1979,8.56,47.41
+"Massachusetts",1980,7.83,46.09
+"Massachusetts",1981,8.27,46.88
+"Massachusetts",1982,7.89,46.20
+"Massachusetts",1983,8.81,47.86
+"Massachusetts",1984,8.58,47.45
+"Massachusetts",1985,8.18,46.72
+"Massachusetts",1986,8.13,46.64
+"Massachusetts",1987,8.24,46.83
+"Massachusetts",1988,8.19,46.73
+"Massachusetts",1989,7.81,46.05
+"Massachusetts",1990,9.45,49.01
+"Massachusetts",1991,9.34,48.82
+"Massachusetts",1992,7.67,45.81
+"Massachusetts",1993,8.10,46.59
+"Massachusetts",1994,8.26,46.87
+"Massachusetts",1995,8.41,47.14
+"Massachusetts",1996,8.17,46.70
+"Massachusetts",1997,8.16,46.70
+"Massachusetts",1998,9.85,49.73
+"Massachusetts",1999,9.57,49.22
+"Massachusetts",2000,8.29,46.92
+"Massachusetts",2001,9.20,48.55
+"Massachusetts",2002,9.30,48.74
+"Massachusetts",2003,8.07,46.52
+"Massachusetts",2004,8.34,47.01
+"Massachusetts",2005,8.81,47.86
+"Massachusetts",2006,9.74,49.53
+"Massachusetts",2007,8.64,47.55
+"Massachusetts",2008,8.85,47.93
+"Massachusetts",2009,8.38,47.08
+"Massachusetts",2010,9.83,49.69
+"Massachusetts",2011,9.42,48.96
+"Massachusetts",2012,10.32,50.57
+"Michigan",1900,7.18,44.93
+"Michigan",1901,6.48,43.66
+"Michigan",1902,6.78,44.21
+"Michigan",1903,6.26,43.27
+"Michigan",1904,4.85,40.74
+"Michigan",1905,6.09,42.96
+"Michigan",1906,7.08,44.75
+"Michigan",1907,5.52,41.94
+"Michigan",1908,7.17,44.91
+"Michigan",1909,6.59,43.86
+"Michigan",1910,6.81,44.26
+"Michigan",1911,7.23,45.01
+"Michigan",1912,5.43,41.78
+"Michigan",1913,7.17,44.90
+"Michigan",1914,6.55,43.80
+"Michigan",1915,6.63,43.93
+"Michigan",1916,6.28,43.30
+"Michigan",1917,4.43,39.97
+"Michigan",1918,6.39,43.50
+"Michigan",1919,7.25,45.05
+"Michigan",1920,6.33,43.40
+"Michigan",1921,8.63,47.54
+"Michigan",1922,7.26,45.07
+"Michigan",1923,6.35,43.44
+"Michigan",1924,5.43,41.78
+"Michigan",1925,6.45,43.61
+"Michigan",1926,5.49,41.88
+"Michigan",1927,6.88,44.39
+"Michigan",1928,6.62,43.92
+"Michigan",1929,5.88,42.58
+"Michigan",1930,7.29,45.13
+"Michigan",1931,8.92,48.05
+"Michigan",1932,7.27,45.08
+"Michigan",1933,7.29,45.12
+"Michigan",1934,6.75,44.14
+"Michigan",1935,6.45,43.62
+"Michigan",1936,6.24,43.23
+"Michigan",1937,6.78,44.20
+"Michigan",1938,7.78,46.01
+"Michigan",1939,7.31,45.16
+"Michigan",1940,6.29,43.33
+"Michigan",1941,7.91,46.24
+"Michigan",1942,7.11,44.80
+"Michigan",1943,6.18,43.13
+"Michigan",1944,7.46,45.44
+"Michigan",1945,6.59,43.87
+"Michigan",1946,7.70,45.86
+"Michigan",1947,6.91,44.43
+"Michigan",1948,7.01,44.62
+"Michigan",1949,7.91,46.24
+"Michigan",1950,5.94,42.69
+"Michigan",1951,6.40,43.52
+"Michigan",1952,7.62,45.72
+"Michigan",1953,8.19,46.75
+"Michigan",1954,7.25,45.05
+"Michigan",1955,7.79,46.01
+"Michigan",1956,6.84,44.30
+"Michigan",1957,6.94,44.48
+"Michigan",1958,6.56,43.81
+"Michigan",1959,7.00,44.61
+"Michigan",1960,6.74,44.13
+"Michigan",1961,7.22,45.00
+"Michigan",1962,6.53,43.76
+"Michigan",1963,6.49,43.67
+"Michigan",1964,7.46,45.42
+"Michigan",1965,6.54,43.77
+"Michigan",1966,6.75,44.15
+"Michigan",1967,6.35,43.43
+"Michigan",1968,7.12,44.82
+"Michigan",1969,6.79,44.23
+"Michigan",1970,6.87,44.36
+"Michigan",1971,7.05,44.68
+"Michigan",1972,5.83,42.49
+"Michigan",1973,8.00,46.40
+"Michigan",1974,6.69,44.04
+"Michigan",1975,7.41,45.33
+"Michigan",1976,6.32,43.37
+"Michigan",1977,7.08,44.75
+"Michigan",1978,6.19,43.14
+"Michigan",1979,6.18,43.12
+"Michigan",1980,6.45,43.61
+"Michigan",1981,7.11,44.81
+"Michigan",1982,6.61,43.90
+"Michigan",1983,7.50,45.50
+"Michigan",1984,7.26,45.07
+"Michigan",1985,6.78,44.21
+"Michigan",1986,7.33,45.19
+"Michigan",1987,8.65,47.56
+"Michigan",1988,7.34,45.22
+"Michigan",1989,6.30,43.34
+"Michigan",1990,7.98,46.37
+"Michigan",1991,8.08,46.54
+"Michigan",1992,6.70,44.06
+"Michigan",1993,6.65,43.98
+"Michigan",1994,6.99,44.58
+"Michigan",1995,7.17,44.90
+"Michigan",1996,6.23,43.21
+"Michigan",1997,6.81,44.27
+"Michigan",1998,9.39,48.90
+"Michigan",1999,8.35,47.03
+"Michigan",2000,7.58,45.64
+"Michigan",2001,8.52,47.34
+"Michigan",2002,7.95,46.32
+"Michigan",2003,6.96,44.53
+"Michigan",2004,7.27,45.08
+"Michigan",2005,8.10,46.57
+"Michigan",2006,8.64,47.55
+"Michigan",2007,8.10,46.57
+"Michigan",2008,7.03,44.65
+"Michigan",2009,6.87,44.36
+"Michigan",2010,8.66,47.59
+"Michigan",2011,7.83,46.10
+"Michigan",2012,9.35,48.82
+"Minnesota",1900,5.41,41.73
+"Minnesota",1901,4.85,40.73
+"Minnesota",1902,4.78,40.61
+"Minnesota",1903,3.70,38.66
+"Minnesota",1904,3.29,37.93
+"Minnesota",1905,4.34,39.82
+"Minnesota",1906,4.85,40.73
+"Minnesota",1907,3.42,38.16
+"Minnesota",1908,5.39,41.71
+"Minnesota",1909,4.16,39.50
+"Minnesota",1910,5.31,41.56
+"Minnesota",1911,4.67,40.40
+"Minnesota",1912,3.76,38.77
+"Minnesota",1913,4.90,40.82
+"Minnesota",1914,4.82,40.68
+"Minnesota",1915,5.01,41.02
+"Minnesota",1916,3.42,38.16
+"Minnesota",1917,2.60,36.68
+"Minnesota",1918,5.04,41.07
+"Minnesota",1919,4.58,40.24
+"Minnesota",1920,4.75,40.54
+"Minnesota",1921,6.23,43.22
+"Minnesota",1922,5.35,41.63
+"Minnesota",1923,5.06,41.11
+"Minnesota",1924,3.58,38.45
+"Minnesota",1925,4.72,40.50
+"Minnesota",1926,4.22,39.60
+"Minnesota",1927,4.10,39.37
+"Minnesota",1928,5.17,41.31
+"Minnesota",1929,3.55,38.40
+"Minnesota",1930,5.55,41.99
+"Minnesota",1931,7.66,45.78
+"Minnesota",1932,4.65,40.37
+"Minnesota",1933,5.14,41.25
+"Minnesota",1934,5.65,42.16
+"Minnesota",1935,4.56,40.22
+"Minnesota",1936,3.75,38.74
+"Minnesota",1937,4.08,39.35
+"Minnesota",1938,5.79,42.43
+"Minnesota",1939,5.69,42.25
+"Minnesota",1940,4.78,40.60
+"Minnesota",1941,6.20,43.16
+"Minnesota",1942,5.33,41.59
+"Minnesota",1943,4.39,39.91
+"Minnesota",1944,5.76,42.36
+"Minnesota",1945,4.31,39.76
+"Minnesota",1946,5.28,41.51
+"Minnesota",1947,4.84,40.72
+"Minnesota",1948,5.00,41.01
+"Minnesota",1949,5.28,41.51
+"Minnesota",1950,2.92,37.26
+"Minnesota",1951,3.36,38.05
+"Minnesota",1952,5.57,42.03
+"Minnesota",1953,5.94,42.69
+"Minnesota",1954,5.42,41.75
+"Minnesota",1955,4.96,40.92
+"Minnesota",1956,4.67,40.41
+"Minnesota",1957,4.94,40.89
+"Minnesota",1958,5.24,41.43
+"Minnesota",1959,4.96,40.92
+"Minnesota",1960,4.79,40.63
+"Minnesota",1961,5.46,41.83
+"Minnesota",1962,4.75,40.55
+"Minnesota",1963,5.57,42.02
+"Minnesota",1964,5.34,41.61
+"Minnesota",1965,3.95,39.11
+"Minnesota",1966,4.15,39.46
+"Minnesota",1967,4.31,39.76
+"Minnesota",1968,5.21,41.38
+"Minnesota",1969,4.63,40.34
+"Minnesota",1970,4.42,39.96
+"Minnesota",1971,4.70,40.46
+"Minnesota",1972,3.56,38.40
+"Minnesota",1973,6.09,42.97
+"Minnesota",1974,4.93,40.87
+"Minnesota",1975,4.93,40.88
+"Minnesota",1976,5.12,41.22
+"Minnesota",1977,5.48,41.86
+"Minnesota",1978,4.29,39.72
+"Minnesota",1979,3.60,38.48
+"Minnesota",1980,5.21,41.38
+"Minnesota",1981,6.23,43.22
+"Minnesota",1982,4.26,39.67
+"Minnesota",1983,5.57,42.02
+"Minnesota",1984,5.55,41.99
+"Minnesota",1985,4.13,39.43
+"Minnesota",1986,5.65,42.18
+"Minnesota",1987,7.73,45.91
+"Minnesota",1988,5.68,42.22
+"Minnesota",1989,4.35,39.82
+"Minnesota",1990,6.18,43.13
+"Minnesota",1991,5.81,42.45
+"Minnesota",1992,5.32,41.57
+"Minnesota",1993,4.24,39.64
+"Minnesota",1994,5.28,41.50
+"Minnesota",1995,4.98,40.96
+"Minnesota",1996,3.47,38.24
+"Minnesota",1997,5.10,41.18
+"Minnesota",1998,7.43,45.38
+"Minnesota",1999,6.78,44.21
+"Minnesota",2000,5.71,42.28
+"Minnesota",2001,6.38,43.48
+"Minnesota",2002,5.82,42.48
+"Minnesota",2003,5.59,42.05
+"Minnesota",2004,5.40,41.73
+"Minnesota",2005,6.39,43.50
+"Minnesota",2006,7.10,44.77
+"Minnesota",2007,5.99,42.79
+"Minnesota",2008,4.37,39.86
+"Minnesota",2009,4.77,40.58
+"Minnesota",2010,6.28,43.31
+"Minnesota",2011,5.84,42.50
+"Minnesota",2012,7.55,45.60
+"Mississippi",1900,17.59,63.66
+"Mississippi",1901,16.71,62.07
+"Mississippi",1902,17.50,63.50
+"Mississippi",1903,16.63,61.93
+"Mississippi",1904,17.23,63.01
+"Mississippi",1905,17.01,62.61
+"Mississippi",1906,17.38,63.28
+"Mississippi",1907,17.91,64.24
+"Mississippi",1908,17.99,64.38
+"Mississippi",1909,17.82,64.08
+"Mississippi",1910,17.34,63.22
+"Mississippi",1911,18.69,65.65
+"Mississippi",1912,16.76,62.18
+"Mississippi",1913,17.59,63.67
+"Mississippi",1914,17.30,63.13
+"Mississippi",1915,17.40,63.32
+"Mississippi",1916,17.55,63.58
+"Mississippi",1917,16.59,61.87
+"Mississippi",1918,17.74,63.93
+"Mississippi",1919,17.79,64.02
+"Mississippi",1920,17.04,62.68
+"Mississippi",1921,18.96,66.13
+"Mississippi",1922,18.38,65.09
+"Mississippi",1923,17.51,63.53
+"Mississippi",1924,17.06,62.71
+"Mississippi",1925,18.32,64.98
+"Mississippi",1926,17.45,63.41
+"Mississippi",1927,18.79,65.82
+"Mississippi",1928,17.26,63.07
+"Mississippi",1929,17.47,63.44
+"Mississippi",1930,17.62,63.71
+"Mississippi",1931,17.94,64.29
+"Mississippi",1932,17.94,64.30
+"Mississippi",1933,18.79,65.83
+"Mississippi",1934,18.07,64.52
+"Mississippi",1935,17.88,64.19
+"Mississippi",1936,17.76,63.97
+"Mississippi",1937,17.63,63.74
+"Mississippi",1938,18.52,65.34
+"Mississippi",1939,18.25,64.85
+"Mississippi",1940,16.57,61.83
+"Mississippi",1941,18.00,64.40
+"Mississippi",1942,17.51,63.51
+"Mississippi",1943,17.89,64.21
+"Mississippi",1944,18.06,64.50
+"Mississippi",1945,17.97,64.34
+"Mississippi",1946,18.26,64.87
+"Mississippi",1947,17.42,63.36
+"Mississippi",1948,17.78,64.01
+"Mississippi",1949,18.40,65.12
+"Mississippi",1950,17.83,64.10
+"Mississippi",1951,18.14,64.66
+"Mississippi",1952,17.99,64.38
+"Mississippi",1953,18.33,64.99
+"Mississippi",1954,18.60,65.48
+"Mississippi",1955,18.08,64.55
+"Mississippi",1956,18.25,64.84
+"Mississippi",1957,18.20,64.77
+"Mississippi",1958,16.84,62.32
+"Mississippi",1959,17.71,63.88
+"Mississippi",1960,17.06,62.70
+"Mississippi",1961,17.21,62.97
+"Mississippi",1962,17.92,64.26
+"Mississippi",1963,17.44,63.39
+"Mississippi",1964,17.73,63.91
+"Mississippi",1965,18.11,64.60
+"Mississippi",1966,17.24,63.03
+"Mississippi",1967,17.47,63.45
+"Mississippi",1968,16.88,62.38
+"Mississippi",1969,17.31,63.15
+"Mississippi",1970,17.49,63.47
+"Mississippi",1971,17.94,64.30
+"Mississippi",1972,17.99,64.39
+"Mississippi",1973,18.07,64.52
+"Mississippi",1974,17.96,64.33
+"Mississippi",1975,17.85,64.13
+"Mississippi",1976,16.84,62.31
+"Mississippi",1977,17.87,64.16
+"Mississippi",1978,17.24,63.04
+"Mississippi",1979,16.94,62.48
+"Mississippi",1980,17.75,63.95
+"Mississippi",1981,17.75,63.96
+"Mississippi",1982,18.12,64.62
+"Mississippi",1983,16.98,62.57
+"Mississippi",1984,17.88,64.18
+"Mississippi",1985,17.77,63.99
+"Mississippi",1986,18.52,65.33
+"Mississippi",1987,17.96,64.33
+"Mississippi",1988,17.51,63.52
+"Mississippi",1989,17.37,63.27
+"Mississippi",1990,18.85,65.93
+"Mississippi",1991,18.44,65.18
+"Mississippi",1992,17.61,63.69
+"Mississippi",1993,17.51,63.53
+"Mississippi",1994,18.00,64.39
+"Mississippi",1995,18.03,64.46
+"Mississippi",1996,17.68,63.82
+"Mississippi",1997,17.66,63.79
+"Mississippi",1998,19.28,66.70
+"Mississippi",1999,18.83,65.89
+"Mississippi",2000,18.43,65.17
+"Mississippi",2001,18.16,64.69
+"Mississippi",2002,18.35,65.03
+"Mississippi",2003,17.95,64.31
+"Mississippi",2004,18.33,65.00
+"Mississippi",2005,18.48,65.26
+"Mississippi",2006,18.77,65.79
+"Mississippi",2007,18.85,65.93
+"Mississippi",2008,17.98,64.37
+"Mississippi",2009,18.13,64.64
+"Mississippi",2010,18.08,64.54
+"Mississippi",2011,18.59,65.46
+"Mississippi",2012,19.27,66.68
+"Missouri",1900,12.81,55.06
+"Missouri",1901,12.56,54.61
+"Missouri",1902,11.90,53.42
+"Missouri",1903,11.60,52.89
+"Missouri",1904,11.45,52.61
+"Missouri",1905,11.59,52.87
+"Missouri",1906,12.10,53.78
+"Missouri",1907,12.28,54.10
+"Missouri",1908,12.88,55.18
+"Missouri",1909,12.41,54.34
+"Missouri",1910,12.24,54.03
+"Missouri",1911,13.30,55.94
+"Missouri",1912,11.30,52.35
+"Missouri",1913,13.05,55.48
+"Missouri",1914,12.76,54.96
+"Missouri",1915,12.09,53.75
+"Missouri",1916,12.29,54.12
+"Missouri",1917,10.96,51.73
+"Missouri",1918,12.63,54.74
+"Missouri",1919,12.56,54.62
+"Missouri",1920,12.07,53.72
+"Missouri",1921,14.21,57.58
+"Missouri",1922,13.21,55.77
+"Missouri",1923,12.63,54.74
+"Missouri",1924,11.33,52.40
+"Missouri",1925,12.80,55.04
+"Missouri",1926,12.15,53.87
+"Missouri",1927,12.76,54.97
+"Missouri",1928,12.52,54.53
+"Missouri",1929,11.57,52.83
+"Missouri",1930,12.92,55.26
+"Missouri",1931,14.09,57.36
+"Missouri",1932,12.73,54.91
+"Missouri",1933,13.68,56.62
+"Missouri",1934,13.73,56.71
+"Missouri",1935,12.38,54.28
+"Missouri",1936,12.98,55.37
+"Missouri",1937,11.93,53.48
+"Missouri",1938,14.08,57.34
+"Missouri",1939,13.62,56.51
+"Missouri",1940,11.71,53.08
+"Missouri",1941,13.50,56.30
+"Missouri",1942,12.57,54.62
+"Missouri",1943,12.33,54.20
+"Missouri",1944,12.78,55.01
+"Missouri",1945,12.12,53.82
+"Missouri",1946,13.86,56.96
+"Missouri",1947,12.56,54.61
+"Missouri",1948,12.46,54.43
+"Missouri",1949,12.82,55.07
+"Missouri",1950,11.80,53.24
+"Missouri",1951,11.68,53.02
+"Missouri",1952,13.09,55.56
+"Missouri",1953,13.88,56.99
+"Missouri",1954,14.16,57.49
+"Missouri",1955,13.01,55.42
+"Missouri",1956,13.42,56.15
+"Missouri",1957,12.73,54.92
+"Missouri",1958,11.93,53.47
+"Missouri",1959,12.62,54.71
+"Missouri",1960,11.95,53.52
+"Missouri",1961,12.07,53.72
+"Missouri",1962,12.49,54.48
+"Missouri",1963,12.79,55.02
+"Missouri",1964,13.12,55.62
+"Missouri",1965,13.02,55.43
+"Missouri",1966,12.13,53.84
+"Missouri",1967,12.33,54.19
+"Missouri",1968,12.15,53.88
+"Missouri",1969,12.15,53.88
+"Missouri",1970,12.54,54.57
+"Missouri",1971,12.95,55.31
+"Missouri",1972,12.32,54.18
+"Missouri",1973,13.17,55.71
+"Missouri",1974,12.75,54.95
+"Missouri",1975,12.84,55.12
+"Missouri",1976,12.28,54.11
+"Missouri",1977,12.96,55.32
+"Missouri",1978,11.68,53.03
+"Missouri",1979,11.40,52.52
+"Missouri",1980,13.03,55.45
+"Missouri",1981,13.01,55.41
+"Missouri",1982,12.23,54.01
+"Missouri",1983,12.50,54.49
+"Missouri",1984,12.75,54.95
+"Missouri",1985,11.95,53.51
+"Missouri",1986,13.54,56.37
+"Missouri",1987,13.80,56.83
+"Missouri",1988,12.87,55.17
+"Missouri",1989,12.02,53.64
+"Missouri",1990,13.80,56.85
+"Missouri",1991,13.71,56.69
+"Missouri",1992,12.86,55.15
+"Missouri",1993,11.96,53.53
+"Missouri",1994,12.91,55.24
+"Missouri",1995,12.64,54.75
+"Missouri",1996,11.92,53.46
+"Missouri",1997,12.39,54.31
+"Missouri",1998,14.31,57.76
+"Missouri",1999,13.87,56.96
+"Missouri",2000,13.20,55.75
+"Missouri",2001,13.58,56.44
+"Missouri",2002,13.36,56.05
+"Missouri",2003,12.88,55.19
+"Missouri",2004,13.11,55.60
+"Missouri",2005,13.79,56.82
+"Missouri",2006,14.11,57.40
+"Missouri",2007,13.76,56.77
+"Missouri",2008,12.26,54.07
+"Missouri",2009,12.56,54.61
+"Missouri",2010,13.26,55.87
+"Missouri",2011,13.50,56.29
+"Missouri",2012,15.09,59.16
+"Montana",1900,6.09,42.97
+"Montana",1901,5.65,42.17
+"Montana",1902,4.57,40.22
+"Montana",1903,4.54,40.17
+"Montana",1904,5.11,41.20
+"Montana",1905,4.84,40.71
+"Montana",1906,5.28,41.51
+"Montana",1907,4.16,39.48
+"Montana",1908,5.31,41.56
+"Montana",1909,4.14,39.45
+"Montana",1910,5.97,42.74
+"Montana",1911,3.91,39.03
+"Montana",1912,4.27,39.69
+"Montana",1913,4.47,40.04
+"Montana",1914,5.36,41.64
+"Montana",1915,5.25,41.45
+"Montana",1916,3.05,37.49
+"Montana",1917,3.96,39.14
+"Montana",1918,5.25,41.45
+"Montana",1919,4.80,40.63
+"Montana",1920,4.83,40.69
+"Montana",1921,5.83,42.49
+"Montana",1922,4.21,39.57
+"Montana",1923,5.29,41.52
+"Montana",1924,4.32,39.78
+"Montana",1925,5.82,42.47
+"Montana",1926,6.02,42.83
+"Montana",1927,3.91,39.03
+"Montana",1928,5.33,41.60
+"Montana",1929,4.01,39.22
+"Montana",1930,5.51,41.92
+"Montana",1931,6.69,44.04
+"Montana",1932,4.84,40.72
+"Montana",1933,5.66,42.19
+"Montana",1934,7.33,45.19
+"Montana",1935,4.97,40.94
+"Montana",1936,5.12,41.21
+"Montana",1937,4.66,40.39
+"Montana",1938,5.88,42.59
+"Montana",1939,6.41,43.53
+"Montana",1940,5.94,42.69
+"Montana",1941,6.15,43.07
+"Montana",1942,5.15,41.28
+"Montana",1943,5.14,41.25
+"Montana",1944,5.33,41.59
+"Montana",1945,4.92,40.85
+"Montana",1946,5.71,42.28
+"Montana",1947,5.32,41.57
+"Montana",1948,4.93,40.87
+"Montana",1949,4.73,40.51
+"Montana",1950,3.75,38.75
+"Montana",1951,3.29,37.92
+"Montana",1952,5.34,41.61
+"Montana",1953,6.67,44.01
+"Montana",1954,5.56,42.01
+"Montana",1955,4.01,39.21
+"Montana",1956,5.30,41.54
+"Montana",1957,5.12,41.22
+"Montana",1958,6.15,43.06
+"Montana",1959,4.85,40.73
+"Montana",1960,5.33,41.60
+"Montana",1961,6.22,43.20
+"Montana",1962,5.53,41.95
+"Montana",1963,6.19,43.15
+"Montana",1964,4.95,40.91
+"Montana",1965,4.55,40.20
+"Montana",1966,5.25,41.45
+"Montana",1967,5.51,41.91
+"Montana",1968,5.08,41.15
+"Montana",1969,4.65,40.36
+"Montana",1970,4.88,40.78
+"Montana",1971,4.90,40.82
+"Montana",1972,4.48,40.06
+"Montana",1973,5.76,42.37
+"Montana",1974,5.98,42.76
+"Montana",1975,4.32,39.77
+"Montana",1976,6.16,43.10
+"Montana",1977,5.59,42.06
+"Montana",1978,4.08,39.34
+"Montana",1979,4.79,40.62
+"Montana",1980,5.82,42.48
+"Montana",1981,6.83,44.30
+"Montana",1982,4.07,39.33
+"Montana",1983,5.64,42.16
+"Montana",1984,5.51,41.92
+"Montana",1985,4.17,39.50
+"Montana",1986,6.27,43.29
+"Montana",1987,7.13,44.83
+"Montana",1988,6.80,44.25
+"Montana",1989,4.98,40.97
+"Montana",1990,6.09,42.97
+"Montana",1991,6.18,43.12
+"Montana",1992,6.48,43.66
+"Montana",1993,4.39,39.91
+"Montana",1994,6.05,42.89
+"Montana",1995,5.52,41.94
+"Montana",1996,4.12,39.42
+"Montana",1997,5.81,42.45
+"Montana",1998,6.70,44.05
+"Montana",1999,6.80,44.24
+"Montana",2000,5.84,42.50
+"Montana",2001,6.58,43.85
+"Montana",2002,5.32,41.58
+"Montana",2003,6.42,43.55
+"Montana",2004,6.11,43.00
+"Montana",2005,6.20,43.16
+"Montana",2006,6.91,44.44
+"Montana",2007,6.73,44.11
+"Montana",2008,5.28,41.51
+"Montana",2009,5.15,41.26
+"Montana",2010,5.43,41.77
+"Montana",2011,5.40,41.72
+"Montana",2012,7.00,44.60
+"Nebraska",1900,10.06,50.10
+"Nebraska",1901,9.47,49.04
+"Nebraska",1902,8.61,47.50
+"Nebraska",1903,8.25,46.84
+"Nebraska",1904,8.79,47.82
+"Nebraska",1905,8.29,46.92
+"Nebraska",1906,8.82,47.88
+"Nebraska",1907,8.67,47.60
+"Nebraska",1908,9.42,48.95
+"Nebraska",1909,8.32,46.98
+"Nebraska",1910,9.71,49.47
+"Nebraska",1911,9.36,48.84
+"Nebraska",1912,7.97,46.34
+"Nebraska",1913,9.18,48.52
+"Nebraska",1914,9.52,49.13
+"Nebraska",1915,8.22,46.80
+"Nebraska",1916,8.31,46.95
+"Nebraska",1917,7.85,46.13
+"Nebraska",1918,9.32,48.77
+"Nebraska",1919,8.65,47.56
+"Nebraska",1920,8.80,47.83
+"Nebraska",1921,10.68,51.22
+"Nebraska",1922,9.36,48.85
+"Nebraska",1923,9.15,48.48
+"Nebraska",1924,7.86,46.15
+"Nebraska",1925,9.47,49.04
+"Nebraska",1926,9.57,49.22
+"Nebraska",1927,8.81,47.86
+"Nebraska",1928,9.42,48.96
+"Nebraska",1929,8.14,46.65
+"Nebraska",1930,9.58,49.24
+"Nebraska",1931,10.96,51.73
+"Nebraska",1932,8.91,48.04
+"Nebraska",1933,10.52,50.93
+"Nebraska",1934,11.25,52.24
+"Nebraska",1935,9.45,49.02
+"Nebraska",1936,9.26,48.67
+"Nebraska",1937,8.84,47.90
+"Nebraska",1938,10.56,51.02
+"Nebraska",1939,10.68,51.23
+"Nebraska",1940,9.40,48.91
+"Nebraska",1941,10.05,50.09
+"Nebraska",1942,9.25,48.65
+"Nebraska",1943,9.60,49.29
+"Nebraska",1944,9.01,48.21
+"Nebraska",1945,8.95,48.11
+"Nebraska",1946,10.43,50.78
+"Nebraska",1947,9.30,48.74
+"Nebraska",1948,9.29,48.73
+"Nebraska",1949,9.05,48.29
+"Nebraska",1950,8.28,46.91
+"Nebraska",1951,7.78,46.01
+"Nebraska",1952,9.54,49.18
+"Nebraska",1953,10.38,50.69
+"Nebraska",1954,10.68,51.22
+"Nebraska",1955,9.33,48.80
+"Nebraska",1956,9.88,49.78
+"Nebraska",1957,9.18,48.53
+"Nebraska",1958,9.20,48.56
+"Nebraska",1959,9.21,48.57
+"Nebraska",1960,8.66,47.60
+"Nebraska",1961,9.06,48.31
+"Nebraska",1962,9.29,48.72
+"Nebraska",1963,10.34,50.62
+"Nebraska",1964,9.53,49.15
+"Nebraska",1965,9.07,48.33
+"Nebraska",1966,8.93,48.08
+"Nebraska",1967,9.22,48.60
+"Nebraska",1968,9.23,48.61
+"Nebraska",1969,8.87,47.97
+"Nebraska",1970,9.33,48.80
+"Nebraska",1971,9.22,48.59
+"Nebraska",1972,8.72,47.69
+"Nebraska",1973,9.57,49.22
+"Nebraska",1974,9.87,49.77
+"Nebraska",1975,9.05,48.29
+"Nebraska",1976,9.75,49.55
+"Nebraska",1977,10.16,50.29
+"Nebraska",1978,8.11,46.59
+"Nebraska",1979,8.34,47.00
+"Nebraska",1980,9.99,49.99
+"Nebraska",1981,10.53,50.95
+"Nebraska",1982,8.61,47.49
+"Nebraska",1983,9.09,48.37
+"Nebraska",1984,9.26,48.66
+"Nebraska",1985,8.41,47.13
+"Nebraska",1986,10.32,50.57
+"Nebraska",1987,10.72,51.30
+"Nebraska",1988,10.03,50.05
+"Nebraska",1989,9.15,48.47
+"Nebraska",1990,10.27,50.49
+"Nebraska",1991,10.33,50.59
+"Nebraska",1992,9.68,49.42
+"Nebraska",1993,8.08,46.54
+"Nebraska",1994,9.84,49.71
+"Nebraska",1995,9.47,49.04
+"Nebraska",1996,8.34,47.01
+"Nebraska",1997,9.50,49.10
+"Nebraska",1998,10.61,51.09
+"Nebraska",1999,10.80,51.44
+"Nebraska",2000,10.19,50.35
+"Nebraska",2001,10.42,50.76
+"Nebraska",2002,10.26,50.46
+"Nebraska",2003,10.19,50.35
+"Nebraska",2004,10.18,50.32
+"Nebraska",2005,10.65,51.18
+"Nebraska",2006,10.92,51.65
+"Nebraska",2007,10.30,50.54
+"Nebraska",2008,9.01,48.21
+"Nebraska",2009,8.94,48.09
+"Nebraska",2010,9.92,49.86
+"Nebraska",2011,9.63,49.34
+"Nebraska",2012,11.82,53.27
+"Nevada",1900,10.33,50.60
+"Nevada",1901,10.12,50.21
+"Nevada",1902,9.54,49.17
+"Nevada",1903,9.31,48.75
+"Nevada",1904,10.04,50.08
+"Nevada",1905,9.57,49.23
+"Nevada",1906,9.78,49.61
+"Nevada",1907,9.84,49.71
+"Nevada",1908,9.23,48.62
+"Nevada",1909,9.48,49.06
+"Nevada",1910,10.54,50.98
+"Nevada",1911,8.83,47.90
+"Nevada",1912,8.77,47.79
+"Nevada",1913,8.95,48.12
+"Nevada",1914,9.97,49.95
+"Nevada",1915,9.82,49.68
+"Nevada",1916,8.84,47.91
+"Nevada",1917,9.12,48.42
+"Nevada",1918,9.64,49.35
+"Nevada",1919,9.55,49.18
+"Nevada",1920,9.19,48.54
+"Nevada",1921,10.43,50.77
+"Nevada",1922,8.88,47.99
+"Nevada",1923,9.03,48.26
+"Nevada",1924,9.38,48.88
+"Nevada",1925,9.99,49.98
+"Nevada",1926,10.67,51.21
+"Nevada",1927,9.78,49.60
+"Nevada",1928,9.96,49.92
+"Nevada",1929,9.48,49.06
+"Nevada",1930,9.28,48.71
+"Nevada",1931,10.13,50.23
+"Nevada",1932,9.06,48.31
+"Nevada",1933,9.55,49.19
+"Nevada",1934,11.73,53.11
+"Nevada",1935,9.67,49.40
+"Nevada",1936,10.42,50.75
+"Nevada",1937,9.59,49.26
+"Nevada",1938,9.80,49.63
+"Nevada",1939,10.46,50.82
+"Nevada",1940,11.02,51.83
+"Nevada",1941,9.70,49.46
+"Nevada",1942,9.65,49.37
+"Nevada",1943,10.39,50.69
+"Nevada",1944,8.80,47.84
+"Nevada",1945,9.47,49.04
+"Nevada",1946,9.78,49.60
+"Nevada",1947,10.10,50.17
+"Nevada",1948,9.06,48.31
+"Nevada",1949,9.11,48.39
+"Nevada",1950,10.39,50.71
+"Nevada",1951,9.68,49.42
+"Nevada",1952,9.45,49.01
+"Nevada",1953,10.20,50.36
+"Nevada",1954,10.42,50.76
+"Nevada",1955,9.04,48.26
+"Nevada",1956,9.77,49.59
+"Nevada",1957,9.61,49.29
+"Nevada",1958,10.79,51.42
+"Nevada",1959,10.39,50.71
+"Nevada",1960,10.24,50.44
+"Nevada",1961,10.14,50.25
+"Nevada",1962,9.85,49.73
+"Nevada",1963,9.97,49.95
+"Nevada",1964,9.04,48.26
+"Nevada",1965,9.42,48.95
+"Nevada",1966,10.15,50.26
+"Nevada",1967,9.93,49.88
+"Nevada",1968,9.88,49.78
+"Nevada",1969,9.98,49.96
+"Nevada",1970,9.79,49.62
+"Nevada",1971,9.27,48.69
+"Nevada",1972,9.80,49.65
+"Nevada",1973,9.74,49.53
+"Nevada",1974,10.16,50.29
+"Nevada",1975,9.15,48.46
+"Nevada",1976,9.83,49.69
+"Nevada",1977,10.32,50.58
+"Nevada",1978,9.77,49.58
+"Nevada",1979,9.91,49.84
+"Nevada",1980,10.26,50.48
+"Nevada",1981,11.07,51.93
+"Nevada",1982,9.06,48.30
+"Nevada",1983,9.86,49.75
+"Nevada",1984,9.39,48.89
+"Nevada",1985,9.31,48.76
+"Nevada",1986,10.86,51.54
+"Nevada",1987,10.35,50.64
+"Nevada",1988,10.40,50.73
+"Nevada",1989,10.07,50.13
+"Nevada",1990,10.06,50.10
+"Nevada",1991,9.99,49.97
+"Nevada",1992,10.80,51.44
+"Nevada",1993,9.27,48.69
+"Nevada",1994,10.46,50.83
+"Nevada",1995,10.55,50.98
+"Nevada",1996,10.86,51.55
+"Nevada",1997,10.33,50.59
+"Nevada",1998,9.61,49.30
+"Nevada",1999,10.33,50.59
+"Nevada",2000,10.85,51.53
+"Nevada",2001,10.88,51.58
+"Nevada",2002,10.50,50.90
+"Nevada",2003,11.27,52.29
+"Nevada",2004,10.46,50.82
+"Nevada",2005,10.36,50.64
+"Nevada",2006,10.47,50.84
+"Nevada",2007,10.85,51.52
+"Nevada",2008,10.22,50.40
+"Nevada",2009,10.20,50.37
+"Nevada",2010,10.03,50.06
+"Nevada",2011,9.77,49.59
+"Nevada",2012,11.32,52.38
+"New Hampshire",1900,6.00,42.80
+"New Hampshire",1901,5.72,42.29
+"New Hampshire",1902,5.76,42.37
+"New Hampshire",1903,5.72,42.29
+"New Hampshire",1904,4.15,39.47
+"New Hampshire",1905,5.11,41.21
+"New Hampshire",1906,5.81,42.46
+"New Hampshire",1907,4.72,40.50
+"New Hampshire",1908,6.05,42.88
+"New Hampshire",1909,5.75,42.34
+"New Hampshire",1910,5.99,42.79
+"New Hampshire",1911,5.93,42.68
+"New Hampshire",1912,5.28,41.51
+"New Hampshire",1913,6.77,44.18
+"New Hampshire",1914,5.02,41.03
+"New Hampshire",1915,6.41,43.53
+"New Hampshire",1916,5.49,41.87
+"New Hampshire",1917,4.22,39.59
+"New Hampshire",1918,5.42,41.75
+"New Hampshire",1919,6.13,43.04
+"New Hampshire",1920,5.58,42.04
+"New Hampshire",1921,6.87,44.37
+"New Hampshire",1922,6.01,42.81
+"New Hampshire",1923,5.27,41.49
+"New Hampshire",1924,5.23,41.41
+"New Hampshire",1925,5.79,42.42
+"New Hampshire",1926,4.52,40.13
+"New Hampshire",1927,6.25,43.26
+"New Hampshire",1928,6.01,42.81
+"New Hampshire",1929,5.90,42.62
+"New Hampshire",1930,6.44,43.58
+"New Hampshire",1931,7.05,44.69
+"New Hampshire",1932,6.50,43.70
+"New Hampshire",1933,6.06,42.91
+"New Hampshire",1934,5.45,41.81
+"New Hampshire",1935,5.47,41.85
+"New Hampshire",1936,5.77,42.38
+"New Hampshire",1937,6.66,43.99
+"New Hampshire",1938,6.70,44.05
+"New Hampshire",1939,5.66,42.18
+"New Hampshire",1940,5.05,41.10
+"New Hampshire",1941,6.34,43.42
+"New Hampshire",1942,6.40,43.52
+"New Hampshire",1943,5.34,41.62
+"New Hampshire",1944,6.08,42.95
+"New Hampshire",1945,6.29,43.33
+"New Hampshire",1946,6.54,43.77
+"New Hampshire",1947,6.29,43.33
+"New Hampshire",1948,6.04,42.88
+"New Hampshire",1949,7.56,45.60
+"New Hampshire",1950,6.21,43.18
+"New Hampshire",1951,6.57,43.82
+"New Hampshire",1952,6.89,44.40
+"New Hampshire",1953,7.70,45.86
+"New Hampshire",1954,6.29,43.31
+"New Hampshire",1955,6.46,43.63
+"New Hampshire",1956,5.69,42.24
+"New Hampshire",1957,6.69,44.05
+"New Hampshire",1958,5.54,41.97
+"New Hampshire",1959,6.60,43.87
+"New Hampshire",1960,6.30,43.34
+"New Hampshire",1961,6.40,43.52
+"New Hampshire",1962,5.41,41.73
+"New Hampshire",1963,5.75,42.35
+"New Hampshire",1964,6.05,42.89
+"New Hampshire",1965,5.67,42.20
+"New Hampshire",1966,6.10,42.98
+"New Hampshire",1967,5.68,42.22
+"New Hampshire",1968,5.76,42.37
+"New Hampshire",1969,6.26,43.27
+"New Hampshire",1970,5.99,42.78
+"New Hampshire",1971,5.99,42.77
+"New Hampshire",1972,5.38,41.69
+"New Hampshire",1973,7.21,44.97
+"New Hampshire",1974,6.00,42.81
+"New Hampshire",1975,6.60,43.87
+"New Hampshire",1976,5.65,42.18
+"New Hampshire",1977,6.24,43.22
+"New Hampshire",1978,5.32,41.58
+"New Hampshire",1979,6.62,43.92
+"New Hampshire",1980,5.66,42.19
+"New Hampshire",1981,6.52,43.73
+"New Hampshire",1982,5.89,42.60
+"New Hampshire",1983,6.89,44.40
+"New Hampshire",1984,6.64,43.96
+"New Hampshire",1985,6.06,42.90
+"New Hampshire",1986,6.19,43.14
+"New Hampshire",1987,6.45,43.60
+"New Hampshire",1988,6.22,43.19
+"New Hampshire",1989,5.66,42.19
+"New Hampshire",1990,7.46,45.43
+"New Hampshire",1991,7.21,44.97
+"New Hampshire",1992,5.67,42.20
+"New Hampshire",1993,6.06,42.91
+"New Hampshire",1994,6.16,43.09
+"New Hampshire",1995,6.49,43.68
+"New Hampshire",1996,6.32,43.38
+"New Hampshire",1997,5.98,42.77
+"New Hampshire",1998,8.02,46.44
+"New Hampshire",1999,7.67,45.80
+"New Hampshire",2000,6.29,43.32
+"New Hampshire",2001,7.27,45.09
+"New Hampshire",2002,7.19,44.94
+"New Hampshire",2003,6.10,42.98
+"New Hampshire",2004,6.26,43.27
+"New Hampshire",2005,6.92,44.46
+"New Hampshire",2006,7.89,46.21
+"New Hampshire",2007,6.45,43.60
+"New Hampshire",2008,6.83,44.29
+"New Hampshire",2009,6.36,43.45
+"New Hampshire",2010,8.02,46.43
+"New Hampshire",2011,7.47,45.45
+"New Hampshire",2012,8.32,46.98
+"New Jersey",1900,11.46,52.63
+"New Jersey",1901,10.28,50.50
+"New Jersey",1902,10.52,50.94
+"New Jersey",1903,10.40,50.73
+"New Jersey",1904,9.03,48.25
+"New Jersey",1905,10.15,50.27
+"New Jersey",1906,11.01,51.82
+"New Jersey",1907,9.60,49.28
+"New Jersey",1908,10.93,51.67
+"New Jersey",1909,10.62,51.11
+"New Jersey",1910,10.60,51.09
+"New Jersey",1911,11.04,51.88
+"New Jersey",1912,10.33,50.60
+"New Jersey",1913,11.82,53.27
+"New Jersey",1914,10.21,50.37
+"New Jersey",1915,10.89,51.60
+"New Jersey",1916,10.23,50.42
+"New Jersey",1917,9.37,48.86
+"New Jersey",1918,10.55,50.99
+"New Jersey",1919,11.13,52.04
+"New Jersey",1920,10.27,50.49
+"New Jersey",1921,11.97,53.55
+"New Jersey",1922,11.13,52.04
+"New Jersey",1923,10.70,51.25
+"New Jersey",1924,9.93,49.88
+"New Jersey",1925,10.88,51.59
+"New Jersey",1926,9.74,49.53
+"New Jersey",1927,10.77,51.39
+"New Jersey",1928,10.78,51.40
+"New Jersey",1929,11.03,51.85
+"New Jersey",1930,11.27,52.29
+"New Jersey",1931,12.04,53.68
+"New Jersey",1932,11.51,52.72
+"New Jersey",1933,11.33,52.40
+"New Jersey",1934,10.57,51.02
+"New Jersey",1935,10.54,50.97
+"New Jersey",1936,10.83,51.50
+"New Jersey",1937,11.23,52.22
+"New Jersey",1938,11.51,52.72
+"New Jersey",1939,11.27,52.28
+"New Jersey",1940,9.64,49.35
+"New Jersey",1941,11.27,52.28
+"New Jersey",1942,11.11,52.00
+"New Jersey",1943,10.72,51.29
+"New Jersey",1944,11.03,51.86
+"New Jersey",1945,11.08,51.95
+"New Jersey",1946,11.70,53.06
+"New Jersey",1947,10.95,51.71
+"New Jersey",1948,10.89,51.61
+"New Jersey",1949,12.40,54.32
+"New Jersey",1950,10.84,51.51
+"New Jersey",1951,11.37,52.47
+"New Jersey",1952,11.58,52.84
+"New Jersey",1953,12.16,53.89
+"New Jersey",1954,11.42,52.55
+"New Jersey",1955,11.35,52.43
+"New Jersey",1956,10.91,51.64
+"New Jersey",1957,11.58,52.84
+"New Jersey",1958,10.19,50.35
+"New Jersey",1959,11.82,53.28
+"New Jersey",1960,10.80,51.44
+"New Jersey",1961,11.04,51.87
+"New Jersey",1962,10.36,50.64
+"New Jersey",1963,10.40,50.72
+"New Jersey",1964,11.03,51.86
+"New Jersey",1965,10.73,51.31
+"New Jersey",1966,10.75,51.34
+"New Jersey",1967,10.32,50.58
+"New Jersey",1968,10.88,51.59
+"New Jersey",1969,10.79,51.42
+"New Jersey",1970,10.88,51.59
+"New Jersey",1971,11.14,52.06
+"New Jersey",1972,10.60,51.07
+"New Jersey",1973,11.96,53.53
+"New Jersey",1974,11.21,52.18
+"New Jersey",1975,11.59,52.87
+"New Jersey",1976,10.67,51.20
+"New Jersey",1977,11.13,52.03
+"New Jersey",1978,10.28,50.50
+"New Jersey",1979,10.99,51.79
+"New Jersey",1980,10.95,51.71
+"New Jersey",1981,10.92,51.65
+"New Jersey",1982,10.88,51.58
+"New Jersey",1983,11.52,52.74
+"New Jersey",1984,11.31,52.35
+"New Jersey",1985,11.47,52.64
+"New Jersey",1986,11.32,52.38
+"New Jersey",1987,11.36,52.45
+"New Jersey",1988,10.89,51.60
+"New Jersey",1989,10.80,51.44
+"New Jersey",1990,12.44,54.39
+"New Jersey",1991,12.42,54.35
+"New Jersey",1992,10.69,51.25
+"New Jersey",1993,11.18,52.12
+"New Jersey",1994,11.16,52.08
+"New Jersey",1995,11.32,52.38
+"New Jersey",1996,10.81,51.45
+"New Jersey",1997,11.14,52.05
+"New Jersey",1998,12.79,55.01
+"New Jersey",1999,12.17,53.91
+"New Jersey",2000,11.08,51.94
+"New Jersey",2001,11.94,53.49
+"New Jersey",2002,12.36,54.24
+"New Jersey",2003,10.89,51.61
+"New Jersey",2004,11.48,52.66
+"New Jersey",2005,11.64,52.96
+"New Jersey",2006,12.52,54.54
+"New Jersey",2007,11.74,53.12
+"New Jersey",2008,11.76,53.17
+"New Jersey",2009,11.26,52.26
+"New Jersey",2010,12.27,54.08
+"New Jersey",2011,12.40,54.32
+"New Jersey",2012,12.96,55.32
+"New Mexico",1900,12.17,53.91
+"New Mexico",1901,12.05,53.69
+"New Mexico",1902,11.96,53.53
+"New Mexico",1903,11.17,52.10
+"New Mexico",1904,11.83,53.30
+"New Mexico",1905,11.27,52.28
+"New Mexico",1906,11.65,52.97
+"New Mexico",1907,12.14,53.86
+"New Mexico",1908,11.50,52.70
+"New Mexico",1909,11.75,53.15
+"New Mexico",1910,12.85,55.13
+"New Mexico",1911,11.88,53.39
+"New Mexico",1912,10.70,51.25
+"New Mexico",1913,10.87,51.57
+"New Mexico",1914,11.88,53.38
+"New Mexico",1915,11.09,51.96
+"New Mexico",1916,12.03,53.66
+"New Mexico",1917,11.62,52.92
+"New Mexico",1918,11.52,52.73
+"New Mexico",1919,11.19,52.14
+"New Mexico",1920,11.37,52.47
+"New Mexico",1921,12.44,54.38
+"New Mexico",1922,11.91,53.44
+"New Mexico",1923,11.45,52.60
+"New Mexico",1924,11.52,52.74
+"New Mexico",1925,12.03,53.66
+"New Mexico",1926,11.62,52.92
+"New Mexico",1927,12.40,54.33
+"New Mexico",1928,11.74,53.13
+"New Mexico",1929,11.18,52.12
+"New Mexico",1930,11.50,52.70
+"New Mexico",1931,11.68,53.03
+"New Mexico",1932,11.24,52.23
+"New Mexico",1933,12.05,53.69
+"New Mexico",1934,13.25,55.84
+"New Mexico",1935,12.04,53.67
+"New Mexico",1936,12.16,53.89
+"New Mexico",1937,11.94,53.50
+"New Mexico",1938,12.07,53.73
+"New Mexico",1939,11.97,53.55
+"New Mexico",1940,12.07,53.73
+"New Mexico",1941,11.55,52.79
+"New Mexico",1942,11.78,53.20
+"New Mexico",1943,12.37,54.26
+"New Mexico",1944,11.38,52.49
+"New Mexico",1945,11.88,53.38
+"New Mexico",1946,12.34,54.21
+"New Mexico",1947,11.79,53.22
+"New Mexico",1948,11.75,53.14
+"New Mexico",1949,11.53,52.75
+"New Mexico",1950,12.77,54.99
+"New Mexico",1951,12.06,53.71
+"New Mexico",1952,11.91,53.44
+"New Mexico",1953,12.24,54.03
+"New Mexico",1954,13.11,55.60
+"New Mexico",1955,11.78,53.21
+"New Mexico",1956,12.24,54.04
+"New Mexico",1957,12.09,53.76
+"New Mexico",1958,12.13,53.84
+"New Mexico",1959,12.01,53.62
+"New Mexico",1960,11.60,52.88
+"New Mexico",1961,11.54,52.78
+"New Mexico",1962,12.18,53.93
+"New Mexico",1963,12.33,54.20
+"New Mexico",1964,11.37,52.46
+"New Mexico",1965,11.85,53.34
+"New Mexico",1966,11.81,53.26
+"New Mexico",1967,12.06,53.72
+"New Mexico",1968,11.50,52.70
+"New Mexico",1969,12.17,53.90
+"New Mexico",1970,11.68,53.03
+"New Mexico",1971,11.64,52.95
+"New Mexico",1972,12.10,53.79
+"New Mexico",1973,11.29,52.33
+"New Mexico",1974,11.95,53.52
+"New Mexico",1975,11.18,52.12
+"New Mexico",1976,11.46,52.62
+"New Mexico",1977,12.47,54.44
+"New Mexico",1978,12.14,53.85
+"New Mexico",1979,11.40,52.52
+"New Mexico",1980,12.40,54.32
+"New Mexico",1981,12.80,55.05
+"New Mexico",1982,11.80,53.24
+"New Mexico",1983,11.74,53.13
+"New Mexico",1984,11.71,53.07
+"New Mexico",1985,11.96,53.53
+"New Mexico",1986,12.35,54.23
+"New Mexico",1987,11.45,52.62
+"New Mexico",1988,11.82,53.28
+"New Mexico",1989,12.53,54.55
+"New Mexico",1990,12.13,53.83
+"New Mexico",1991,11.72,53.09
+"New Mexico",1992,11.72,53.09
+"New Mexico",1993,12.00,53.61
+"New Mexico",1994,12.74,54.93
+"New Mexico",1995,12.64,54.76
+"New Mexico",1996,12.84,55.11
+"New Mexico",1997,11.87,53.37
+"New Mexico",1998,12.58,54.64
+"New Mexico",1999,12.62,54.72
+"New Mexico",2000,13.08,55.54
+"New Mexico",2001,12.74,54.93
+"New Mexico",2002,12.64,54.75
+"New Mexico",2003,13.23,55.81
+"New Mexico",2004,12.16,53.90
+"New Mexico",2005,12.80,55.04
+"New Mexico",2006,12.83,55.10
+"New Mexico",2007,12.49,54.48
+"New Mexico",2008,12.21,53.97
+"New Mexico",2009,12.50,54.50
+"New Mexico",2010,12.45,54.41
+"New Mexico",2011,12.73,54.92
+"New Mexico",2012,13.48,56.27
+"New York",1900,7.86,46.15
+"New York",1901,7.10,44.77
+"New York",1902,7.16,44.88
+"New York",1903,7.16,44.88
+"New York",1904,5.62,42.12
+"New York",1905,6.71,44.07
+"New York",1906,7.49,45.48
+"New York",1907,6.30,43.34
+"New York",1908,7.58,45.65
+"New York",1909,7.18,44.93
+"New York",1910,7.25,45.06
+"New York",1911,7.71,45.88
+"New York",1912,6.69,44.05
+"New York",1913,8.40,47.11
+"New York",1914,6.64,43.95
+"New York",1915,7.58,45.64
+"New York",1916,7.05,44.68
+"New York",1917,5.60,42.08
+"New York",1918,7.10,44.78
+"New York",1919,7.80,46.04
+"New York",1920,6.91,44.43
+"New York",1921,8.83,47.89
+"New York",1922,7.75,45.95
+"New York",1923,6.88,44.38
+"New York",1924,6.40,43.51
+"New York",1925,7.25,45.05
+"New York",1926,5.99,42.78
+"New York",1927,7.62,45.72
+"New York",1928,7.53,45.56
+"New York",1929,7.33,45.19
+"New York",1930,7.92,46.25
+"New York",1931,8.73,47.71
+"New York",1932,8.03,46.45
+"New York",1933,7.97,46.35
+"New York",1934,7.04,44.68
+"New York",1935,6.98,44.56
+"New York",1936,7.36,45.25
+"New York",1937,7.96,46.33
+"New York",1938,8.25,46.85
+"New York",1939,7.52,45.54
+"New York",1940,6.33,43.39
+"New York",1941,7.97,46.34
+"New York",1942,7.78,46.00
+"New York",1943,6.86,44.35
+"New York",1944,7.66,45.79
+"New York",1945,7.58,45.64
+"New York",1946,8.24,46.83
+"New York",1947,7.67,45.81
+"New York",1948,7.65,45.76
+"New York",1949,9.04,48.28
+"New York",1950,7.44,45.39
+"New York",1951,7.88,46.18
+"New York",1952,8.38,47.09
+"New York",1953,9.06,48.31
+"New York",1954,7.93,46.28
+"New York",1955,8.17,46.70
+"New York",1956,7.29,45.13
+"New York",1957,8.18,46.72
+"New York",1958,6.89,44.41
+"New York",1959,8.18,46.72
+"New York",1960,7.56,45.61
+"New York",1961,7.79,46.02
+"New York",1962,7.10,44.78
+"New York",1963,7.00,44.60
+"New York",1964,7.88,46.19
+"New York",1965,7.23,45.02
+"New York",1966,7.46,45.43
+"New York",1967,7.24,45.03
+"New York",1968,7.36,45.24
+"New York",1969,7.50,45.50
+"New York",1970,7.45,45.42
+"New York",1971,7.59,45.66
+"New York",1972,6.89,44.40
+"New York",1973,8.70,47.66
+"New York",1974,7.53,45.55
+"New York",1975,8.22,46.79
+"New York",1976,7.00,44.60
+"New York",1977,7.70,45.85
+"New York",1978,6.77,44.19
+"New York",1979,7.74,45.94
+"New York",1980,7.19,44.95
+"New York",1981,7.75,45.94
+"New York",1982,7.54,45.57
+"New York",1983,8.20,46.76
+"New York",1984,7.99,46.38
+"New York",1985,7.74,45.94
+"New York",1986,7.91,46.24
+"New York",1987,8.22,46.80
+"New York",1988,7.80,46.05
+"New York",1989,7.24,45.03
+"New York",1990,9.10,48.38
+"New York",1991,9.03,48.26
+"New York",1992,7.20,44.96
+"New York",1993,7.44,45.40
+"New York",1994,7.50,45.50
+"New York",1995,8.00,46.40
+"New York",1996,7.59,45.67
+"New York",1997,7.53,45.55
+"New York",1998,9.69,49.44
+"New York",1999,8.92,48.05
+"New York",2000,7.74,45.93
+"New York",2001,8.92,48.06
+"New York",2002,8.90,48.03
+"New York",2003,7.60,45.67
+"New York",2004,7.90,46.23
+"New York",2005,8.51,47.32
+"New York",2006,9.29,48.71
+"New York",2007,8.21,46.77
+"New York",2008,8.29,46.93
+"New York",2009,7.88,46.19
+"New York",2010,9.14,48.45
+"New York",2011,9.01,48.21
+"New York",2012,9.91,49.85
+"North Carolina",1900,15.14,59.25
+"North Carolina",1901,13.81,56.86
+"North Carolina",1902,14.57,58.22
+"North Carolina",1903,14.35,57.83
+"North Carolina",1904,13.61,56.49
+"North Carolina",1905,14.33,57.80
+"North Carolina",1906,14.90,58.82
+"North Carolina",1907,14.43,57.97
+"North Carolina",1908,14.88,58.78
+"North Carolina",1909,14.71,58.48
+"North Carolina",1910,14.38,57.89
+"North Carolina",1911,15.50,59.91
+"North Carolina",1912,14.40,57.93
+"North Carolina",1913,15.29,59.52
+"North Carolina",1914,14.42,57.95
+"North Carolina",1915,14.61,58.29
+"North Carolina",1916,14.80,58.64
+"North Carolina",1917,13.59,56.46
+"North Carolina",1918,14.69,58.43
+"North Carolina",1919,15.23,59.41
+"North Carolina",1920,14.14,57.45
+"North Carolina",1921,15.96,60.72
+"North Carolina",1922,15.35,59.62
+"North Carolina",1923,14.98,58.96
+"North Carolina",1924,14.09,57.36
+"North Carolina",1925,15.37,59.67
+"North Carolina",1926,14.73,58.52
+"North Carolina",1927,15.36,59.64
+"North Carolina",1928,14.62,58.31
+"North Carolina",1929,14.90,58.82
+"North Carolina",1930,14.92,58.85
+"North Carolina",1931,15.54,59.98
+"North Carolina",1932,15.76,60.36
+"North Carolina",1933,15.99,60.79
+"North Carolina",1934,15.06,59.11
+"North Carolina",1935,14.97,58.95
+"North Carolina",1936,15.03,59.05
+"North Carolina",1937,14.94,58.88
+"North Carolina",1938,15.62,60.12
+"North Carolina",1939,15.69,60.25
+"North Carolina",1940,14.14,57.44
+"North Carolina",1941,15.29,59.52
+"North Carolina",1942,15.14,59.26
+"North Carolina",1943,15.02,59.03
+"North Carolina",1944,14.96,58.93
+"North Carolina",1945,15.41,59.74
+"North Carolina",1946,15.64,60.15
+"North Carolina",1947,14.64,58.35
+"North Carolina",1948,15.24,59.43
+"North Carolina",1949,15.97,60.74
+"North Carolina",1950,15.11,59.20
+"North Carolina",1951,15.16,59.28
+"North Carolina",1952,15.43,59.77
+"North Carolina",1953,15.82,60.47
+"North Carolina",1954,15.41,59.75
+"North Carolina",1955,15.13,59.24
+"North Carolina",1956,15.41,59.74
+"North Carolina",1957,15.52,59.94
+"North Carolina",1958,14.12,57.42
+"North Carolina",1959,15.44,59.78
+"North Carolina",1960,14.39,57.90
+"North Carolina",1961,14.82,58.68
+"North Carolina",1962,14.63,58.34
+"North Carolina",1963,14.16,57.48
+"North Carolina",1964,14.91,58.83
+"North Carolina",1965,15.00,58.99
+"North Carolina",1966,14.28,57.71
+"North Carolina",1967,14.41,57.94
+"North Carolina",1968,14.44,57.99
+"North Carolina",1969,14.29,57.72
+"North Carolina",1970,15.08,59.15
+"North Carolina",1971,15.19,59.34
+"North Carolina",1972,14.86,58.75
+"North Carolina",1973,15.36,59.65
+"North Carolina",1974,15.36,59.65
+"North Carolina",1975,15.52,59.93
+"North Carolina",1976,14.38,57.89
+"North Carolina",1977,14.97,58.94
+"North Carolina",1978,14.49,58.08
+"North Carolina",1979,14.59,58.26
+"North Carolina",1980,14.79,58.62
+"North Carolina",1981,14.35,57.83
+"North Carolina",1982,15.12,59.22
+"North Carolina",1983,14.73,58.51
+"North Carolina",1984,15.14,59.25
+"North Carolina",1985,15.46,59.84
+"North Carolina",1986,15.79,60.42
+"North Carolina",1987,15.09,59.16
+"North Carolina",1988,14.44,57.99
+"North Carolina",1989,14.95,58.91
+"North Carolina",1990,16.55,61.80
+"North Carolina",1991,16.10,60.97
+"North Carolina",1992,14.93,58.88
+"North Carolina",1993,15.24,59.43
+"North Carolina",1994,15.38,59.69
+"North Carolina",1995,15.12,59.21
+"North Carolina",1996,14.73,58.51
+"North Carolina",1997,14.94,58.90
+"North Carolina",1998,16.44,61.58
+"North Carolina",1999,15.81,60.46
+"North Carolina",2000,15.10,59.18
+"North Carolina",2001,15.65,60.17
+"North Carolina",2002,16.01,60.82
+"North Carolina",2003,15.27,59.49
+"North Carolina",2004,15.62,60.12
+"North Carolina",2005,15.66,60.19
+"North Carolina",2006,15.86,60.55
+"North Carolina",2007,16.22,61.19
+"North Carolina",2008,15.53,59.96
+"North Carolina",2009,15.30,59.55
+"North Carolina",2010,15.36,59.64
+"North Carolina",2011,16.12,61.01
+"North Carolina",2012,16.32,61.38
+"North Dakota",1900,5.20,41.35
+"North Dakota",1901,4.84,40.72
+"North Dakota",1902,4.02,39.24
+"North Dakota",1903,3.51,38.31
+"North Dakota",1904,3.18,37.73
+"North Dakota",1905,4.11,39.40
+"North Dakota",1906,4.38,39.88
+"North Dakota",1907,2.85,37.13
+"North Dakota",1908,4.86,40.74
+"North Dakota",1909,3.55,38.40
+"North Dakota",1910,5.04,41.08
+"North Dakota",1911,3.59,38.45
+"North Dakota",1912,3.53,38.36
+"North Dakota",1913,4.44,39.99
+"North Dakota",1914,4.62,40.32
+"North Dakota",1915,4.33,39.80
+"North Dakota",1916,2.45,36.40
+"North Dakota",1917,2.54,36.57
+"North Dakota",1918,4.43,39.97
+"North Dakota",1919,3.81,38.86
+"North Dakota",1920,4.33,39.79
+"North Dakota",1921,5.65,42.17
+"North Dakota",1922,4.37,39.87
+"North Dakota",1923,4.79,40.62
+"North Dakota",1924,3.46,38.24
+"North Dakota",1925,4.72,40.49
+"North Dakota",1926,4.76,40.57
+"North Dakota",1927,3.30,37.94
+"North Dakota",1928,5.04,41.06
+"North Dakota",1929,3.19,37.74
+"North Dakota",1930,5.06,41.11
+"North Dakota",1931,6.97,44.55
+"North Dakota",1932,4.26,39.67
+"North Dakota",1933,5.02,41.04
+"North Dakota",1934,6.20,43.15
+"North Dakota",1935,4.07,39.32
+"North Dakota",1936,3.64,38.56
+"North Dakota",1937,3.81,38.86
+"North Dakota",1938,5.46,41.82
+"North Dakota",1939,5.45,41.82
+"North Dakota",1940,4.91,40.84
+"North Dakota",1941,5.63,42.14
+"North Dakota",1942,4.88,40.79
+"North Dakota",1943,4.34,39.82
+"North Dakota",1944,4.90,40.83
+"North Dakota",1945,3.83,38.90
+"North Dakota",1946,4.92,40.86
+"North Dakota",1947,4.48,40.06
+"North Dakota",1948,4.42,39.96
+"North Dakota",1949,4.36,39.85
+"North Dakota",1950,2.04,35.67
+"North Dakota",1951,2.41,36.33
+"North Dakota",1952,5.12,41.22
+"North Dakota",1953,5.86,42.56
+"North Dakota",1954,5.23,41.41
+"North Dakota",1955,4.06,39.32
+"North Dakota",1956,4.27,39.69
+"North Dakota",1957,4.79,40.61
+"North Dakota",1958,5.10,41.18
+"North Dakota",1959,4.44,40.00
+"North Dakota",1960,4.51,40.11
+"North Dakota",1961,5.35,41.63
+"North Dakota",1962,4.67,40.40
+"North Dakota",1963,5.79,42.43
+"North Dakota",1964,4.58,40.24
+"North Dakota",1965,3.43,38.18
+"North Dakota",1966,3.63,38.54
+"North Dakota",1967,4.29,39.72
+"North Dakota",1968,4.40,39.92
+"North Dakota",1969,4.01,39.21
+"North Dakota",1970,3.82,38.88
+"North Dakota",1971,4.20,39.56
+"North Dakota",1972,3.34,38.02
+"North Dakota",1973,5.64,42.16
+"North Dakota",1974,4.67,40.41
+"North Dakota",1975,4.37,39.87
+"North Dakota",1976,5.37,41.66
+"North Dakota",1977,5.24,41.44
+"North Dakota",1978,3.60,38.48
+"North Dakota",1979,3.16,37.69
+"North Dakota",1980,5.34,41.61
+"North Dakota",1981,6.47,43.65
+"North Dakota",1982,3.50,38.30
+"North Dakota",1983,5.28,41.51
+"North Dakota",1984,5.24,41.42
+"North Dakota",1985,3.68,38.63
+"North Dakota",1986,5.56,42.01
+"North Dakota",1987,7.44,45.40
+"North Dakota",1988,6.07,42.93
+"North Dakota",1989,4.39,39.90
+"North Dakota",1990,6.07,42.93
+"North Dakota",1991,6.00,42.79
+"North Dakota",1992,5.40,41.71
+"North Dakota",1993,3.82,38.87
+"North Dakota",1994,4.76,40.57
+"North Dakota",1995,4.53,40.16
+"North Dakota",1996,2.81,37.06
+"North Dakota",1997,5.10,41.18
+"North Dakota",1998,6.51,43.72
+"North Dakota",1999,6.42,43.55
+"North Dakota",2000,5.36,41.66
+"North Dakota",2001,6.00,42.80
+"North Dakota",2002,5.36,41.65
+"North Dakota",2003,5.29,41.51
+"North Dakota",2004,5.12,41.22
+"North Dakota",2005,6.10,42.97
+"North Dakota",2006,6.91,44.45
+"North Dakota",2007,5.77,42.39
+"North Dakota",2008,4.40,39.92
+"North Dakota",2009,4.00,39.19
+"North Dakota",2010,5.26,41.47
+"North Dakota",2011,5.16,41.29
+"North Dakota",2012,7.06,44.71
+"Ohio",1900,10.91,51.63
+"Ohio",1901,9.76,49.57
+"Ohio",1902,10.08,50.14
+"Ohio",1903,9.94,49.90
+"Ohio",1904,8.92,48.06
+"Ohio",1905,9.70,49.46
+"Ohio",1906,10.57,51.03
+"Ohio",1907,9.47,49.05
+"Ohio",1908,10.82,51.47
+"Ohio",1909,10.20,50.35
+"Ohio",1910,9.93,49.87
+"Ohio",1911,11.15,52.08
+"Ohio",1912,9.48,49.06
+"Ohio",1913,11.03,51.85
+"Ohio",1914,10.19,50.34
+"Ohio",1915,10.12,50.22
+"Ohio",1916,10.18,50.33
+"Ohio",1917,8.50,47.30
+"Ohio",1918,10.43,50.78
+"Ohio",1919,10.93,51.67
+"Ohio",1920,9.80,49.64
+"Ohio",1921,12.18,53.92
+"Ohio",1922,11.18,52.12
+"Ohio",1923,10.41,50.73
+"Ohio",1924,9.21,48.58
+"Ohio",1925,10.40,50.71
+"Ohio",1926,9.62,49.32
+"Ohio",1927,10.78,51.41
+"Ohio",1928,10.21,50.38
+"Ohio",1929,9.90,49.82
+"Ohio",1930,10.93,51.68
+"Ohio",1931,11.91,53.44
+"Ohio",1932,11.00,51.79
+"Ohio",1933,11.39,52.50
+"Ohio",1934,10.80,51.43
+"Ohio",1935,10.27,50.49
+"Ohio",1936,10.45,50.81
+"Ohio",1937,10.24,50.43
+"Ohio",1938,11.56,52.80
+"Ohio",1939,11.29,52.33
+"Ohio",1940,9.57,49.22
+"Ohio",1941,11.18,52.12
+"Ohio",1942,10.65,51.17
+"Ohio",1943,10.17,50.30
+"Ohio",1944,10.90,51.61
+"Ohio",1945,10.32,50.57
+"Ohio",1946,11.51,52.71
+"Ohio",1947,10.30,50.53
+"Ohio",1948,10.68,51.22
+"Ohio",1949,11.77,53.19
+"Ohio",1950,10.06,50.11
+"Ohio",1951,10.40,50.72
+"Ohio",1952,11.26,52.27
+"Ohio",1953,11.71,53.07
+"Ohio",1954,11.31,52.36
+"Ohio",1955,11.15,52.07
+"Ohio",1956,10.81,51.45
+"Ohio",1957,10.90,51.63
+"Ohio",1958,9.59,49.25
+"Ohio",1959,11.22,52.20
+"Ohio",1960,10.07,50.12
+"Ohio",1961,10.52,50.93
+"Ohio",1962,10.18,50.33
+"Ohio",1963,9.65,49.38
+"Ohio",1964,10.95,51.71
+"Ohio",1965,10.71,51.28
+"Ohio",1966,10.05,50.09
+"Ohio",1967,10.20,50.35
+"Ohio",1968,10.32,50.58
+"Ohio",1969,10.13,50.23
+"Ohio",1970,10.78,51.41
+"Ohio",1971,10.80,51.44
+"Ohio",1972,10.13,50.24
+"Ohio",1973,11.67,53.01
+"Ohio",1974,10.69,51.25
+"Ohio",1975,11.11,52.00
+"Ohio",1976,9.87,49.76
+"Ohio",1977,10.50,50.90
+"Ohio",1978,9.56,49.21
+"Ohio",1979,9.89,49.80
+"Ohio",1980,10.11,50.20
+"Ohio",1981,10.23,50.42
+"Ohio",1982,10.61,51.09
+"Ohio",1983,11.00,51.80
+"Ohio",1984,10.65,51.17
+"Ohio",1985,10.67,51.21
+"Ohio",1986,11.30,52.35
+"Ohio",1987,11.66,52.98
+"Ohio",1988,10.62,51.11
+"Ohio",1989,10.08,50.15
+"Ohio",1990,11.87,53.37
+"Ohio",1991,12.10,53.78
+"Ohio",1992,10.51,50.92
+"Ohio",1993,10.61,51.10
+"Ohio",1994,10.69,51.24
+"Ohio",1995,10.60,51.08
+"Ohio",1996,10.15,50.27
+"Ohio",1997,10.37,50.66
+"Ohio",1998,12.64,54.76
+"Ohio",1999,11.73,53.12
+"Ohio",2000,10.88,51.58
+"Ohio",2001,11.73,53.12
+"Ohio",2002,11.85,53.33
+"Ohio",2003,10.58,51.05
+"Ohio",2004,11.18,52.12
+"Ohio",2005,11.40,52.51
+"Ohio",2006,11.90,53.43
+"Ohio",2007,11.65,52.96
+"Ohio",2008,10.76,51.38
+"Ohio",2009,10.73,51.32
+"Ohio",2010,11.40,52.52
+"Ohio",2011,11.72,53.09
+"Ohio",2012,12.63,54.73
+"Oklahoma",1900,15.56,60.01
+"Oklahoma",1901,15.50,59.89
+"Oklahoma",1902,15.14,59.25
+"Oklahoma",1903,14.25,57.66
+"Oklahoma",1904,15.29,59.52
+"Oklahoma",1905,14.32,57.78
+"Oklahoma",1906,14.64,58.35
+"Oklahoma",1907,15.57,60.03
+"Oklahoma",1908,15.53,59.96
+"Oklahoma",1909,15.60,60.07
+"Oklahoma",1910,15.85,60.53
+"Oklahoma",1911,16.20,61.16
+"Oklahoma",1912,14.30,57.74
+"Oklahoma",1913,15.16,59.28
+"Oklahoma",1914,15.56,60.01
+"Oklahoma",1915,14.79,58.62
+"Oklahoma",1916,15.34,59.61
+"Oklahoma",1917,14.45,58.01
+"Oklahoma",1918,15.41,59.74
+"Oklahoma",1919,14.80,58.65
+"Oklahoma",1920,14.88,58.79
+"Oklahoma",1921,16.65,61.98
+"Oklahoma",1922,15.85,60.53
+"Oklahoma",1923,15.52,59.93
+"Oklahoma",1924,14.59,58.26
+"Oklahoma",1925,15.96,60.73
+"Oklahoma",1926,15.11,59.20
+"Oklahoma",1927,15.82,60.48
+"Oklahoma",1928,15.47,59.84
+"Oklahoma",1929,14.68,58.43
+"Oklahoma",1930,15.56,60.00
+"Oklahoma",1931,16.21,61.19
+"Oklahoma",1932,15.34,59.62
+"Oklahoma",1933,16.64,61.95
+"Oklahoma",1934,16.74,62.13
+"Oklahoma",1935,15.53,59.96
+"Oklahoma",1936,15.99,60.78
+"Oklahoma",1937,15.15,59.26
+"Oklahoma",1938,16.60,61.89
+"Oklahoma",1939,16.63,61.94
+"Oklahoma",1940,14.80,58.64
+"Oklahoma",1941,15.69,60.25
+"Oklahoma",1942,15.29,59.53
+"Oklahoma",1943,15.75,60.35
+"Oklahoma",1944,15.63,60.14
+"Oklahoma",1945,15.17,59.30
+"Oklahoma",1946,16.56,61.80
+"Oklahoma",1947,15.41,59.74
+"Oklahoma",1948,15.17,59.31
+"Oklahoma",1949,15.16,59.29
+"Oklahoma",1950,15.18,59.32
+"Oklahoma",1951,15.28,59.50
+"Oklahoma",1952,16.07,60.93
+"Oklahoma",1953,16.47,61.65
+"Oklahoma",1954,17.23,63.02
+"Oklahoma",1955,15.93,60.67
+"Oklahoma",1956,16.64,61.95
+"Oklahoma",1957,15.30,59.54
+"Oklahoma",1958,15.08,59.15
+"Oklahoma",1959,15.21,59.39
+"Oklahoma",1960,14.91,58.84
+"Oklahoma",1961,14.85,58.74
+"Oklahoma",1962,15.73,60.31
+"Oklahoma",1963,16.27,61.29
+"Oklahoma",1964,15.88,60.58
+"Oklahoma",1965,16.04,60.87
+"Oklahoma",1966,15.09,59.16
+"Oklahoma",1967,15.57,60.03
+"Oklahoma",1968,14.86,58.75
+"Oklahoma",1969,15.37,59.67
+"Oklahoma",1970,15.46,59.82
+"Oklahoma",1971,15.62,60.12
+"Oklahoma",1972,15.44,59.79
+"Oklahoma",1973,15.38,59.68
+"Oklahoma",1974,15.69,60.23
+"Oklahoma",1975,15.19,59.34
+"Oklahoma",1976,15.14,59.26
+"Oklahoma",1977,16.32,61.38
+"Oklahoma",1978,15.10,59.17
+"Oklahoma",1979,14.50,58.11
+"Oklahoma",1980,16.19,61.15
+"Oklahoma",1981,16.16,61.10
+"Oklahoma",1982,15.34,59.62
+"Oklahoma",1983,14.82,58.67
+"Oklahoma",1984,15.61,60.09
+"Oklahoma",1985,15.23,59.42
+"Oklahoma",1986,16.34,61.42
+"Oklahoma",1987,15.73,60.32
+"Oklahoma",1988,15.49,59.88
+"Oklahoma",1989,14.89,58.80
+"Oklahoma",1990,16.32,61.38
+"Oklahoma",1991,16.12,61.02
+"Oklahoma",1992,15.57,60.03
+"Oklahoma",1993,14.90,58.82
+"Oklahoma",1994,15.85,60.54
+"Oklahoma",1995,15.63,60.13
+"Oklahoma",1996,15.40,59.73
+"Oklahoma",1997,15.25,59.46
+"Oklahoma",1998,17.06,62.71
+"Oklahoma",1999,16.69,62.04
+"Oklahoma",2000,16.14,61.06
+"Oklahoma",2001,16.41,61.54
+"Oklahoma",2002,15.67,60.21
+"Oklahoma",2003,15.94,60.68
+"Oklahoma",2004,16.02,60.83
+"Oklahoma",2005,16.36,61.44
+"Oklahoma",2006,17.11,62.79
+"Oklahoma",2007,15.93,60.68
+"Oklahoma",2008,15.64,60.15
+"Oklahoma",2009,15.57,60.02
+"Oklahoma",2010,16.08,60.95
+"Oklahoma",2011,16.90,62.41
+"Oklahoma",2012,17.68,63.82
+"Oregon",1900,8.67,47.61
+"Oregon",1901,8.21,46.77
+"Oregon",1902,7.79,46.02
+"Oregon",1903,7.64,45.76
+"Oregon",1904,8.58,47.44
+"Oregon",1905,8.06,46.50
+"Oregon",1906,8.53,47.35
+"Oregon",1907,8.25,46.85
+"Oregon",1908,8.07,46.53
+"Oregon",1909,7.67,45.81
+"Oregon",1910,8.34,47.02
+"Oregon",1911,7.30,45.14
+"Oregon",1912,7.58,45.64
+"Oregon",1913,7.54,45.57
+"Oregon",1914,8.42,47.15
+"Oregon",1915,8.47,47.25
+"Oregon",1916,6.86,44.34
+"Oregon",1917,7.89,46.20
+"Oregon",1918,8.44,47.18
+"Oregon",1919,7.60,45.68
+"Oregon",1920,7.62,45.72
+"Oregon",1921,8.20,46.76
+"Oregon",1922,7.26,45.07
+"Oregon",1923,8.06,46.51
+"Oregon",1924,8.00,46.41
+"Oregon",1925,8.93,48.08
+"Oregon",1926,9.25,48.65
+"Oregon",1927,7.89,46.21
+"Oregon",1928,8.33,47.00
+"Oregon",1929,7.59,45.66
+"Oregon",1930,7.78,46.01
+"Oregon",1931,8.53,47.35
+"Oregon",1932,7.81,46.05
+"Oregon",1933,8.04,46.47
+"Oregon",1934,10.17,50.31
+"Oregon",1935,7.84,46.11
+"Oregon",1936,8.51,47.31
+"Oregon",1937,8.01,46.41
+"Oregon",1938,8.52,47.33
+"Oregon",1939,9.06,48.32
+"Oregon",1940,9.36,48.86
+"Oregon",1941,8.92,48.05
+"Oregon",1942,8.23,46.82
+"Oregon",1943,8.18,46.72
+"Oregon",1944,7.96,46.34
+"Oregon",1945,8.33,47.00
+"Oregon",1946,8.10,46.58
+"Oregon",1947,8.74,47.73
+"Oregon",1948,7.31,45.16
+"Oregon",1949,7.81,46.05
+"Oregon",1950,8.16,46.69
+"Oregon",1951,8.09,46.57
+"Oregon",1952,8.05,46.50
+"Oregon",1953,8.70,47.65
+"Oregon",1954,8.09,46.56
+"Oregon",1955,7.18,44.93
+"Oregon",1956,7.96,46.33
+"Oregon",1957,7.95,46.31
+"Oregon",1958,9.62,49.31
+"Oregon",1959,8.40,47.11
+"Oregon",1960,8.23,46.82
+"Oregon",1961,8.81,47.85
+"Oregon",1962,8.17,46.71
+"Oregon",1963,8.52,47.33
+"Oregon",1964,7.58,45.65
+"Oregon",1965,8.41,47.15
+"Oregon",1966,8.72,47.70
+"Oregon",1967,8.91,48.03
+"Oregon",1968,8.55,47.39
+"Oregon",1969,8.15,46.67
+"Oregon",1970,8.30,46.94
+"Oregon",1971,7.80,46.05
+"Oregon",1972,8.06,46.52
+"Oregon",1973,8.61,47.50
+"Oregon",1974,8.50,47.30
+"Oregon",1975,7.81,46.06
+"Oregon",1976,8.17,46.71
+"Oregon",1977,8.48,47.26
+"Oregon",1978,8.24,46.84
+"Oregon",1979,8.47,47.24
+"Oregon",1980,8.51,47.32
+"Oregon",1981,8.97,48.15
+"Oregon",1982,7.62,45.72
+"Oregon",1983,8.45,47.20
+"Oregon",1984,7.72,45.89
+"Oregon",1985,7.14,44.85
+"Oregon",1986,9.05,48.29
+"Oregon",1987,9.13,48.44
+"Oregon",1988,8.91,48.04
+"Oregon",1989,8.19,46.74
+"Oregon",1990,8.61,47.49
+"Oregon",1991,8.72,47.69
+"Oregon",1992,9.71,49.48
+"Oregon",1993,7.58,45.65
+"Oregon",1994,8.88,47.98
+"Oregon",1995,9.01,48.22
+"Oregon",1996,8.72,47.70
+"Oregon",1997,8.84,47.91
+"Oregon",1998,8.90,48.01
+"Oregon",1999,8.54,47.37
+"Oregon",2000,8.68,47.62
+"Oregon",2001,8.88,47.99
+"Oregon",2002,8.81,47.85
+"Oregon",2003,9.56,49.22
+"Oregon",2004,9.29,48.71
+"Oregon",2005,8.84,47.91
+"Oregon",2006,8.96,48.13
+"Oregon",2007,8.90,48.01
+"Oregon",2008,8.32,46.97
+"Oregon",2009,8.56,47.41
+"Oregon",2010,8.57,47.43
+"Oregon",2011,8.08,46.54
+"Oregon",2012,9.03,48.25
+"Pennsylvania",1900,9.89,49.80
+"Pennsylvania",1901,8.73,47.71
+"Pennsylvania",1902,8.93,48.07
+"Pennsylvania",1903,8.89,48.00
+"Pennsylvania",1904,7.63,45.73
+"Pennsylvania",1905,8.65,47.57
+"Pennsylvania",1906,9.47,49.04
+"Pennsylvania",1907,8.16,46.69
+"Pennsylvania",1908,9.45,49.01
+"Pennsylvania",1909,9.10,48.39
+"Pennsylvania",1910,9.03,48.26
+"Pennsylvania",1911,9.82,49.68
+"Pennsylvania",1912,8.63,47.53
+"Pennsylvania",1913,10.12,50.22
+"Pennsylvania",1914,8.72,47.70
+"Pennsylvania",1915,9.15,48.47
+"Pennsylvania",1916,8.87,47.97
+"Pennsylvania",1917,7.60,45.67
+"Pennsylvania",1918,9.15,48.47
+"Pennsylvania",1919,9.69,49.45
+"Pennsylvania",1920,8.64,47.54
+"Pennsylvania",1921,10.72,51.30
+"Pennsylvania",1922,9.75,49.55
+"Pennsylvania",1923,9.14,48.45
+"Pennsylvania",1924,8.17,46.70
+"Pennsylvania",1925,9.13,48.44
+"Pennsylvania",1926,8.20,46.77
+"Pennsylvania",1927,9.39,48.91
+"Pennsylvania",1928,9.20,48.56
+"Pennsylvania",1929,9.17,48.51
+"Pennsylvania",1930,9.70,49.46
+"Pennsylvania",1931,10.62,51.12
+"Pennsylvania",1932,9.96,49.94
+"Pennsylvania",1933,9.99,49.97
+"Pennsylvania",1934,9.28,48.71
+"Pennsylvania",1935,8.99,48.19
+"Pennsylvania",1936,9.17,48.51
+"Pennsylvania",1937,9.40,48.92
+"Pennsylvania",1938,10.05,50.09
+"Pennsylvania",1939,9.87,49.77
+"Pennsylvania",1940,8.21,46.77
+"Pennsylvania",1941,9.80,49.65
+"Pennsylvania",1942,9.59,49.26
+"Pennsylvania",1943,9.08,48.35
+"Pennsylvania",1944,9.58,49.24
+"Pennsylvania",1945,9.41,48.95
+"Pennsylvania",1946,10.19,50.35
+"Pennsylvania",1947,9.44,48.98
+"Pennsylvania",1948,9.48,49.07
+"Pennsylvania",1949,10.74,51.33
+"Pennsylvania",1950,9.13,48.43
+"Pennsylvania",1951,9.60,49.29
+"Pennsylvania",1952,10.08,50.14
+"Pennsylvania",1953,10.63,51.14
+"Pennsylvania",1954,9.91,49.84
+"Pennsylvania",1955,9.95,49.91
+"Pennsylvania",1956,9.38,48.89
+"Pennsylvania",1957,9.90,49.82
+"Pennsylvania",1958,8.54,47.36
+"Pennsylvania",1959,10.17,50.31
+"Pennsylvania",1960,9.08,48.34
+"Pennsylvania",1961,9.48,49.06
+"Pennsylvania",1962,8.92,48.05
+"Pennsylvania",1963,8.68,47.62
+"Pennsylvania",1964,9.55,49.19
+"Pennsylvania",1965,9.28,48.70
+"Pennsylvania",1966,9.10,48.39
+"Pennsylvania",1967,9.00,48.20
+"Pennsylvania",1968,9.29,48.72
+"Pennsylvania",1969,9.24,48.62
+"Pennsylvania",1970,9.53,49.15
+"Pennsylvania",1971,9.62,49.32
+"Pennsylvania",1972,9.03,48.25
+"Pennsylvania",1973,10.46,50.83
+"Pennsylvania",1974,9.56,49.21
+"Pennsylvania",1975,9.99,49.98
+"Pennsylvania",1976,8.85,47.93
+"Pennsylvania",1977,9.45,49.02
+"Pennsylvania",1978,8.65,47.56
+"Pennsylvania",1979,9.25,48.65
+"Pennsylvania",1980,9.17,48.50
+"Pennsylvania",1981,9.29,48.73
+"Pennsylvania",1982,9.44,48.99
+"Pennsylvania",1983,9.87,49.76
+"Pennsylvania",1984,9.67,49.40
+"Pennsylvania",1985,9.76,49.57
+"Pennsylvania",1986,9.93,49.87
+"Pennsylvania",1987,10.14,50.26
+"Pennsylvania",1988,9.51,49.11
+"Pennsylvania",1989,9.12,48.41
+"Pennsylvania",1990,10.89,51.60
+"Pennsylvania",1991,10.95,51.71
+"Pennsylvania",1992,9.22,48.59
+"Pennsylvania",1993,9.52,49.13
+"Pennsylvania",1994,9.44,49.00
+"Pennsylvania",1995,9.69,49.45
+"Pennsylvania",1996,9.22,48.59
+"Pennsylvania",1997,9.40,48.92
+"Pennsylvania",1998,11.47,52.65
+"Pennsylvania",1999,10.55,50.98
+"Pennsylvania",2000,9.67,49.41
+"Pennsylvania",2001,10.52,50.94
+"Pennsylvania",2002,10.74,51.33
+"Pennsylvania",2003,9.42,48.96
+"Pennsylvania",2004,9.99,49.98
+"Pennsylvania",2005,10.22,50.39
+"Pennsylvania",2006,10.93,51.68
+"Pennsylvania",2007,10.25,50.45
+"Pennsylvania",2008,9.90,49.81
+"Pennsylvania",2009,9.65,49.37
+"Pennsylvania",2010,10.57,51.03
+"Pennsylvania",2011,10.74,51.32
+"Pennsylvania",2012,11.48,52.66
+"Rhode Island",1900,9.70,49.46
+"Rhode Island",1901,8.73,47.72
+"Rhode Island",1902,9.00,48.21
+"Rhode Island",1903,8.89,48.00
+"Rhode Island",1904,7.44,45.40
+"Rhode Island",1905,8.46,47.22
+"Rhode Island",1906,9.27,48.68
+"Rhode Island",1907,8.11,46.60
+"Rhode Island",1908,9.45,49.01
+"Rhode Island",1909,9.03,48.25
+"Rhode Island",1910,9.17,48.51
+"Rhode Island",1911,9.30,48.73
+"Rhode Island",1912,8.82,47.87
+"Rhode Island",1913,10.19,50.33
+"Rhode Island",1914,8.61,47.50
+"Rhode Island",1915,9.47,49.05
+"Rhode Island",1916,8.59,47.46
+"Rhode Island",1917,7.70,45.86
+"Rhode Island",1918,8.81,47.86
+"Rhode Island",1919,9.48,49.06
+"Rhode Island",1920,8.73,47.72
+"Rhode Island",1921,10.11,50.20
+"Rhode Island",1922,9.37,48.86
+"Rhode Island",1923,8.80,47.84
+"Rhode Island",1924,8.54,47.36
+"Rhode Island",1925,9.34,48.82
+"Rhode Island",1926,8.10,46.58
+"Rhode Island",1927,9.45,49.02
+"Rhode Island",1928,9.38,48.88
+"Rhode Island",1929,9.34,48.81
+"Rhode Island",1930,9.80,49.65
+"Rhode Island",1931,10.33,50.59
+"Rhode Island",1932,9.86,49.74
+"Rhode Island",1933,9.51,49.12
+"Rhode Island",1934,8.89,48.00
+"Rhode Island",1935,8.97,48.14
+"Rhode Island",1936,9.20,48.56
+"Rhode Island",1937,9.85,49.73
+"Rhode Island",1938,9.96,49.92
+"Rhode Island",1939,9.32,48.77
+"Rhode Island",1940,8.21,46.78
+"Rhode Island",1941,9.71,49.48
+"Rhode Island",1942,9.54,49.17
+"Rhode Island",1943,8.98,48.16
+"Rhode Island",1944,9.48,49.06
+"Rhode Island",1945,9.55,49.18
+"Rhode Island",1946,9.90,49.83
+"Rhode Island",1947,9.45,49.01
+"Rhode Island",1948,9.25,48.65
+"Rhode Island",1949,10.87,51.56
+"Rhode Island",1950,9.38,48.88
+"Rhode Island",1951,9.98,49.97
+"Rhode Island",1952,10.19,50.34
+"Rhode Island",1953,10.80,51.43
+"Rhode Island",1954,9.76,49.56
+"Rhode Island",1955,9.72,49.49
+"Rhode Island",1956,9.14,48.44
+"Rhode Island",1957,10.09,50.16
+"Rhode Island",1958,8.75,47.75
+"Rhode Island",1959,10.01,50.03
+"Rhode Island",1960,9.41,48.93
+"Rhode Island",1961,9.48,49.07
+"Rhode Island",1962,8.69,47.65
+"Rhode Island",1963,9.04,48.27
+"Rhode Island",1964,9.37,48.87
+"Rhode Island",1965,9.05,48.29
+"Rhode Island",1966,9.31,48.75
+"Rhode Island",1967,8.87,47.97
+"Rhode Island",1968,9.20,48.57
+"Rhode Island",1969,9.45,49.01
+"Rhode Island",1970,9.28,48.71
+"Rhode Island",1971,9.50,49.10
+"Rhode Island",1972,8.95,48.10
+"Rhode Island",1973,10.43,50.77
+"Rhode Island",1974,9.54,49.18
+"Rhode Island",1975,10.03,50.05
+"Rhode Island",1976,9.20,48.56
+"Rhode Island",1977,9.52,49.14
+"Rhode Island",1978,8.70,47.66
+"Rhode Island",1979,9.75,49.55
+"Rhode Island",1980,9.22,48.60
+"Rhode Island",1981,9.42,48.96
+"Rhode Island",1982,9.26,48.66
+"Rhode Island",1983,10.09,50.17
+"Rhode Island",1984,9.88,49.78
+"Rhode Island",1985,9.65,49.37
+"Rhode Island",1986,9.55,49.19
+"Rhode Island",1987,9.61,49.30
+"Rhode Island",1988,9.44,48.99
+"Rhode Island",1989,9.18,48.53
+"Rhode Island",1990,10.77,51.38
+"Rhode Island",1991,10.73,51.32
+"Rhode Island",1992,9.00,48.21
+"Rhode Island",1993,9.51,49.12
+"Rhode Island",1994,9.60,49.28
+"Rhode Island",1995,9.75,49.55
+"Rhode Island",1996,9.33,48.80
+"Rhode Island",1997,9.54,49.18
+"Rhode Island",1998,11.05,51.90
+"Rhode Island",1999,10.82,51.48
+"Rhode Island",2000,9.55,49.20
+"Rhode Island",2001,10.50,50.90
+"Rhode Island",2002,10.67,51.21
+"Rhode Island",2003,9.39,48.90
+"Rhode Island",2004,9.66,49.39
+"Rhode Island",2005,10.07,50.13
+"Rhode Island",2006,10.99,51.78
+"Rhode Island",2007,10.05,50.09
+"Rhode Island",2008,10.28,50.51
+"Rhode Island",2009,9.70,49.47
+"Rhode Island",2010,11.03,51.86
+"Rhode Island",2011,10.78,51.41
+"Rhode Island",2012,11.59,52.86
+"South Carolina",1900,17.15,62.86
+"South Carolina",1901,15.90,60.62
+"South Carolina",1902,16.77,62.18
+"South Carolina",1903,16.43,61.57
+"South Carolina",1904,16.03,60.86
+"South Carolina",1905,16.61,61.90
+"South Carolina",1906,16.90,62.42
+"South Carolina",1907,16.94,62.49
+"South Carolina",1908,17.15,62.86
+"South Carolina",1909,16.95,62.50
+"South Carolina",1910,16.56,61.81
+"South Carolina",1911,17.82,64.08
+"South Carolina",1912,16.61,61.89
+"South Carolina",1913,17.31,63.15
+"South Carolina",1914,16.63,61.94
+"South Carolina",1915,16.90,62.41
+"South Carolina",1916,17.19,62.94
+"South Carolina",1917,16.14,61.05
+"South Carolina",1918,17.07,62.72
+"South Carolina",1919,17.56,63.60
+"South Carolina",1920,16.41,61.53
+"South Carolina",1921,18.07,64.52
+"South Carolina",1922,17.67,63.80
+"South Carolina",1923,17.20,62.95
+"South Carolina",1924,16.44,61.59
+"South Carolina",1925,17.79,64.02
+"South Carolina",1926,17.10,62.78
+"South Carolina",1927,17.84,64.12
+"South Carolina",1928,16.79,62.23
+"South Carolina",1929,17.14,62.86
+"South Carolina",1930,17.04,62.68
+"South Carolina",1931,17.70,63.86
+"South Carolina",1932,17.96,64.32
+"South Carolina",1933,18.17,64.71
+"South Carolina",1934,17.27,63.08
+"South Carolina",1935,17.29,63.13
+"South Carolina",1936,17.30,63.14
+"South Carolina",1937,17.11,62.81
+"South Carolina",1938,17.81,64.06
+"South Carolina",1939,17.90,64.21
+"South Carolina",1940,16.34,61.42
+"South Carolina",1941,17.50,63.49
+"South Carolina",1942,17.27,63.09
+"South Carolina",1943,17.13,62.83
+"South Carolina",1944,17.16,62.89
+"South Carolina",1945,17.65,63.77
+"South Carolina",1946,17.80,64.05
+"South Carolina",1947,16.85,62.34
+"South Carolina",1948,17.45,63.41
+"South Carolina",1949,18.04,64.48
+"South Carolina",1950,17.35,63.24
+"South Carolina",1951,17.37,63.27
+"South Carolina",1952,17.59,63.67
+"South Carolina",1953,17.87,64.17
+"South Carolina",1954,17.76,63.96
+"South Carolina",1955,17.37,63.26
+"South Carolina",1956,17.64,63.75
+"South Carolina",1957,17.63,63.74
+"South Carolina",1958,16.37,61.47
+"South Carolina",1959,17.49,63.48
+"South Carolina",1960,16.59,61.86
+"South Carolina",1961,17.00,62.60
+"South Carolina",1962,17.06,62.70
+"South Carolina",1963,16.48,61.67
+"South Carolina",1964,16.98,62.57
+"South Carolina",1965,17.22,62.99
+"South Carolina",1966,16.41,61.54
+"South Carolina",1967,16.72,62.10
+"South Carolina",1968,16.50,61.70
+"South Carolina",1969,16.41,61.54
+"South Carolina",1970,17.24,63.03
+"South Carolina",1971,17.35,63.24
+"South Carolina",1972,17.20,62.96
+"South Carolina",1973,17.46,63.43
+"South Carolina",1974,17.65,63.77
+"South Carolina",1975,17.71,63.88
+"South Carolina",1976,16.51,61.71
+"South Carolina",1977,17.23,63.01
+"South Carolina",1978,16.87,62.37
+"South Carolina",1979,16.82,62.27
+"South Carolina",1980,17.05,62.69
+"South Carolina",1981,16.70,62.07
+"South Carolina",1982,17.51,63.52
+"South Carolina",1983,16.77,62.19
+"South Carolina",1984,17.37,63.27
+"South Carolina",1985,17.68,63.82
+"South Carolina",1986,18.22,64.80
+"South Carolina",1987,17.26,63.07
+"South Carolina",1988,16.66,62.00
+"South Carolina",1989,17.24,63.04
+"South Carolina",1990,18.79,65.82
+"South Carolina",1991,18.12,64.61
+"South Carolina",1992,17.09,62.77
+"South Carolina",1993,17.44,63.39
+"South Carolina",1994,17.58,63.65
+"South Carolina",1995,17.40,63.33
+"South Carolina",1996,16.99,62.59
+"South Carolina",1997,17.23,63.01
+"South Carolina",1998,18.64,65.55
+"South Carolina",1999,17.95,64.31
+"South Carolina",2000,17.32,63.18
+"South Carolina",2001,17.89,64.21
+"South Carolina",2002,18.15,64.66
+"South Carolina",2003,17.39,63.31
+"South Carolina",2004,17.80,64.03
+"South Carolina",2005,17.73,63.91
+"South Carolina",2006,18.01,64.42
+"South Carolina",2007,18.38,65.08
+"South Carolina",2008,17.68,63.82
+"South Carolina",2009,17.52,63.53
+"South Carolina",2010,17.40,63.32
+"South Carolina",2011,18.30,64.93
+"South Carolina",2012,18.55,65.40
+"South Dakota",1900,8.19,46.73
+"South Dakota",1901,7.80,46.04
+"South Dakota",1902,6.68,44.02
+"South Dakota",1903,6.27,43.29
+"South Dakota",1904,6.40,43.51
+"South Dakota",1905,6.45,43.62
+"South Dakota",1906,6.89,44.41
+"South Dakota",1907,6.16,43.08
+"South Dakota",1908,7.55,45.59
+"South Dakota",1909,6.25,43.25
+"South Dakota",1910,7.67,45.80
+"South Dakota",1911,7.00,44.60
+"South Dakota",1912,6.24,43.23
+"South Dakota",1913,7.27,45.08
+"South Dakota",1914,7.44,45.40
+"South Dakota",1915,6.38,43.49
+"South Dakota",1916,5.67,42.20
+"South Dakota",1917,5.39,41.70
+"South Dakota",1918,7.22,45.00
+"South Dakota",1919,6.70,44.06
+"South Dakota",1920,6.87,44.37
+"South Dakota",1921,8.66,47.58
+"South Dakota",1922,6.86,44.35
+"South Dakota",1923,7.47,45.44
+"South Dakota",1924,6.02,42.83
+"South Dakota",1925,7.48,45.47
+"South Dakota",1926,7.55,45.58
+"South Dakota",1927,6.23,43.21
+"South Dakota",1928,7.64,45.76
+"South Dakota",1929,5.94,42.69
+"South Dakota",1930,7.79,46.02
+"South Dakota",1931,9.41,48.94
+"South Dakota",1932,6.86,44.35
+"South Dakota",1933,8.32,46.97
+"South Dakota",1934,9.16,48.49
+"South Dakota",1935,7.34,45.21
+"South Dakota",1936,6.74,44.13
+"South Dakota",1937,6.49,43.68
+"South Dakota",1938,8.29,46.93
+"South Dakota",1939,8.58,47.45
+"South Dakota",1940,7.41,45.34
+"South Dakota",1941,8.31,46.96
+"South Dakota",1942,7.39,45.30
+"South Dakota",1943,7.29,45.13
+"South Dakota",1944,7.14,44.85
+"South Dakota",1945,6.82,44.28
+"South Dakota",1946,8.11,46.59
+"South Dakota",1947,7.26,45.06
+"South Dakota",1948,7.31,45.17
+"South Dakota",1949,7.25,45.05
+"South Dakota",1950,5.42,41.76
+"South Dakota",1951,5.38,41.69
+"South Dakota",1952,7.53,45.55
+"South Dakota",1953,8.31,46.96
+"South Dakota",1954,8.25,46.85
+"South Dakota",1955,7.27,45.08
+"South Dakota",1956,7.39,45.31
+"South Dakota",1957,7.25,45.05
+"South Dakota",1958,7.64,45.76
+"South Dakota",1959,7.28,45.11
+"South Dakota",1960,6.90,44.42
+"South Dakota",1961,7.67,45.80
+"South Dakota",1962,7.26,45.07
+"South Dakota",1963,8.44,47.19
+"South Dakota",1964,7.52,45.54
+"South Dakota",1965,6.69,44.03
+"South Dakota",1966,6.70,44.06
+"South Dakota",1967,7.19,44.94
+"South Dakota",1968,7.18,44.92
+"South Dakota",1969,6.87,44.37
+"South Dakota",1970,6.88,44.39
+"South Dakota",1971,6.94,44.48
+"South Dakota",1972,6.27,43.29
+"South Dakota",1973,8.12,46.61
+"South Dakota",1974,8.04,46.48
+"South Dakota",1975,7.03,44.66
+"South Dakota",1976,8.15,46.68
+"South Dakota",1977,7.88,46.18
+"South Dakota",1978,6.01,42.82
+"South Dakota",1979,6.18,43.13
+"South Dakota",1980,8.22,46.80
+"South Dakota",1981,8.91,48.04
+"South Dakota",1982,6.45,43.61
+"South Dakota",1983,7.54,45.57
+"South Dakota",1984,7.57,45.63
+"South Dakota",1985,6.39,43.51
+"South Dakota",1986,8.03,46.46
+"South Dakota",1987,9.53,49.15
+"South Dakota",1988,8.48,47.26
+"South Dakota",1989,7.16,44.89
+"South Dakota",1990,8.62,47.52
+"South Dakota",1991,8.54,47.36
+"South Dakota",1992,7.90,46.22
+"South Dakota",1993,6.11,43.01
+"South Dakota",1994,7.52,45.54
+"South Dakota",1995,7.38,45.29
+"South Dakota",1996,5.75,42.34
+"South Dakota",1997,7.48,45.46
+"South Dakota",1998,8.93,48.07
+"South Dakota",1999,9.10,48.38
+"South Dakota",2000,8.10,46.57
+"South Dakota",2001,8.42,47.16
+"South Dakota",2002,8.27,46.88
+"South Dakota",2003,8.17,46.71
+"South Dakota",2004,8.27,46.89
+"South Dakota",2005,8.82,47.88
+"South Dakota",2006,9.30,48.74
+"South Dakota",2007,8.56,47.42
+"South Dakota",2008,6.95,44.51
+"South Dakota",2009,6.77,44.18
+"South Dakota",2010,7.68,45.82
+"South Dakota",2011,7.47,45.45
+"South Dakota",2012,9.91,49.83
+"Tennessee",1900,14.34,57.82
+"Tennessee",1901,13.03,55.45
+"Tennessee",1902,13.87,56.96
+"Tennessee",1903,13.42,56.16
+"Tennessee",1904,13.36,56.05
+"Tennessee",1905,13.57,56.42
+"Tennessee",1906,14.02,57.24
+"Tennessee",1907,14.08,57.35
+"Tennessee",1908,14.52,58.13
+"Tennessee",1909,14.22,57.59
+"Tennessee",1910,13.51,56.33
+"Tennessee",1911,15.12,59.22
+"Tennessee",1912,13.27,55.89
+"Tennessee",1913,14.67,58.40
+"Tennessee",1914,14.07,57.33
+"Tennessee",1915,14.00,57.20
+"Tennessee",1916,14.07,57.32
+"Tennessee",1917,12.75,54.95
+"Tennessee",1918,14.21,57.57
+"Tennessee",1919,14.64,58.35
+"Tennessee",1920,13.56,56.40
+"Tennessee",1921,15.66,60.18
+"Tennessee",1922,14.95,58.91
+"Tennessee",1923,14.24,57.64
+"Tennessee",1924,13.22,55.79
+"Tennessee",1925,14.92,58.86
+"Tennessee",1926,13.91,57.04
+"Tennessee",1927,14.97,58.95
+"Tennessee",1928,13.71,56.69
+"Tennessee",1929,13.95,57.11
+"Tennessee",1930,14.35,57.84
+"Tennessee",1931,15.03,59.06
+"Tennessee",1932,14.70,58.46
+"Tennessee",1933,15.13,59.23
+"Tennessee",1934,14.55,58.19
+"Tennessee",1935,14.34,57.81
+"Tennessee",1936,14.50,58.10
+"Tennessee",1937,14.07,57.33
+"Tennessee",1938,15.11,59.20
+"Tennessee",1939,14.83,58.69
+"Tennessee",1940,13.15,55.68
+"Tennessee",1941,14.81,58.66
+"Tennessee",1942,14.19,57.53
+"Tennessee",1943,14.25,57.65
+"Tennessee",1944,14.52,58.13
+"Tennessee",1945,14.32,57.77
+"Tennessee",1946,15.04,59.07
+"Tennessee",1947,13.85,56.93
+"Tennessee",1948,14.33,57.80
+"Tennessee",1949,14.94,58.89
+"Tennessee",1950,14.03,57.25
+"Tennessee",1951,14.31,57.76
+"Tennessee",1952,14.81,58.66
+"Tennessee",1953,15.09,59.17
+"Tennessee",1954,15.13,59.23
+"Tennessee",1955,14.63,58.33
+"Tennessee",1956,14.88,58.78
+"Tennessee",1957,14.87,58.77
+"Tennessee",1958,13.33,56.00
+"Tennessee",1959,14.52,58.14
+"Tennessee",1960,13.46,56.23
+"Tennessee",1961,13.93,57.08
+"Tennessee",1962,14.23,57.62
+"Tennessee",1963,13.60,56.49
+"Tennessee",1964,14.38,57.88
+"Tennessee",1965,14.55,58.20
+"Tennessee",1966,13.67,56.61
+"Tennessee",1967,13.94,57.08
+"Tennessee",1968,13.57,56.43
+"Tennessee",1969,13.66,56.58
+"Tennessee",1970,14.18,57.52
+"Tennessee",1971,14.48,58.06
+"Tennessee",1972,14.21,57.58
+"Tennessee",1973,14.79,58.63
+"Tennessee",1974,14.50,58.10
+"Tennessee",1975,14.56,58.21
+"Tennessee",1976,13.32,55.97
+"Tennessee",1977,14.26,57.67
+"Tennessee",1978,13.62,56.52
+"Tennessee",1979,13.47,56.24
+"Tennessee",1980,14.25,57.65
+"Tennessee",1981,13.97,57.14
+"Tennessee",1982,14.46,58.02
+"Tennessee",1983,13.96,57.13
+"Tennessee",1984,14.42,57.96
+"Tennessee",1985,14.30,57.73
+"Tennessee",1986,15.18,59.32
+"Tennessee",1987,14.91,58.84
+"Tennessee",1988,14.04,57.27
+"Tennessee",1989,13.91,57.04
+"Tennessee",1990,15.48,59.87
+"Tennessee",1991,15.29,59.53
+"Tennessee",1992,14.14,57.45
+"Tennessee",1993,14.20,57.56
+"Tennessee",1994,14.48,58.06
+"Tennessee",1995,14.41,57.94
+"Tennessee",1996,13.92,57.05
+"Tennessee",1997,14.06,57.32
+"Tennessee",1998,15.94,60.68
+"Tennessee",1999,15.42,59.76
+"Tennessee",2000,14.70,58.46
+"Tennessee",2001,14.88,58.79
+"Tennessee",2002,15.11,59.19
+"Tennessee",2003,14.43,57.98
+"Tennessee",2004,14.94,58.89
+"Tennessee",2005,15.08,59.14
+"Tennessee",2006,15.17,59.30
+"Tennessee",2007,15.72,60.30
+"Tennessee",2008,14.45,58.01
+"Tennessee",2009,14.44,57.99
+"Tennessee",2010,14.69,58.43
+"Tennessee",2011,15.24,59.43
+"Tennessee",2012,16.01,60.83
+"Texas",1900,17.98,64.37
+"Texas",1901,18.03,64.46
+"Texas",1902,18.33,64.99
+"Texas",1903,16.90,62.43
+"Texas",1904,18.10,64.57
+"Texas",1905,17.24,63.02
+"Texas",1906,17.56,63.60
+"Texas",1907,18.63,65.53
+"Texas",1908,18.25,64.84
+"Texas",1909,18.51,65.32
+"Texas",1910,18.63,65.54
+"Texas",1911,18.74,65.74
+"Texas",1912,17.24,63.02
+"Texas",1913,17.43,63.37
+"Texas",1914,17.69,63.85
+"Texas",1915,17.70,63.86
+"Texas",1916,18.46,65.23
+"Texas",1917,17.90,64.21
+"Texas",1918,18.09,64.55
+"Texas",1919,17.40,63.33
+"Texas",1920,17.64,63.75
+"Texas",1921,19.21,66.57
+"Texas",1922,18.48,65.26
+"Texas",1923,18.08,64.54
+"Texas",1924,17.63,63.73
+"Texas",1925,18.57,65.43
+"Texas",1926,17.79,64.02
+"Texas",1927,19.03,66.25
+"Texas",1928,18.06,64.51
+"Texas",1929,17.76,63.98
+"Texas",1930,17.96,64.32
+"Texas",1931,18.24,64.84
+"Texas",1932,17.82,64.07
+"Texas",1933,19.27,66.69
+"Texas",1934,19.24,66.64
+"Texas",1935,18.43,65.17
+"Texas",1936,17.97,64.34
+"Texas",1937,18.16,64.68
+"Texas",1938,18.90,66.01
+"Texas",1939,18.82,65.88
+"Texas",1940,17.64,63.74
+"Texas",1941,18.01,64.42
+"Texas",1942,17.93,64.28
+"Texas",1943,18.31,64.96
+"Texas",1944,18.16,64.69
+"Texas",1945,18.45,65.22
+"Texas",1946,18.82,65.88
+"Texas",1947,17.88,64.19
+"Texas",1948,18.28,64.90
+"Texas",1949,18.09,64.55
+"Texas",1950,18.75,65.75
+"Texas",1951,18.68,65.63
+"Texas",1952,18.53,65.35
+"Texas",1953,18.96,66.12
+"Texas",1954,19.45,67.01
+"Texas",1955,18.65,65.56
+"Texas",1956,19.05,66.29
+"Texas",1957,18.34,65.01
+"Texas",1958,17.70,63.85
+"Texas",1959,17.84,64.11
+"Texas",1960,17.80,64.04
+"Texas",1961,17.71,63.88
+"Texas",1962,18.63,65.54
+"Texas",1963,18.66,65.58
+"Texas",1964,18.35,65.03
+"Texas",1965,18.56,65.41
+"Texas",1966,17.70,63.87
+"Texas",1967,18.44,65.20
+"Texas",1968,17.49,63.47
+"Texas",1969,18.27,64.89
+"Texas",1970,17.84,64.11
+"Texas",1971,18.49,65.29
+"Texas",1972,18.24,64.84
+"Texas",1973,17.82,64.08
+"Texas",1974,18.28,64.90
+"Texas",1975,17.88,64.18
+"Texas",1976,17.35,63.23
+"Texas",1977,18.69,65.64
+"Texas",1978,17.88,64.18
+"Texas",1979,17.40,63.32
+"Texas",1980,18.55,65.40
+"Texas",1981,18.54,65.38
+"Texas",1982,18.34,65.01
+"Texas",1983,17.63,63.73
+"Texas",1984,18.38,65.08
+"Texas",1985,18.17,64.71
+"Texas",1986,18.79,65.82
+"Texas",1987,17.86,64.14
+"Texas",1988,18.15,64.67
+"Texas",1989,18.10,64.58
+"Texas",1990,18.83,65.90
+"Texas",1991,18.38,65.09
+"Texas",1992,18.15,64.67
+"Texas",1993,17.98,64.36
+"Texas",1994,18.80,65.84
+"Texas",1995,18.61,65.50
+"Texas",1996,18.70,65.65
+"Texas",1997,17.90,64.22
+"Texas",1998,19.61,67.29
+"Texas",1999,19.38,66.89
+"Texas",2000,19.24,66.63
+"Texas",2001,18.83,65.89
+"Texas",2002,18.50,65.31
+"Texas",2003,18.76,65.76
+"Texas",2004,18.58,65.44
+"Texas",2005,18.95,66.12
+"Texas",2006,19.59,67.26
+"Texas",2007,18.34,65.01
+"Texas",2008,18.71,65.68
+"Texas",2009,18.83,65.90
+"Texas",2010,18.50,65.30
+"Texas",2011,19.72,67.49
+"Texas",2012,19.93,67.87
+"Utah",1900,9.21,48.57
+"Utah",1901,9.01,48.21
+"Utah",1902,8.37,47.07
+"Utah",1903,7.62,45.72
+"Utah",1904,8.48,47.27
+"Utah",1905,8.10,46.57
+"Utah",1906,8.28,46.91
+"Utah",1907,8.85,47.92
+"Utah",1908,7.64,45.75
+"Utah",1909,8.00,46.40
+"Utah",1910,9.46,49.03
+"Utah",1911,7.97,46.35
+"Utah",1912,7.35,45.23
+"Utah",1913,7.61,45.70
+"Utah",1914,8.55,47.39
+"Utah",1915,8.19,46.75
+"Utah",1916,7.64,45.75
+"Utah",1917,7.57,45.62
+"Utah",1918,8.32,46.98
+"Utah",1919,8.16,46.69
+"Utah",1920,7.77,45.99
+"Utah",1921,9.23,48.62
+"Utah",1922,7.86,46.14
+"Utah",1923,7.61,45.71
+"Utah",1924,7.76,45.97
+"Utah",1925,8.50,47.30
+"Utah",1926,9.13,48.43
+"Utah",1927,8.62,47.52
+"Utah",1928,8.62,47.51
+"Utah",1929,7.84,46.11
+"Utah",1930,7.84,46.11
+"Utah",1931,8.62,47.51
+"Utah",1932,7.66,45.78
+"Utah",1933,8.35,47.04
+"Utah",1934,10.61,51.09
+"Utah",1935,8.71,47.68
+"Utah",1936,9.12,48.42
+"Utah",1937,8.35,47.03
+"Utah",1938,8.76,47.77
+"Utah",1939,8.95,48.11
+"Utah",1940,9.65,49.37
+"Utah",1941,8.37,47.07
+"Utah",1942,8.30,46.94
+"Utah",1943,9.33,48.79
+"Utah",1944,7.81,46.06
+"Utah",1945,8.21,46.79
+"Utah",1946,8.87,47.96
+"Utah",1947,8.71,47.68
+"Utah",1948,8.01,46.42
+"Utah",1949,7.75,45.95
+"Utah",1950,8.84,47.92
+"Utah",1951,8.11,46.60
+"Utah",1952,8.08,46.54
+"Utah",1953,9.00,48.20
+"Utah",1954,9.54,49.16
+"Utah",1955,7.75,45.95
+"Utah",1956,8.75,47.75
+"Utah",1957,8.38,47.09
+"Utah",1958,9.48,49.07
+"Utah",1959,9.07,48.32
+"Utah",1960,8.83,47.89
+"Utah",1961,8.63,47.53
+"Utah",1962,8.72,47.69
+"Utah",1963,8.99,48.17
+"Utah",1964,7.65,45.76
+"Utah",1965,8.21,46.78
+"Utah",1966,8.78,47.80
+"Utah",1967,8.49,47.28
+"Utah",1968,7.96,46.33
+"Utah",1969,8.75,47.75
+"Utah",1970,8.44,47.20
+"Utah",1971,7.98,46.36
+"Utah",1972,8.76,47.76
+"Utah",1973,7.81,46.06
+"Utah",1974,8.64,47.56
+"Utah",1975,7.51,45.52
+"Utah",1976,8.50,47.30
+"Utah",1977,9.27,48.69
+"Utah",1978,8.67,47.61
+"Utah",1979,8.09,46.57
+"Utah",1980,9.03,48.25
+"Utah",1981,9.85,49.74
+"Utah",1982,7.84,46.11
+"Utah",1983,8.60,47.47
+"Utah",1984,7.66,45.79
+"Utah",1985,8.15,46.67
+"Utah",1986,9.39,48.91
+"Utah",1987,8.83,47.89
+"Utah",1988,8.85,47.94
+"Utah",1989,8.90,48.02
+"Utah",1990,8.95,48.11
+"Utah",1991,8.33,47.00
+"Utah",1992,9.14,48.46
+"Utah",1993,7.94,46.30
+"Utah",1994,9.48,49.06
+"Utah",1995,9.20,48.57
+"Utah",1996,9.45,49.01
+"Utah",1997,8.70,47.66
+"Utah",1998,8.72,47.69
+"Utah",1999,9.23,48.61
+"Utah",2000,9.76,49.57
+"Utah",2001,9.66,49.38
+"Utah",2002,9.07,48.33
+"Utah",2003,10.03,50.05
+"Utah",2004,8.99,48.18
+"Utah",2005,9.33,48.79
+"Utah",2006,9.24,48.63
+"Utah",2007,9.66,49.40
+"Utah",2008,8.63,47.54
+"Utah",2009,8.83,47.89
+"Utah",2010,8.80,47.85
+"Utah",2011,8.44,47.19
+"Utah",2012,10.25,50.45
+"Vermont",1900,5.78,42.41
+"Vermont",1901,5.51,41.91
+"Vermont",1902,5.53,41.96
+"Vermont",1903,5.52,41.93
+"Vermont",1904,3.88,38.99
+"Vermont",1905,4.90,40.81
+"Vermont",1906,5.60,42.07
+"Vermont",1907,4.52,40.14
+"Vermont",1908,5.79,42.43
+"Vermont",1909,5.49,41.88
+"Vermont",1910,5.72,42.29
+"Vermont",1911,5.77,42.39
+"Vermont",1912,4.96,40.92
+"Vermont",1913,6.59,43.86
+"Vermont",1914,4.77,40.58
+"Vermont",1915,6.16,43.10
+"Vermont",1916,5.32,41.57
+"Vermont",1917,3.91,39.04
+"Vermont",1918,5.21,41.39
+"Vermont",1919,5.93,42.68
+"Vermont",1920,5.35,41.64
+"Vermont",1921,6.78,44.20
+"Vermont",1922,5.86,42.55
+"Vermont",1923,5.02,41.03
+"Vermont",1924,4.94,40.89
+"Vermont",1925,5.56,42.00
+"Vermont",1926,4.20,39.56
+"Vermont",1927,6.01,42.82
+"Vermont",1928,5.76,42.37
+"Vermont",1929,5.64,42.15
+"Vermont",1930,6.23,43.22
+"Vermont",1931,6.86,44.35
+"Vermont",1932,6.27,43.28
+"Vermont",1933,5.89,42.60
+"Vermont",1934,5.19,41.34
+"Vermont",1935,5.22,41.40
+"Vermont",1936,5.57,42.02
+"Vermont",1937,6.49,43.67
+"Vermont",1938,6.50,43.70
+"Vermont",1939,5.42,41.75
+"Vermont",1940,4.77,40.58
+"Vermont",1941,6.11,43.00
+"Vermont",1942,6.20,43.15
+"Vermont",1943,5.03,41.05
+"Vermont",1944,5.85,42.54
+"Vermont",1945,6.04,42.88
+"Vermont",1946,6.36,43.45
+"Vermont",1947,6.05,42.88
+"Vermont",1948,5.88,42.59
+"Vermont",1949,7.34,45.21
+"Vermont",1950,5.97,42.74
+"Vermont",1951,6.29,43.32
+"Vermont",1952,6.69,44.05
+"Vermont",1953,7.50,45.51
+"Vermont",1954,6.04,42.86
+"Vermont",1955,6.26,43.26
+"Vermont",1956,5.50,41.89
+"Vermont",1957,6.48,43.66
+"Vermont",1958,5.29,41.52
+"Vermont",1959,6.35,43.43
+"Vermont",1960,6.08,42.95
+"Vermont",1961,6.20,43.16
+"Vermont",1962,5.26,41.47
+"Vermont",1963,5.48,41.86
+"Vermont",1964,5.98,42.77
+"Vermont",1965,5.46,41.83
+"Vermont",1966,5.89,42.60
+"Vermont",1967,5.52,41.94
+"Vermont",1968,5.53,41.95
+"Vermont",1969,5.98,42.76
+"Vermont",1970,5.72,42.29
+"Vermont",1971,5.73,42.31
+"Vermont",1972,5.09,41.16
+"Vermont",1973,6.95,44.50
+"Vermont",1974,5.74,42.33
+"Vermont",1975,6.40,43.52
+"Vermont",1976,5.33,41.59
+"Vermont",1977,6.06,42.91
+"Vermont",1978,5.08,41.14
+"Vermont",1979,6.32,43.38
+"Vermont",1980,5.39,41.70
+"Vermont",1981,6.28,43.31
+"Vermont",1982,5.74,42.33
+"Vermont",1983,6.62,43.91
+"Vermont",1984,6.44,43.60
+"Vermont",1985,5.83,42.49
+"Vermont",1986,6.02,42.83
+"Vermont",1987,6.29,43.32
+"Vermont",1988,6.05,42.89
+"Vermont",1989,5.44,41.80
+"Vermont",1990,7.28,45.11
+"Vermont",1991,7.04,44.68
+"Vermont",1992,5.44,41.79
+"Vermont",1993,5.77,42.38
+"Vermont",1994,5.86,42.56
+"Vermont",1995,6.33,43.39
+"Vermont",1996,6.10,42.99
+"Vermont",1997,5.71,42.28
+"Vermont",1998,7.86,46.15
+"Vermont",1999,7.42,45.36
+"Vermont",2000,6.03,42.86
+"Vermont",2001,7.12,44.81
+"Vermont",2002,7.01,44.62
+"Vermont",2003,5.90,42.62
+"Vermont",2004,6.02,42.84
+"Vermont",2005,6.79,44.23
+"Vermont",2006,7.68,45.83
+"Vermont",2007,6.23,43.22
+"Vermont",2008,6.62,43.92
+"Vermont",2009,6.19,43.15
+"Vermont",2010,7.78,46.00
+"Vermont",2011,7.33,45.19
+"Vermont",2012,8.15,46.68
+"Virginia",1900,13.43,56.17
+"Virginia",1901,12.04,53.66
+"Virginia",1902,12.65,54.77
+"Virginia",1903,12.42,54.36
+"Virginia",1904,11.56,52.81
+"Virginia",1905,12.35,54.22
+"Virginia",1906,13.06,55.51
+"Virginia",1907,12.20,53.95
+"Virginia",1908,12.84,55.11
+"Virginia",1909,12.73,54.91
+"Virginia",1910,12.44,54.39
+"Virginia",1911,13.47,56.25
+"Virginia",1912,12.39,54.30
+"Virginia",1913,13.56,56.41
+"Virginia",1914,12.48,54.47
+"Virginia",1915,12.65,54.78
+"Virginia",1916,12.67,54.81
+"Virginia",1917,11.48,52.66
+"Virginia",1918,12.65,54.78
+"Virginia",1919,13.27,55.89
+"Virginia",1920,12.16,53.89
+"Virginia",1921,14.18,57.53
+"Virginia",1922,13.39,56.10
+"Virginia",1923,12.99,55.39
+"Virginia",1924,11.94,53.49
+"Virginia",1925,13.18,55.73
+"Virginia",1926,12.49,54.48
+"Virginia",1927,13.20,55.76
+"Virginia",1928,12.69,54.84
+"Virginia",1929,12.96,55.33
+"Virginia",1930,13.24,55.84
+"Virginia",1931,13.87,56.97
+"Virginia",1932,13.69,56.64
+"Virginia",1933,13.82,56.88
+"Virginia",1934,13.08,55.55
+"Virginia",1935,12.86,55.15
+"Virginia",1936,13.05,55.50
+"Virginia",1937,12.92,55.25
+"Virginia",1938,13.66,56.58
+"Virginia",1939,13.72,56.69
+"Virginia",1940,12.08,53.74
+"Virginia",1941,13.44,56.20
+"Virginia",1942,13.23,55.82
+"Virginia",1943,13.14,55.65
+"Virginia",1944,13.09,55.57
+"Virginia",1945,13.35,56.03
+"Virginia",1946,13.74,56.73
+"Virginia",1947,12.75,54.95
+"Virginia",1948,13.20,55.76
+"Virginia",1949,14.10,57.38
+"Virginia",1950,13.02,55.44
+"Virginia",1951,13.20,55.76
+"Virginia",1952,13.57,56.43
+"Virginia",1953,14.07,57.32
+"Virginia",1954,13.51,56.31
+"Virginia",1955,13.24,55.82
+"Virginia",1956,13.40,56.12
+"Virginia",1957,13.61,56.49
+"Virginia",1958,12.14,53.84
+"Virginia",1959,13.71,56.69
+"Virginia",1960,12.50,54.50
+"Virginia",1961,12.89,55.20
+"Virginia",1962,12.52,54.54
+"Virginia",1963,12.32,54.18
+"Virginia",1964,13.09,55.57
+"Virginia",1965,13.13,55.63
+"Virginia",1966,12.40,54.33
+"Virginia",1967,12.44,54.39
+"Virginia",1968,12.64,54.75
+"Virginia",1969,12.45,54.42
+"Virginia",1970,13.17,55.70
+"Virginia",1971,13.25,55.84
+"Virginia",1972,12.83,55.09
+"Virginia",1973,13.61,56.50
+"Virginia",1974,13.40,56.12
+"Virginia",1975,13.49,56.28
+"Virginia",1976,12.53,54.56
+"Virginia",1977,13.05,55.50
+"Virginia",1978,12.43,54.37
+"Virginia",1979,12.57,54.62
+"Virginia",1980,12.89,55.21
+"Virginia",1981,12.49,54.49
+"Virginia",1982,13.08,55.54
+"Virginia",1983,12.96,55.32
+"Virginia",1984,13.27,55.88
+"Virginia",1985,13.52,56.34
+"Virginia",1986,13.63,56.54
+"Virginia",1987,13.37,56.07
+"Virginia",1988,12.65,54.78
+"Virginia",1989,12.88,55.18
+"Virginia",1990,14.57,58.23
+"Virginia",1991,14.35,57.83
+"Virginia",1992,12.97,55.34
+"Virginia",1993,13.29,55.92
+"Virginia",1994,13.37,56.06
+"Virginia",1995,13.21,55.77
+"Virginia",1996,12.70,54.87
+"Virginia",1997,13.01,55.41
+"Virginia",1998,14.64,58.35
+"Virginia",1999,13.97,57.15
+"Virginia",2000,13.20,55.77
+"Virginia",2001,13.74,56.73
+"Virginia",2002,14.17,57.50
+"Virginia",2003,13.21,55.78
+"Virginia",2004,13.70,56.66
+"Virginia",2005,13.69,56.64
+"Virginia",2006,14.08,57.34
+"Virginia",2007,14.17,57.51
+"Virginia",2008,13.58,56.44
+"Virginia",2009,13.27,55.88
+"Virginia",2010,13.66,56.59
+"Virginia",2011,14.29,57.73
+"Virginia",2012,14.56,58.22
+"Washington",1900,8.19,46.73
+"Washington",1901,7.60,45.67
+"Washington",1902,7.28,45.10
+"Washington",1903,7.06,44.71
+"Washington",1904,8.00,46.39
+"Washington",1905,7.65,45.77
+"Washington",1906,8.22,46.79
+"Washington",1907,7.39,45.30
+"Washington",1908,7.66,45.79
+"Washington",1909,6.75,44.15
+"Washington",1910,7.64,45.75
+"Washington",1911,6.89,44.40
+"Washington",1912,7.34,45.21
+"Washington",1913,6.90,44.42
+"Washington",1914,7.96,46.32
+"Washington",1915,8.17,46.71
+"Washington",1916,6.05,42.90
+"Washington",1917,7.39,45.31
+"Washington",1918,8.10,46.58
+"Washington",1919,6.99,44.59
+"Washington",1920,7.32,45.17
+"Washington",1921,7.41,45.33
+"Washington",1922,6.70,44.05
+"Washington",1923,7.89,46.20
+"Washington",1924,7.65,45.78
+"Washington",1925,8.67,47.61
+"Washington",1926,8.76,47.77
+"Washington",1927,7.29,45.13
+"Washington",1928,7.97,46.35
+"Washington",1929,6.90,44.43
+"Washington",1930,7.35,45.23
+"Washington",1931,8.08,46.55
+"Washington",1932,7.45,45.42
+"Washington",1933,7.45,45.40
+"Washington",1934,9.46,49.03
+"Washington",1935,7.43,45.38
+"Washington",1936,7.78,46.01
+"Washington",1937,7.35,45.23
+"Washington",1938,8.34,47.02
+"Washington",1939,8.58,47.44
+"Washington",1940,8.96,48.13
+"Washington",1941,8.87,47.96
+"Washington",1942,8.02,46.43
+"Washington",1943,7.45,45.41
+"Washington",1944,8.01,46.42
+"Washington",1945,7.89,46.21
+"Washington",1946,7.67,45.81
+"Washington",1947,8.27,46.89
+"Washington",1948,6.81,44.26
+"Washington",1949,7.16,44.90
+"Washington",1950,6.88,44.39
+"Washington",1951,7.35,45.23
+"Washington",1952,7.79,46.01
+"Washington",1953,8.50,47.30
+"Washington",1954,7.29,45.12
+"Washington",1955,6.32,43.38
+"Washington",1956,7.38,45.28
+"Washington",1957,7.50,45.49
+"Washington",1958,9.38,48.88
+"Washington",1959,7.51,45.52
+"Washington",1960,7.59,45.67
+"Washington",1961,8.31,46.96
+"Washington",1962,7.80,46.05
+"Washington",1963,8.10,46.59
+"Washington",1964,7.05,44.69
+"Washington",1965,8.07,46.52
+"Washington",1966,8.19,46.75
+"Washington",1967,8.71,47.67
+"Washington",1968,7.89,46.21
+"Washington",1969,7.47,45.45
+"Washington",1970,7.70,45.86
+"Washington",1971,7.37,45.26
+"Washington",1972,7.31,45.15
+"Washington",1973,7.97,46.35
+"Washington",1974,8.11,46.59
+"Washington",1975,7.28,45.11
+"Washington",1976,7.65,45.77
+"Washington",1977,7.82,46.08
+"Washington",1978,7.66,45.80
+"Washington",1979,7.92,46.25
+"Washington",1980,7.78,46.01
+"Washington",1981,8.41,47.14
+"Washington",1982,7.41,45.34
+"Washington",1983,8.09,46.57
+"Washington",1984,7.36,45.24
+"Washington",1985,6.57,43.83
+"Washington",1986,8.40,47.12
+"Washington",1987,8.89,48.00
+"Washington",1988,8.40,47.13
+"Washington",1989,7.97,46.35
+"Washington",1990,8.37,47.07
+"Washington",1991,8.30,46.94
+"Washington",1992,9.15,48.47
+"Washington",1993,7.42,45.36
+"Washington",1994,8.72,47.70
+"Washington",1995,8.56,47.41
+"Washington",1996,7.51,45.51
+"Washington",1997,8.37,47.06
+"Washington",1998,9.12,48.42
+"Washington",1999,8.24,46.84
+"Washington",2000,7.86,46.15
+"Washington",2001,8.28,46.91
+"Washington",2002,8.29,46.92
+"Washington",2003,9.03,48.26
+"Washington",2004,9.11,48.40
+"Washington",2005,8.53,47.36
+"Washington",2006,8.68,47.62
+"Washington",2007,8.30,46.94
+"Washington",2008,7.69,45.83
+"Washington",2009,8.05,46.49
+"Washington",2010,8.44,47.20
+"Washington",2011,7.62,45.71
+"Washington",2012,8.48,47.26
+"West Virginia",1900,11.53,52.75
+"West Virginia",1901,10.15,50.26
+"West Virginia",1902,10.69,51.24
+"West Virginia",1903,10.52,50.94
+"West Virginia",1904,9.81,49.65
+"West Virginia",1905,10.44,50.78
+"West Virginia",1906,11.29,52.31
+"West Virginia",1907,10.32,50.57
+"West Virginia",1908,11.16,52.08
+"West Virginia",1909,10.89,51.61
+"West Virginia",1910,10.53,50.96
+"West Virginia",1911,11.77,53.18
+"West Virginia",1912,10.31,50.55
+"West Virginia",1913,11.65,52.97
+"West Virginia",1914,10.60,51.08
+"West Virginia",1915,10.77,51.39
+"West Virginia",1916,10.83,51.49
+"West Virginia",1917,9.45,49.01
+"West Virginia",1918,11.00,51.80
+"West Virginia",1919,11.51,52.72
+"West Virginia",1920,10.27,50.49
+"West Virginia",1921,12.50,54.50
+"West Virginia",1922,11.70,53.06
+"West Virginia",1923,11.07,51.93
+"West Virginia",1924,9.92,49.85
+"West Virginia",1925,11.21,52.17
+"West Virginia",1926,10.45,50.81
+"West Virginia",1927,11.42,52.56
+"West Virginia",1928,10.71,51.28
+"West Virginia",1929,10.91,51.63
+"West Virginia",1930,11.35,52.44
+"West Virginia",1931,12.18,53.92
+"West Virginia",1932,11.77,53.19
+"West Virginia",1933,11.90,53.43
+"West Virginia",1934,11.31,52.36
+"West Virginia",1935,11.04,51.88
+"West Virginia",1936,11.17,52.11
+"West Virginia",1937,10.97,51.74
+"West Virginia",1938,11.94,53.49
+"West Virginia",1939,11.90,53.43
+"West Virginia",1940,10.21,50.38
+"West Virginia",1941,11.56,52.81
+"West Virginia",1942,11.31,52.36
+"West Virginia",1943,11.05,51.89
+"West Virginia",1944,11.34,52.41
+"West Virginia",1945,11.31,52.35
+"West Virginia",1946,12.04,53.67
+"West Virginia",1947,10.96,51.73
+"West Virginia",1948,11.42,52.55
+"West Virginia",1949,12.35,54.23
+"West Virginia",1950,11.04,51.88
+"West Virginia",1951,11.30,52.34
+"West Virginia",1952,11.83,53.29
+"West Virginia",1953,12.24,54.03
+"West Virginia",1954,11.68,53.03
+"West Virginia",1955,11.51,52.72
+"West Virginia",1956,11.46,52.62
+"West Virginia",1957,11.78,53.20
+"West Virginia",1958,10.14,50.25
+"West Virginia",1959,11.85,53.34
+"West Virginia",1960,10.56,51.00
+"West Virginia",1961,11.07,51.92
+"West Virginia",1962,10.78,51.40
+"West Virginia",1963,10.21,50.38
+"West Virginia",1964,11.31,52.37
+"West Virginia",1965,11.39,52.50
+"West Virginia",1966,10.57,51.02
+"West Virginia",1967,10.78,51.41
+"West Virginia",1968,10.74,51.33
+"West Virginia",1969,10.64,51.16
+"West Virginia",1970,11.44,52.59
+"West Virginia",1971,11.36,52.45
+"West Virginia",1972,10.95,51.71
+"West Virginia",1973,11.98,53.56
+"West Virginia",1974,11.49,52.67
+"West Virginia",1975,11.72,53.10
+"West Virginia",1976,10.46,50.83
+"West Virginia",1977,11.08,51.95
+"West Virginia",1978,10.45,50.81
+"West Virginia",1979,10.63,51.13
+"West Virginia",1980,10.81,51.45
+"West Virginia",1981,10.60,51.09
+"West Virginia",1982,11.41,52.53
+"West Virginia",1983,11.24,52.23
+"West Virginia",1984,11.47,52.64
+"West Virginia",1985,11.50,52.69
+"West Virginia",1986,11.84,53.31
+"West Virginia",1987,11.83,53.30
+"West Virginia",1988,11.04,51.88
+"West Virginia",1989,10.88,51.59
+"West Virginia",1990,12.59,54.66
+"West Virginia",1991,12.59,54.66
+"West Virginia",1992,11.13,52.04
+"West Virginia",1993,11.41,52.53
+"West Virginia",1994,11.38,52.48
+"West Virginia",1995,11.29,52.32
+"West Virginia",1996,10.84,51.51
+"West Virginia",1997,11.05,51.89
+"West Virginia",1998,12.89,55.21
+"West Virginia",1999,12.19,53.94
+"West Virginia",2000,11.47,52.64
+"West Virginia",2001,12.02,53.64
+"West Virginia",2002,12.37,54.26
+"West Virginia",2003,11.36,52.45
+"West Virginia",2004,11.93,53.48
+"West Virginia",2005,11.98,53.56
+"West Virginia",2006,12.23,54.01
+"West Virginia",2007,12.28,54.10
+"West Virginia",2008,11.48,52.66
+"West Virginia",2009,11.41,52.54
+"West Virginia",2010,11.72,53.10
+"West Virginia",2011,12.43,54.37
+"West Virginia",2012,12.88,55.18
+"Wisconsin",1900,6.62,43.92
+"Wisconsin",1901,6.05,42.88
+"Wisconsin",1902,6.17,43.10
+"Wisconsin",1903,5.38,41.68
+"Wisconsin",1904,4.58,40.24
+"Wisconsin",1905,5.53,41.96
+"Wisconsin",1906,6.37,43.46
+"Wisconsin",1907,5.18,41.32
+"Wisconsin",1908,6.83,44.29
+"Wisconsin",1909,5.85,42.53
+"Wisconsin",1910,6.43,43.58
+"Wisconsin",1911,6.64,43.96
+"Wisconsin",1912,4.91,40.84
+"Wisconsin",1913,6.55,43.79
+"Wisconsin",1914,6.20,43.17
+"Wisconsin",1915,6.12,43.01
+"Wisconsin",1916,5.39,41.71
+"Wisconsin",1917,3.85,38.93
+"Wisconsin",1918,6.17,43.10
+"Wisconsin",1919,6.30,43.35
+"Wisconsin",1920,5.94,42.68
+"Wisconsin",1921,8.05,46.49
+"Wisconsin",1922,6.74,44.13
+"Wisconsin",1923,6.21,43.19
+"Wisconsin",1924,4.68,40.43
+"Wisconsin",1925,6.06,42.91
+"Wisconsin",1926,5.17,41.31
+"Wisconsin",1927,5.94,42.69
+"Wisconsin",1928,6.28,43.30
+"Wisconsin",1929,5.01,41.01
+"Wisconsin",1930,6.89,44.40
+"Wisconsin",1931,8.87,47.97
+"Wisconsin",1932,6.21,43.18
+"Wisconsin",1933,6.74,44.13
+"Wisconsin",1934,6.89,44.41
+"Wisconsin",1935,5.94,42.70
+"Wisconsin",1936,5.59,42.07
+"Wisconsin",1937,5.82,42.48
+"Wisconsin",1938,7.30,45.14
+"Wisconsin",1939,7.16,44.88
+"Wisconsin",1940,5.84,42.51
+"Wisconsin",1941,7.58,45.64
+"Wisconsin",1942,6.54,43.77
+"Wisconsin",1943,5.72,42.29
+"Wisconsin",1944,7.16,44.89
+"Wisconsin",1945,5.74,42.33
+"Wisconsin",1946,7.13,44.83
+"Wisconsin",1947,6.34,43.42
+"Wisconsin",1948,6.50,43.71
+"Wisconsin",1949,7.07,44.72
+"Wisconsin",1950,4.83,40.69
+"Wisconsin",1951,5.08,41.14
+"Wisconsin",1952,6.84,44.32
+"Wisconsin",1953,7.40,45.32
+"Wisconsin",1954,6.90,44.42
+"Wisconsin",1955,6.77,44.18
+"Wisconsin",1956,6.32,43.38
+"Wisconsin",1957,6.34,43.41
+"Wisconsin",1958,6.22,43.19
+"Wisconsin",1959,6.19,43.13
+"Wisconsin",1960,6.23,43.22
+"Wisconsin",1961,6.68,44.02
+"Wisconsin",1962,5.98,42.77
+"Wisconsin",1963,6.22,43.20
+"Wisconsin",1964,6.99,44.58
+"Wisconsin",1965,5.80,42.45
+"Wisconsin",1966,5.95,42.71
+"Wisconsin",1967,5.65,42.17
+"Wisconsin",1968,6.79,44.22
+"Wisconsin",1969,6.05,42.89
+"Wisconsin",1970,6.25,43.25
+"Wisconsin",1971,6.26,43.26
+"Wisconsin",1972,5.10,41.18
+"Wisconsin",1973,7.46,45.43
+"Wisconsin",1974,6.29,43.31
+"Wisconsin",1975,6.58,43.84
+"Wisconsin",1976,5.87,42.56
+"Wisconsin",1977,6.70,44.06
+"Wisconsin",1978,5.60,42.09
+"Wisconsin",1979,5.32,41.57
+"Wisconsin",1980,6.30,43.34
+"Wisconsin",1981,7.02,44.64
+"Wisconsin",1982,5.89,42.59
+"Wisconsin",1983,6.92,44.46
+"Wisconsin",1984,6.83,44.29
+"Wisconsin",1985,5.86,42.54
+"Wisconsin",1986,6.87,44.36
+"Wisconsin",1987,8.51,47.32
+"Wisconsin",1988,6.89,44.41
+"Wisconsin",1989,5.68,42.22
+"Wisconsin",1990,7.52,45.54
+"Wisconsin",1991,7.09,44.76
+"Wisconsin",1992,6.46,43.63
+"Wisconsin",1993,5.91,42.64
+"Wisconsin",1994,6.60,43.88
+"Wisconsin",1995,6.50,43.70
+"Wisconsin",1996,5.24,41.43
+"Wisconsin",1997,6.38,43.49
+"Wisconsin",1998,8.91,48.03
+"Wisconsin",1999,7.84,46.11
+"Wisconsin",2000,7.02,44.64
+"Wisconsin",2001,7.82,46.07
+"Wisconsin",2002,7.42,45.36
+"Wisconsin",2003,6.64,43.95
+"Wisconsin",2004,6.82,44.27
+"Wisconsin",2005,7.66,45.79
+"Wisconsin",2006,8.15,46.67
+"Wisconsin",2007,7.49,45.48
+"Wisconsin",2008,5.90,42.63
+"Wisconsin",2009,6.20,43.17
+"Wisconsin",2010,7.87,46.16
+"Wisconsin",2011,7.19,44.94
+"Wisconsin",2012,8.96,48.13
+"Wyoming",1900,6.13,43.04
+"Wyoming",1901,5.79,42.43
+"Wyoming",1902,5.09,41.16
+"Wyoming",1903,4.34,39.81
+"Wyoming",1904,5.37,41.67
+"Wyoming",1905,4.52,40.13
+"Wyoming",1906,4.84,40.71
+"Wyoming",1907,4.94,40.88
+"Wyoming",1908,4.63,40.33
+"Wyoming",1909,4.44,40.00
+"Wyoming",1910,6.06,42.91
+"Wyoming",1911,4.53,40.15
+"Wyoming",1912,3.67,38.61
+"Wyoming",1913,4.27,39.69
+"Wyoming",1914,5.37,41.66
+"Wyoming",1915,4.80,40.65
+"Wyoming",1916,3.83,38.89
+"Wyoming",1917,4.14,39.44
+"Wyoming",1918,4.93,40.88
+"Wyoming",1919,5.06,41.11
+"Wyoming",1920,4.43,39.97
+"Wyoming",1921,6.09,42.96
+"Wyoming",1922,4.43,39.98
+"Wyoming",1923,4.60,40.29
+"Wyoming",1924,4.13,39.43
+"Wyoming",1925,5.64,42.15
+"Wyoming",1926,5.63,42.13
+"Wyoming",1927,4.73,40.51
+"Wyoming",1928,4.85,40.73
+"Wyoming",1929,4.03,39.26
+"Wyoming",1930,5.02,41.03
+"Wyoming",1931,5.88,42.59
+"Wyoming",1932,4.42,39.95
+"Wyoming",1933,5.90,42.62
+"Wyoming",1934,7.33,45.20
+"Wyoming",1935,5.34,41.61
+"Wyoming",1936,5.48,41.86
+"Wyoming",1937,4.78,40.60
+"Wyoming",1938,5.77,42.38
+"Wyoming",1939,6.13,43.03
+"Wyoming",1940,6.18,43.12
+"Wyoming",1941,5.61,42.09
+"Wyoming",1942,4.81,40.66
+"Wyoming",1943,5.71,42.27
+"Wyoming",1944,4.51,40.12
+"Wyoming",1945,4.66,40.39
+"Wyoming",1946,5.88,42.58
+"Wyoming",1947,5.20,41.37
+"Wyoming",1948,4.94,40.89
+"Wyoming",1949,4.87,40.77
+"Wyoming",1950,4.84,40.72
+"Wyoming",1951,4.13,39.43
+"Wyoming",1952,5.21,41.37
+"Wyoming",1953,6.22,43.20
+"Wyoming",1954,6.45,43.61
+"Wyoming",1955,4.63,40.33
+"Wyoming",1956,5.40,41.72
+"Wyoming",1957,5.00,41.00
+"Wyoming",1958,5.91,42.63
+"Wyoming",1959,5.18,41.32
+"Wyoming",1960,5.36,41.65
+"Wyoming",1961,5.39,41.71
+"Wyoming",1962,5.45,41.80
+"Wyoming",1963,6.17,43.10
+"Wyoming",1964,4.61,40.29
+"Wyoming",1965,4.99,40.97
+"Wyoming",1966,5.50,41.90
+"Wyoming",1967,5.30,41.55
+"Wyoming",1968,4.76,40.56
+"Wyoming",1969,5.48,41.87
+"Wyoming",1970,5.08,41.15
+"Wyoming",1971,4.85,40.72
+"Wyoming",1972,4.95,40.91
+"Wyoming",1973,4.77,40.59
+"Wyoming",1974,5.52,41.94
+"Wyoming",1975,4.51,40.12
+"Wyoming",1976,5.54,41.98
+"Wyoming",1977,5.94,42.70
+"Wyoming",1978,4.47,40.05
+"Wyoming",1979,4.77,40.59
+"Wyoming",1980,5.82,42.47
+"Wyoming",1981,6.78,44.21
+"Wyoming",1982,4.56,40.22
+"Wyoming",1983,5.24,41.43
+"Wyoming",1984,4.62,40.32
+"Wyoming",1985,4.26,39.68
+"Wyoming",1986,6.03,42.85
+"Wyoming",1987,6.10,42.98
+"Wyoming",1988,6.21,43.17
+"Wyoming",1989,5.30,41.54
+"Wyoming",1990,5.68,42.22
+"Wyoming",1991,5.60,42.07
+"Wyoming",1992,6.03,42.85
+"Wyoming",1993,4.10,39.38
+"Wyoming",1994,6.24,43.24
+"Wyoming",1995,5.54,41.97
+"Wyoming",1996,5.18,41.32
+"Wyoming",1997,5.32,41.58
+"Wyoming",1998,6.04,42.88
+"Wyoming",1999,6.41,43.54
+"Wyoming",2000,6.09,42.96
+"Wyoming",2001,6.43,43.58
+"Wyoming",2002,5.42,41.75
+"Wyoming",2003,6.36,43.45
+"Wyoming",2004,6.00,42.80
+"Wyoming",2005,6.23,43.21
+"Wyoming",2006,6.43,43.57
+"Wyoming",2007,6.51,43.72
+"Wyoming",2008,5.07,41.12
+"Wyoming",2009,5.20,41.36
+"Wyoming",2010,5.76,42.36
+"Wyoming",2011,5.31,41.56
+"Wyoming",2012,7.31,45.15
