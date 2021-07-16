@@ -76,9 +76,9 @@ CREATE TABLE "state_data" (
 
 SELECT * FROM state_data;
 
---Join tables on state name
 SELECT climate_us_avg_tempF.state,climate_us_avg_tempF.year, 
 climate_us_avg_tempF.annual_avg_temp_f AS avg_temp,
 state_data.latitude, state_data.longitude
 FROM climate_us_avg_tempF
 INNER JOIN state_data ON climate_us_avg_tempF.state = state_data.city;
+
