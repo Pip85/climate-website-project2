@@ -1,4 +1,3 @@
-
 --Create table to hold climate dataset
 CREATE TABLE "climate" (
     "dt" varchar,   
@@ -76,7 +75,7 @@ CREATE TABLE "state_data" (
 
 SELECT * FROM state_data;
 
-SELECT climate_us_avg_tempF.state,climate_us_avg_tempF.year, 
+SELECT state_data.state AS abbr, climate_us_avg_tempF.state,climate_us_avg_tempF.year, 
 climate_us_avg_tempF.annual_avg_temp_f AS avg_temp,
 state_data.latitude, state_data.longitude
 FROM climate_us_avg_tempF
