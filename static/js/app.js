@@ -1,20 +1,87 @@
-// Pull csv data and call functions for dropdown and map creation
-// --------------------------------------------------------------------
+// function init() {
+//   d3.csv("static/data/cleaned_GlobalLandTemperaturesByState.csv").then ((stateData) => {
+//     stateData.forEach(function(num) {
+//       num.avg_temp = +num.avg_temp;
+//       }); 
+//   var states = stateData.map(st => st.state);
+//   var stateAbbr = stateData.map(st => st.abbr);
+//   var temp = stateData.map(t => t.avg_temp); 
+//   var initYear = "2012";
+//   createMap(states, stateAbbr, temp, initYear);
+//   dropdown(stateData);
+//   });  
+// }
 
-d3.csv("static/data/cleaned_GlobalLandTemperaturesByState.csv").then ((data) => {
-  var stateData = data;
-  stateData.forEach(function(num) {
-  num.avg_temp = +num.avg_temp;
-  });    
+// init();
+// d3.select("#selDataset").on("change", optionChanged);
+
+// function createMap (states, state_abbr, temp) {
+//   var cmap = [{
+//     type: 'choropleth',
+//     locationmode: 'USA-states',
+//     locations: state_abbr,
+//     z: temp,
+//     text: states,
+//     zmin: 15,
+//     zmax: 80,
+//     colorscale: 'Electric',
+//     colorbar: {
+//       title: 'Avg Temp',
+//       thickness: 10
+//     },
+//     marker: {
+//       line:{
+//       color: 'rgb(255,255,255)',
+//       width: 0.5
+//       }
+//     }
+//   }];
+
+//   var layout = {
+//     title: 'Average Annual Temperatures - 1900 - 2012',
+//     geo:{
+//       scope: 'usa',
+//     }
+//   };
+
+//   Plotly.newPlot("usmap", cmap, layout, {showLink: false});
+// }
+
+// function dropdown(stateData) {
+//   var selectYear = d3.select("#selDataset");
+//   var years = stateData.map(yr => yr.year);
+//   years.forEach((year) => (
+//     selectYear
+//     .append("option")
+//     .text(year)
+//     .property("value", year)
+//   ))
+//   console.log(selectYear);
+// } 
 
 
-// Pull csv data and call functions for dropdown and map creation
-// --------------------------------------------------------------------
+// function optionChanged() {
+//   var dropdownMenu = d3.select("#selDataset");
+//   var dataset = dropdownMenu.property("value");
+//   var yrSelVal = stateData.filter(function (y) {
+    //     return y.year === yearSelected;
+    //   })
+  // init();
+}
+
+
+
+
+
+
+//======================================================================
+// 
+//======================================================================
+
+//Pull csv data and call functions for dropdown and map creation
+//--------------------------------------------------------------------
 
 function init() {
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`Begin init ${t}`);
   d3.csv("static/data/cleaned_GlobalLandTemperaturesByState.csv").then ((data) => {
     var stateData = data;
     stateData.forEach(function(num) {
@@ -26,48 +93,26 @@ function init() {
 }
 init();
 
-// //--------------------------------------------------------------------
-// // Create drop down for year selection
-// //--------------------------------------------------------------------
-function dropdown(stateData) {
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`Begin dropdown ${t}`);
-  var selectYear = d3.select("#selDataset");
-  var years = stateData.map(yr => yr.year);
-  years.forEach((year) => (
-    selectYear
-    .append("option")
-    .text(year)
-    .property("value", year)
-  ))
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`end dropdown ${t}`);
-} 
+//--------------------------------------------------------------------
+//Create drop down for year selection
+//--------------------------------------------------------------------
 
-// // --------------------------------------------------------------------
-// // Add event listener and re-route to init function when triggered
-// // --------------------------------------------------------------------
+
+
+//--------------------------------------------------------------------
+//Add event listener and re-route to init function when triggered
+//--------------------------------------------------------------------
 function optionChanged(selection) {
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`Begin change ${t}`);
   console.log(selection);
   init();
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log("End Change");
 }
 
-// //--------------------------------------------------------------------
-// // Create US choropleth of avg annual temps
-// //--------------------------------------------------------------------
+//--------------------------------------------------------------------
+//Create US choropleth of avg annual temps
+//--------------------------------------------------------------------
 
 function mapData(stateData) {
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`Begin mapdata ${t}`);
+
   var selHtml = d3.select("#selDataset");
   var yearSelected = selHtml.property("value");
 
@@ -76,9 +121,24 @@ function mapData(stateData) {
   })
   // console.log(yrSelVal);
   var states = yrSelVal.map(st => st.state);
+  // console.log(states);
   var state_abbr = yrSelVal.map(st => st.abbr);
+  // console.log(state_abbr);
   var temp = yrSelVal.map(t => t.avg_temp);
-  var years = stateData.map(yr => yr.year);
+  // console.log(temp);
+
+  colors = [
+  [15, "rgb(242,240,247)"],
+  [20, "teal"],
+  [30, "green"],
+  [40, "yellow"],
+  [50, "orange"],
+  [60, "red"],
+  [70, "purple"]];
+
+  function unpack(rows, key) {
+    return rows.map(function(row) { return row[key]; });
+  }
  
   var cmap = [{
     type: 'choropleth',
@@ -103,154 +163,11 @@ function mapData(stateData) {
 
   var layout = {
     title: 'Average Annual Temperatures - 1900 - 2012',
+    // height: 500,  
     geo:{
       scope: 'usa',
-    }   
-  }
- 
-  Plotly.newPlot("usmap", cmap, layout);
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`End mapdata ${t}`);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var globalStateData;
-
-function readCsv() {
-  d3.csv("static/data/cleaned_GlobalLandTemperaturesByState.csv").then(function(stateData) {
-    // var stateData = data;
-    stateData.forEach(function(num) {
-    num.avg_temp = +num.avg_temp;
-    });
-  })
-  globalStateData = stateData;
-}
-
-function init() {
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`Begin init ${t}`);
-  // d3.csv("static/data/cleaned_GlobalLandTemperaturesByState.csv").then ((data) => {
-  //   var stateData = data;
-  //   stateData.forEach(function(num) {
-  //   num.avg_temp = +num.avg_temp;
-  //   });    
-  readCsv();
-  dropdown();
-  mapData(stateData);
-  // });
-}
-init();
-
-// //--------------------------------------------------------------------
-// // Create drop down for year selection
-// //--------------------------------------------------------------------
-function dropdown() {
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`Begin dropdown ${t}`);
-  var selectYear = d3.select("#selDataset");
-  var years = globalStateData.map(yr => yr.year);
-  years.forEach((year) => (
-    selectYear
-    .append("option")
-    .text(year)
-    .property("value", year)
-  ))
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`end dropdown ${t}`);
-} 
-
-// // --------------------------------------------------------------------
-// // Add event listener and re-route to init function when triggered
-// // --------------------------------------------------------------------
-function optionChanged(selection) {
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`Begin change ${t}`);
-  console.log(selection);
-  init();
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log("End Change");
-}
-
-// //--------------------------------------------------------------------
-// // Create US choropleth of avg annual temps
-// //--------------------------------------------------------------------
-
-function mapData(stateData) {
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`Begin mapdata ${t}`);
-  var selHtml = d3.select("#selDataset");
-  var yearSelected = selHtml.property("value");
-
-  var yrSelVal = stateData.filter(function (y) {
-    return y.year === yearSelected;
-  })
-  // console.log(yrSelVal);
-  var states = yrSelVal.map(st => st.state);
-  var state_abbr = yrSelVal.map(st => st.abbr);
-  var temp = yrSelVal.map(t => t.avg_temp);
-  var years = stateData.map(yr => yr.year);
- 
-  var cmap = [{
-    type: 'choropleth',
-    locationmode: 'USA-states',
-    locations: state_abbr,
-    z: temp,
-    text: states,
-    zmin: 15,
-    zmax: 80,
-    colorscale: 'Electric',
-    colorbar: {
-      title: 'Avg Temp',
-      thickness: 10
-    },
-    marker: {
-      line:{
-      color: 'rgb(255,255,255)',
-      width: 0.5
-      }
     }
-  }];
+  };
 
-  var layout = {
-    title: 'Average Annual Temperatures - 1900 - 2012',
-    geo:{
-      scope: 'usa',
-    }   
-  }
- 
-  Plotly.newPlot("usmap", cmap, layout);
-  var d = new Date();
-  var t = d.toLocaleTimeString();
-  console.log(`End mapdata ${t}`);
+  Plotly.newPlot("usmap", cmap, layout, {showLink: false});
 }
