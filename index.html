@@ -11,41 +11,25 @@
   <script src="https://cdn.plot.ly/plotly-geo-2.2.1.min.js"></script>
   <!-- <script type="text/javascript" src="static/js/config.js"></script> -->
   <!-- <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
-  <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' /> -->
+  <!-- <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' /> -->
 
   <script src="./static/js/app.js"></script>
   <script src="static/data/cleaned_GlobalLandTemperaturesByState.csv"></script>
   <link rel="stylesheet" href="static/css/style.css">
 
 </head>
-<!-- <style>.div-header{background-color: cadetblue;}
-  .well{background-color:#bef193;}
- </style> -->
+
 <body>
   <div class="container">
-    <div class="row">
-      <!-- <div class="col-md-2">
-        <div class="well">
-          <h5><b>Select Year:</b></h5>          
-          <select id="selDataset" onchange="optionChanged(this.value)"></select>      
-        </div>
-      </div> -->
+    <div class="row">    
       <div class="col-md-12">
         <div class="well">
           <h5 style="color:white;"><b>Select Year:</b></h5>          
           <select id="selDataset" onchange="optionChanged(this.value)"></select>         
         </div>    
         <div id="usmap"></div> 
-      </div>
-      <!-- <div class="col-md-4">
-        <div id="gauge"></div>
-      </div> -->
-    </div>
-    <!-- <div class="row">
-      <div class="col-md-12">
-        <div id="bubble"></div>
-      </div>
-    </div> -->
+      </div>      
+    </div>    
   </div>  
 </body>
 </html>
