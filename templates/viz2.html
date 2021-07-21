@@ -1,3 +1,9 @@
+<!-- =================================== READ ME ===================================== 
+Please refer to lines 102-117 to edit visualization
+Paste your code inside the === Visualizations === section
+Please save your App.js under static/js as App2.js (make sure app#.js consistent to viz page number)
+ ======================================= READ ME ===================================== -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,7 +12,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-  <title>Index</title>
+  <title>Visualization 2</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -33,7 +39,7 @@
   <!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
   <script src="https://cdn.plot.ly/plotly-geo-2.2.1.min.js"></script>
 
-  <script src="static/js/app.js"></script>
+  <script src="static/js/app2.js"></script>
   <script src="static/data/cleaned_GlobalLandTemperaturesByState.csv"></script>
 
   <!-- Template Main CSS File -->
@@ -45,10 +51,10 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+
 </head>
 
 <body>
-
   <!-- header -->
   <header id="header">
     <div class="container d-flex">
@@ -85,51 +91,92 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Visualization 1</h2>
+          <h2>Visualization 2</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li>Visualization 1</li>
+            <li>Visualization 2</li>
           </ol>
         </div>
       </div>
     </section><!-- End Breadcrumbs -->
-    <!-- ======= Visualization ======== -->
-    <section id="viz1" class="viz1">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="well">
-              <h5 style="color:white;"><b>Select Year:</b></h5>
-              <select id="selDataset" onchange="optionChanged(this.value)"></select>
-            </div>
-            <div id="usmap"></div>
-          </div>
 
+    <!-- ======================================================== Visualization ====================================================== -->
+    <!--------------------- TABLEAU DIV FOR HOT VS COLD MAP below ------------------------------------------->
+    <div class='tableauPlaceholder' id='viz1626648288170' style='position: relative'><noscript><a href='#'><img
+            alt=' 1900 '
+            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ho&#47;hotterVsColderYearOverYear&#47;Sheet1&#47;1_rss.png'
+            style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='hotterVsColderYearOverYear&#47;Sheet1' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+          value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ho&#47;hotterVsColderYearOverYear&#47;Sheet1&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+      </object></div>
+    <script type='text/javascript'>
+      var divElement = document.getElementById('viz1626648288170'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+    <div class='tableauPlaceholder' id='viz1626829929883' style='position: relative'><noscript><a href='#'><img
+            alt='Sheet 1 '
+            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;dataTable&#47;Sheet1&#47;1_rss.png'
+            style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='dataTable&#47;Sheet1' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+          value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;dataTable&#47;Sheet1&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+      </object></div>
+    <script type='text/javascript'>
+      var divElement = document.getElementById('viz1626829929883'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+    <!--============================================= End Visualization ======================================================-->
+
+
+    <!-- Next and Previous page buttons -->
+    <section id="pn" class="pn section">
+      <a href="viz1.html" class="previous round">&#8249;</a>
+      <a href="viz3.html" class="next round">&#8250;</a>
+    </section>
+    <!--End  P&N Buttons-->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+      </div>
+    </div>
+    <div class="container d-md-flex py-4">
+
+      <div class="mr-md-auto text-center text-md-left">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Flattern</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/ -->
+          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
         </div>
       </div>
-    </section><!-- End Visualization -->
-  </main><!-- End #main -->
-  
-  <!-- ======= Footer ======= -->
-<footer id="footer">
-  <div class="container"> 
-    <div class="row"> 
-      </div>
-      </div>
-<div class="container d-md-flex py-4">
-
-  <div class="mr-md-auto text-center text-md-left">
-    <div class="copyright">
-      &copy; Copyright <strong><span>Flattern</span></strong>. All Rights Reserved
     </div>
-    <div class="credits">
-      <!-- Licensing information: https://bootstrapmade.com/license/ -->
-      <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/ -->
-      Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-    </div>
-  </div>
-</div>
-</footer><!-- End Footer -->
+  </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
@@ -149,5 +196,6 @@
   <script src="static/js/main.js"></script>
 
 </body>
-<script>var bob = {var1} </script>
+<script>var bob = { var1 }</script>
+
 </html>

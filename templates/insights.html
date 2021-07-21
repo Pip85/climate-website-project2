@@ -1,3 +1,12 @@
+<!-- =================================== READ ME ===================================== 
+Please refer to lines 103-~220 to edit the code for the Table in the Insights action tab
+Edit ************ for each section
+To add an extra bulletpoint, add another <li></li> between the <ul></ul>
+To add line break add <br>
+Example: <li> Error: ______
+         <br> Fix: _______</li>
+ ======================================= READ ME ===================================== -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,7 +23,9 @@
   <link href="static/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Muli:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Muli:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -34,6 +45,12 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  <style>
+    table .center {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
 </head>
 
 <body>
@@ -83,8 +100,8 @@
       </div>
     </section><!-- End Breadcrumbs -->
 
-<!-- ========= Table ========== -->
-    <table class="table table-hover">
+    <!-- ================================ Table ================================= -->
+    <table class="table table-hover center">
       <thead>
         <tr>
           <th scope="col">Step</th>
@@ -93,81 +110,139 @@
         </tr>
       </thead>
       <tbody>
-        <tr class="table-active">
+        <tr class="table-success">
           <th scope="row">1</th>
           <td>Data Cleaning</td>
-          <td>Column content</td>
+          <td>
+            <ul>
+              <li>Import dataset into SQL</li>
+              <li>Drop empty columns</li>
+              <li>Focus on only United States</li>
+              <li>Filter years 1900-2012</li>
+              <li>Rename cell and remove extra text from cells</li>
+            </ul>
+          </td>
         </tr>
-        <tr class="table-success">
+        <tr class="table-danger">
           <th scope="row">2</th>
-          <td>Column content</td>
-          <td>Column content</td>
-        </tr>
-        <tr class="table-danger">
-          <th scope="row">3</th>
-          <td>Column content</td>
-          <td>Column content</td>
+          <td>Heat Map</td>
+          <td>
+            <ul>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+            </ul>
+          </td>
         </tr>
         <tr class="table-warning">
-          <th scope="row">4</th>
-          <td>Column content</td>
-          <td>Column content</td>
+          <th scope="row">3</th>
+          <td>Bar Graph</td>
+          <td>
+            <ul>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+            </ul>
+          </td>
         </tr>
         <tr class="table-info">
-          <th scope="row">5</th>
-          <td>Column content</td>
-          <td>Column content</td>
-        </tr>
-        <tr class="table-active">
-          <th scope="row">6</th>
-          <td>Column content</td>
-          <td>Column content</td>
+          <th scope="row">4</th>
+          <td>Line Graph</td>
+          <td>
+            <ul>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+            </ul>
+          </td>
         </tr>
         <tr class="table-success">
-          <th scope="row">7</th>
-          <td>Column content</td>
-          <td>Column content</td>
+          <th scope="row">5</th>
+          <td>Bubble Chart</td>
+          <td>
+            <ul>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+            </ul>
+          </td>
         </tr>
         <tr class="table-danger">
-          <th scope="row">8</th>
-          <td>Column content</td>
-          <td>Column content</td>
+          <th scope="row">6</th>
+          <td>HTML/CSS</td>
+          <td>
+            <ul>
+              <li>Created a total of 14 HTML pages with BootstrapMade template</li>
+              <li>Deleted unused HTMLs and cleaned all themes, colors, styles, containers, etc to fit project topic</li>
+              <li>Error: Trouble with styling when new elements were added in.
+                <br>Fix: Added containers and created a unique id for specific element within style.css</li>
+              <li>Error: Footer was not on the very bottom of the page
+                <br> Fix: Added postion in css (bottom: 0;)
+              </li>
+              <li>Added external links that lead reliable information about climate change</li>
+              <li>Uploaded infographics about climate change with source</li>
+              <li>Linked Github & Linkedin for each group member</li>
+            </ul>
+          </td>
         </tr>
         <tr class="table-warning">
-          <th scope="row">9</th>
-          <td>Column content</td>
-          <td>Column content</td>
+          <th scope="row">7</th>
+          <td>Flask</td>
+          <td>
+            <ul>
+              <li>Had an issue rendering template because I created the html pages before I used flask</li>
+              <li>Added an extra variable for the render_template to work</li>
+              <li>Routed all 14 HTML pages</li>
+            </ul>
+          </td>
         </tr>
         <tr class="table-info">
-          <th scope="row">10  </th>
-          <td>Column content</td>
-          <td>Column content</td>
+          <th scope="row">8</th>
+          <td>Finalization</td>
+          <td>
+            <ul>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+              <li>*************</li>
+            </ul>
+          </td>
         </tr>
       </tbody>
-    </table><!--End Table  -->
+    </table>
+    <!--========================== End Table ==========================-->
 
   </main><!-- End #main -->
 
-<!-- ======= Footer ======= -->
-<footer id="footer">
-  <div class="container"> 
-    <div class="row"> 
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
       </div>
-      </div>
-<div class="container d-md-flex py-4">
+    </div>
+    <div class="container d-md-flex py-4">
 
-  <div class="mr-md-auto text-center text-md-left">
-    <div class="copyright">
-      &copy; Copyright <strong><span>Flattern</span></strong>. All Rights Reserved
+      <div class="mr-md-auto text-center text-md-left">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Flattern</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/ -->
+          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        </div>
+      </div>
     </div>
-    <div class="credits">
-      <!-- Licensing information: https://bootstrapmade.com/license/ -->
-      <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/ -->
-      Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-    </div>
-  </div>
-</div>
-</footer><!-- End Footer -->
+  </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
@@ -187,5 +262,6 @@
   <script src="static/js/main.js"></script>
 
 </body>
-<script>var bob = {var1}</script>
+<script>var bob = { var1 }</script>
+
 </html>
