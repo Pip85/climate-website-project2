@@ -42,35 +42,35 @@ https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations
 
 ### **Data Cleaning:**<br>
 
-    Data was imported and cleaned using Postgres SQL.  Cleaning included:
-        > Source 1:
-           - Keeping U.S. data only
-            - Removing data from 1700's and 1800's due to incomplete data
-            - Removing additional characters included with Georgia
-            - Using monthly data to calculate average annual temperature by state
-            - Converting Celsius data into Fahrenheit
+Data was imported and cleaned using Postgres SQL.  Cleaning included:
+> **Source 1:**
+- Keeping U.S. data only
+- Removing data from 1700's and 1800's due to incomplete data
+- Removing additional characters included with Georgia
+- Using monthly data to calculate average annual temperature by state
+- Converting Celsius data into Fahrenheit
 
-        > Source 2:
-            - Data from this source was already clean.
-            - Once removing the additional characters included with
-            - Georgia from Source 1, this data source was joined
-                with Source 1 by state.
+> **Source 2:**
+- Data from this source was already clean.
+- Once removing the additional characters included with
+- Georgia from Source 1, this data source was joined
+    with Source 1 by state.
   
 **Link to cleaned data file on this repository:**<br>
 > https://github.com/Pip85/climate-website-project2/blob/main/static/data/cleaned_GlobalLandTemperaturesByState.csv
 
 ### **Website Development:**
-    The website was developed using HTML, CSS.  
-        > HTML files can be found here:
-        > https://github.com/Pip85/climate-website-project2/tree/main/templates
+The website was developed using HTML, CSS.  
+> HTML files can be found here:
+> https://github.com/Pip85/climate-website-project2/tree/main/templates
 
-        > CSS file can be found here:<br>
-        > https://github.com/Pip85/climate-website-project2/blob/main/static/css/style.css
+> CSS file can be found here:<br>
+> https://github.com/Pip85/climate-website-project2/blob/main/static/css/style.css
         
 
 ### **Website Rendering:**
-    > Done through Flask (app.py) and virtual server
-    > app.py can be found here: https://github.com/Pip85/climate-website-project2/blob/main/app.py
+> Done through Flask (app.py) and virtual server<br>
+> app.py can be found here: https://github.com/Pip85/climate-website-project2/blob/main/app.py
 
 ### **Visualizations:**
     
@@ -78,13 +78,15 @@ https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations
 - Choropleth map of the United States includes a dropdown to choose a year between 1900 and 2012.
 - The map colors are based on the average annual temperatures from the cleaned dataset.
 - Coding for the map was done in Javascript using Plotly.js.
-> Link: - ![US Choropleth](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-1.jpg)
+> Link:<br>
+![US Choropleth](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-1.jpg)
 
 
 > **Visualization 2:**
 - Heat map of the United States with autoplay of average annual temperatures
 between 1900 and 2012.  Map was done in Tableau.
-- Link: - ![US Heat map](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-2.jpg)
+- Link:<br>
+![US Heat map](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-2.jpg)
 - Table of average annual temperatures by state from the cleaned dataset.
 
 > **Visualization 3:**
@@ -93,5 +95,6 @@ between 1900 and 2012.  Map was done in Tableau.
 > **Visualization 4:**
 - Bubble chart showing the variance of average annual temperature of 1900 vs. 2012
 for each state.  The chart was build in Javascript using Plotly.js.
-- Link: - ![Bubble Chart](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-4.jpg)
+- Link:<br>
+![Bubble Chart](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-4.jpg)
     
