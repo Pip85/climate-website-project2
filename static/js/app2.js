@@ -1,4 +1,4 @@
-d3.csv("data/cleaned_GlobalLandTemperaturesByState.csv").then((data) => {
+d3.csv("static/data/cleaned_GlobalLandTemperaturesByState.csv").then((data) => {
     console.log(data);
 
     // Filtering data for the 3 years im interested in.
