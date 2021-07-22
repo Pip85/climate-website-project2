@@ -1,5 +1,5 @@
 # climate-website-project2
-![Climate Change](Ihttps://github.com/Pip85/climate-website-project2/blob/main/static/img/slide/slide-1.jpg)
+![Climate Change](https://github.com/Pip85/climate-website-project2/blob/main/static/img/slide/slide-1.jpg)
 This website examines both the impact of climate change
 and actions we can all take to reduce that impact.
 
@@ -90,5 +90,5 @@ Visualizations:
         Bubble chart showing the variance of average annual temperature of 1900 vs. 2012
         for each state.  The chart was build in Javascript using Plotly.js.
         Link:
-        ![Bubble Chart](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-4.jpg)
+        ![Bubble Chart](https://github.com/Pip85/climate-website-project2/blob/site_test/static/img/clients/client-4.jpg)
     
