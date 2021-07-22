@@ -88,5 +88,11 @@ def viz4():
     var1="hello"
     return render_template('viz4.html',var1=var1)
 
+@app.route("/viz5")
+@app.route("/viz5.html")
+def viz5():
+    var1="hello"
+    return render_template('viz5.html',var1=var1)
+
 if __name__ == "__main__":
     app.run(debug=True)
