@@ -112,5 +112,5 @@ for each state.
 - A stacked and double bar graph comparing average temperature between 1900 and 2012. 
 - Graph built in Javascript using D3/Plotly
 > Bar Graph:<br>
-![Bar Graph](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-5.jpg)
+![Bar Graph](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-5-full.jpg)
 
