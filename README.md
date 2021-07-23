@@ -25,15 +25,17 @@ https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations
   - Do Your Part: Learn more link
   - Links to Climate Change Websites
   - Links to Infographics with Climate Change Information
+  - Visualization Screenshot Carousel w/link to HTML
 - About Us
   - Goal and Resources
   - Requirements
   - Team Images and Information
--   The Change
+- The Change
       - Infographics from Home with Source Links
--   Insights
+- Insights
       - Development Process and Issues Outline
--   Visualizations
+      - Resources: All External and Image links referenced
+- Visualizations
       - Choropleth Map
       - Heat Map & Table of Temperatures
       - Line Chart
@@ -74,40 +76,41 @@ The website was developed using HTML, CSS.
 > app.py can be found here: https://github.com/Pip85/climate-website-project2/blob/main/app.py
 
 ### **Visualizations:**
-    
+ <strong> All Visualizations are in Fahrenheit </stong>
 > **Visualization 1:**
 - Choropleth map of the United States includes a dropdown to choose a year between 1900 and 2012.
 - The map colors are based on the average annual temperatures from the cleaned dataset.
 - Coding for the map was done in Javascript using Plotly.js.
-> Link:<br>
+> US Choropleth Map<br>
 ![US Choropleth](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-1.jpg)
 
 
 > **Visualization 2:**
 - Heat map of the United States with autoplay of average annual temperatures
-between 1900 and 2012.  Map was done in Tableau.
-- Link:<br>
+between 1900 and 2012 (A colored data chart is also included). 
+- Map was done in Tableau.
+> US Heat Map:<br>
 ![US Heat Map](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-2.jpg)
-- Table of average annual temperatures by state from the cleaned dataset.
-> Link:<br>
+> US Colored Data Chart:<br>
 ![US Color Chart](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-2-5.jpg)
-
+- Table of average annual temperatures by state from the cleaned dataset.
 
 > **Visualization 3:**
-- Heat map of the United States with autoplay of average annual temperatures
-between 1900 and 2012.  Map was done in Tableau.
-> Link:<br>
+- Line plot of the average temperature for each year and state in the US. 
+- Map was done in Tableau.
+> US Line Plot:<br>
 ![US Line Plot](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-3.jpg)
 
 > **Visualization 4:**
 - Bubble chart showing the variance of average annual temperature of 1900 vs. 2012
-for each state.  The chart was build in Javascript using Plotly.js.
-- Link:<br>
+for each state.  
+- The chart built in Javascript using D3/Plotly.
+> Bubble Chart:<br>
 ![Bubble Chart](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-4.jpg)
     
 > **Visualization 5:**
-- Bubble chart showing the variance of average annual temperature of 1900 vs. 2012
-for each state.  The chart was build in Javascript using Plotly.js.
-- Link:<br>
+- A stacked and double bar graph comparing average temperature between 1900 and 2012. 
+- Graph built in Javascript using D3/Plotly
+> Bar Graph:<br>
 ![Bar Graph](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-5.jpg)
 
