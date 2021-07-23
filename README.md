@@ -25,21 +25,23 @@ https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations
   - Do Your Part: Learn more link
   - Links to Climate Change Websites
   - Links to Infographics with Climate Change Information
-  - Visualization Screenshot Carousel w/link to HTML
+  - Visualization Screenshot Carousel w/Link to HTML
 - About Us
   - Goal and Resources
   - Requirements
   - Team Images and Information
 - The Change
-      - Infographics from Home with Source Links
+      - The Same Infographics from Home Page 
+      - Image Description with Source Link
 - Insights
       - Development Process and Issues Outline
-      - Resources: All External and Image links referenced
+      - Resources: All External and Image Links Referenced
 - Visualizations
       - Choropleth Map
       - Heat Map & Table of Temperatures
       - Line Chart
       - Bubble Chart
+      - (Extra) Bar Graph
 
 
 
