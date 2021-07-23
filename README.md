@@ -80,24 +80,34 @@ The website was developed using HTML, CSS.
 - The map colors are based on the average annual temperatures from the cleaned dataset.
 - Coding for the map was done in Javascript using Plotly.js.
 > Link:<br>
-![US Choropleth](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-1.jpg)
+![US Choropleth](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-1.jpg)
 
 
 > **Visualization 2:**
 - Heat map of the United States with autoplay of average annual temperatures
 between 1900 and 2012.  Map was done in Tableau.
 - Link:<br>
-![US Heat map](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-2.jpg)
+![US Heat Map](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-2.jpg)
 - Table of average annual temperatures by state from the cleaned dataset.
+> Link:<br>
+![US Color Chart](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-2-5.jpg)
+
 
 > **Visualization 3:**
-- Link:
+- Heat map of the United States with autoplay of average annual temperatures
+between 1900 and 2012.  Map was done in Tableau.
+> Link:<br>
+![US Line Plot](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-3.jpg)
 
 > **Visualization 4:**
 - Bubble chart showing the variance of average annual temperature of 1900 vs. 2012
 for each state.  The chart was build in Javascript using Plotly.js.
 - Link:<br>
-![Bubble Chart](https://github.com/Pip85/climate-website-project2/blob/main/static/img/clients/client-4.jpg)
+![Bubble Chart](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-4.jpg)
     
-
+> **Visualization 5:**
+- Bubble chart showing the variance of average annual temperature of 1900 vs. 2012
+for each state.  The chart was build in Javascript using Plotly.js.
+- Link:<br>
+![Bar Graph](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-5.jpg)
 
