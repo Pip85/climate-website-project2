@@ -122,3 +122,5 @@ for each state.
 > Bar Graph:<br>
 ![Bar Graph](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-5-full.jpg)
 
+> **Insights:**
+![Insights](https://github.com/Pip85/climate-website-project2/blob/main/static/img/insights.png)
