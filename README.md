@@ -35,17 +35,17 @@ https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/
   - Requirements
   - Team Images and Information
 - The Change
-      - The Same Infographics from Home Page 
-      - Image Description with Source Link
+  - The Same Infographics from Home Page 
+  - Image Description with Source Link
 - Insights
-      - Development Process and Issues Outline
-      - Resources: All External and Image Links Referenced
+  - Development Process and Issues Outline
+  - Resources: All External and Image Links Referenced
 - Visualizations
-      - Choropleth Map
-      - Heat Map & Table of Temperatures
-      - Line Chart
-      - Bubble Chart
-      - (Extra) Bar Graph
+   - Choropleth Map
+   - Heat Map & Table of Temperatures
+   - Line Chart
+   - Bubble Chart
+   - (Extra) Bar Graph
 
 
 
