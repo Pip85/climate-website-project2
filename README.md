@@ -20,6 +20,9 @@ https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-da
 **Resource 2:** U.S. states with latitude and longitude<br>
 https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations
 
+### **HTML Resources:**
+https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/
+
 - Home
   - Global Warming Image Carousel
   - Do Your Part: Learn more link
@@ -66,12 +69,14 @@ Data was imported and cleaned using Postgres SQL.  Cleaning included:
 
 ### **Website Development:**
 The website was developed using HTML, CSS.  
-> HTML files can be found here:
+> HTML files can be found here:<br>
 > https://github.com/Pip85/climate-website-project2/tree/main/templates
 
 > CSS files can be found here:<br>
 > https://github.com/Pip85/climate-website-project2/blob/main/static/css
         
+>Vendors by BootstrapMade can be found here:<br>
+>https://github.com/Pip85/climate-website-project2/tree/main/static/vendor
 
 ### **Website Rendering:**
 > Done through Flask (app.py) and virtual server<br>
