@@ -76,7 +76,7 @@ The website was developed using HTML, CSS.
 > app.py can be found here: https://github.com/Pip85/climate-website-project2/blob/main/app.py
 
 ### **Visualizations:**
- <strong> All Visualizations are in Fahrenheit </stong>
+ <strong> *All Visualizations are in Fahrenheit* </stong>
 > **Visualization 1:**
 - Choropleth map of the United States includes a dropdown to choose a year between 1900 and 2012.
 - The map colors are based on the average annual temperatures from the cleaned dataset.
@@ -93,7 +93,7 @@ between 1900 and 2012 (A colored data chart is also included).
 ![US Heat Map](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-2.jpg)
 > US Colored Data Chart:<br>
 ![US Color Chart](https://github.com/Pip85/climate-website-project2/blob/main/static/img/visualizations/viz-2-5.jpg)
-- Table of average annual temperatures by state from the cleaned dataset.
+- Colored table of average annual temperatures by state from the cleaned dataset.
 
 > **Visualization 3:**
 - Line plot of the average temperature for each year and state in the US. 
