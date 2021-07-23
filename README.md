@@ -69,8 +69,8 @@ The website was developed using HTML, CSS.
 > HTML files can be found here:
 > https://github.com/Pip85/climate-website-project2/tree/main/templates
 
-> CSS file can be found here:<br>
-> https://github.com/Pip85/climate-website-project2/blob/main/static/css/style.css
+> CSS files can be found here:<br>
+> https://github.com/Pip85/climate-website-project2/blob/main/static/css
         
 
 ### **Website Rendering:**
